@@ -1,0 +1,1000 @@
+ZZXP;AGR;ARC;AGRDESC;AGRDESCen;DESC;DESCen;PR1;Q1;PR2;Q2;PR3;Q3;PR4;Q4;PR5;Q5
+1;A6745;LT1010CN8PBF;AD Buffer LT_ DIP/DIL, SSOP, TO220-5;AD Buffers LT_ DIP/DIL, SSOP, TO220-5;Fast Power Buff 20MHz DIP8;Fast Power Buff 20MHz DIP8;4,95;1;4,05;10;3,6;50;3,47;100;3,33;200
+2;D1124;CH8010223K;Miniatur-Festinduktivitaeten Serie CH801;Fixed Inductors Series CH8010;Drossel 22mH 55mA 10x13mm;Inductor Radial 22mH 55mA 10x13mm;4,86;50;3,64;300;3,04;1000;2,85;3000;2,66;5000
+3;X6415;HFBR2521Z;BROADCOM Lichtwellenleiter-Empfänger-Mod;BROADCOM Fiber Optic Receiving Modules H;LWL-Empf.-Modul -43dBm 5Mb/s;Fiber Optic Rec. Module -43dBm 5Mb/s;8,59;1;6,44;5;5,37;20;5,14;50;4,92;100
+4;V5476;SMBJ9.0A;TSC SMD-Überspannungsschutzdioden 600W S;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 600W 9,0V SMB;SMD TVS Diode Unip 600W 9,0V SMB;14,14;50;8,14;200;6,14;1000;5,76;2500;5,39;5000
+5;D2291;TC685360330;Speicher- / Entstoerdrosseln Serie TC;Storage/EMI Suppression Chokes Series TC;Drossel 33uH 6,1A;Inductor 33uH 6,1A;19,17;10;13,11;50;10,09;100;8,92;200;7,76;500
+6;R2262;WEI11204500;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Plastic Cleaner 500 ml;Plastic Cleaner 500 ml;10,35;1;7,76;6;6,47;12;5,82;24;5,17;60
+7;R2262;WEI11206500;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Etikettenentferner 500 ml;Label Remover 500 ml;15,71;1;11,78;6;9,82;12;8,83;24;7,85;60
+8;R2262;WEI11208200;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Bildschirmreiniger 200 ml;Screen Cleaner 200 ml;9,35;1;7,01;6;5,84;12;5,26;24;4,67;60
+9;R2262;WEI11209400;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Schaumreiniger 400 ml;Foam Cleaner 400 ml;12,78;1;9,59;6;7,99;12;7,19;24;6,39;60
+10;Y4751;LPC1111FHN33/101;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 8kB Flash 50MHz HVQFN32;MC 32bit 1,8V 8kB Flash 50MHz HVQFN32;2,47;5;2,09;25;1,9;100;1,83;200;1,76;500
+11;Y4751;LPC1112FHN33/101;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 16kB Flash 50MHz HVQFN32;MC 32bit 1,8V 16kB Flash 50MHz HVQFN32;2,52;5;2,14;25;1,94;100;1,87;200;1,8;500
+12;Y4751;LPC1112FHN33/201;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 16kB Flash 50MHz HVQFN32;MC 32bit 1,8V 16kB Flash 50MHz HVQFN32;2,79;5;2,36;25;2,15;100;2,07;200;1,99;500
+13;Y4751;LPC1112FHN33/202;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 16kB Flash 50MHz HVQFN32;MC 32bit 1,8V 16kB Flash 50MHz HVQFN32;2,64;5;2,24;25;2,03;100;1,96;200;1,88;500
+14;U8311;SPA03N60C3;INFINEON Leistungs-MOSFETs SPA_, SPP_ TO;INFINEON Power MOSFETs SPA_, SPP_ TO220_;N-Ch 600V 3,2A 29,7W 1,4R TO220-Fullpak;N-Ch 600V 3,2A 29,7W 1,4R TO220-Fullpak;0,87;1;0,65;10;0,54;50;0,5;100;0,45;200
+15;R2262;WEI11210400;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Elektroreiniger 400 ml;Electro Contact Cleaner 400 ml;13,13;1;9,85;6;8,21;12;7,39;24;6,57;60
+16;R2262;WEI11212500;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Schnellreiniger 500 ml;Fast Cleaner 500 ml;13,66;1;10,25;6;8,54;12;7,69;24;6,83;60
+17;Y4751;LPC1113FBD48/301;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 24kB Flash 50MHz LQFP48;MC 32bit 1,8V 24kB Flash 50MHz LQFP48;3,49;5;2,96;25;2,69;100;2,59;200;2,49;500
+18;Y3755;ATXMEGA128A4U-AU;MICROCHIP 8/16Bit-AVR-ISP-Flash-Microcon;MICROCHIP 8/16Bit AVR ISP Flash Microcon;MC 8/16bit 1,6V 136kB Flash 32MHz TQFP44;MC 8/16bit 1,6V 136kB Flash 32MHz TQFP44;4,13;5;3,71;20;3,16;100;3,03;200;2,89;500
+19;E3347;B3F-3120;Serie B3F 6x6mm Leiterplattentaster;Series B3F 6x6mm Tact Switches;Mini-Taster print st. 3,85mm 1N;Tact Switch PC Vertical 3,85mm 1N;23,08;100;18,29;500;15,9;1000;14,92;3000;13,95;5000
+20;R2262;WEI11217400;WEICON Elektronik-Sprays: Reiniger;WEICON Electronic Sprays: Cleaner;Citrusreiniger 400 ml;Citrus Cleaner 400 ml;14,22;1;10,67;6;8,89;12;8;24;7,11;60
+21;E2411;DS1;Drehschalter 6 mm Achse, nicht brückend;Rotary Switches 6mm Axis, Non Shorting;Drehschalter 1x12 Lötöse;Rotary Switch 1x12 Solder Lug;2,05;5;1,55;50;1,3;100;1,24;200;1,18;500
+22;R2274;WEI11551400;WEICON Technische Sprays;WEICON Technical Sprays;Isolierspray 400 ml;Isolation Spray 400 ml;24,82;1;18,62;6;15,52;12;13,96;24;12,41;60
+23;Y4751;LPC1114FBD48/301;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 32kB Flash 50MHz LQFP48;MC 32bit 1,8V 32kB Flash 50MHz LQFP48;3,79;5;3,2;25;2,91;100;2,8;200;2,7;500
+24;Y3757;ATTINY25-20SSU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 2,7V 2kB Flash 20MHz SO8;MC 8bit 2,7V 2kB Flash 20MHz SO8;0,8;5;0,72;50;0,61;200;0,58;500;0,56;1000
+25;R2274;WEI11610400;WEICON Technische Sprays;WEICON Technical Sprays;Kälte-Spray 400 ml;Freeze Spray 400 ml;18,1;1;13,57;6;11,31;12;10,18;24;9,05;60
+26;R2274;WEI11620400;WEICON Technische Sprays;WEICON Technical Sprays;Druckluft-Spray 400 ml;Compressed-Air Spray 400 ml;18,1;1;13,57;6;11,31;12;10,18;24;9,05;60
+27;R2275;WEI11152400;WEICON Rostlöser und Trennmittel;WEICON Rust Remover and Relaease Agents;Kontakt-Spray 400 ml;Contact Spray 400 ml;6,57;1;4,92;6;4,1;12;3,69;24;3,28;60
+28;R2275;WEI11251550;WEICON Rostlöser und Trennmittel;WEICON Rust Remover and Relaease Agents;W 44 T® Multi-Spray 500 ml;W 44 T® Multi-Spray 500 ml;11,23;1;8,42;6;7,02;12;6,32;24;5,61;60
+29;R2275;WEI11253400;WEICON Rostlöser und Trennmittel;WEICON Rust Remover and Relaease Agents;W 44 T®-Fluid 400 ml;W 44 T®-Fluid 400 ml;11,16;1;8,37;6;6,97;12;6,28;24;5,58;60
+30;R2276;WEI11301400;WEICON Schmier- und Funktionsöle;WEICON Lubricants and Multifunctional Oi;PTFE-Fluid 400 ml;PTFE-Fluid 400 ml;24,57;1;18,43;6;15,36;12;13,82;24;12,28;60
+31;R2276;WEI11351400;WEICON Schmier- und Funktionsöle;WEICON Lubricants and Multifunctional Oi;Silicon-Fluid 400 ml;Silicone Fluid 400 ml;16,52;1;12,39;6;10,32;12;9,29;24;8,26;60
+32;R2287;WEI11553400;WEICON Technische Sprays;WEICON Technical Sprays;Universal Dicht-Spray 400 ml weiß;Allround Sealing Spray 400ml WH;19,26;1;14,44;6;12,04;12;10,83;24;9,63;60
+33;M5271;HNP12-120V2;HN-Power HNP12-V2 Stecker-SNT 12W;HN-Power HNP12-V2 Plug-In SPS 12W;Stecker-SNT Slim 12W 12V/1A;SPS Plug-in Slim 12W 12V/1A;6,07;1;5,13;5;4,67;20;4,46;50;4,24;100
+34;W4729;DEM16216FGH-PRGB;display elektronik LCD-Dot-Matrix-Module;display elektronik LCD-Dot-Matrix-Module;FSTN 16x2 schw./RGB LED-Backl.;FSTN 16x2 Black/RGB LED-Backl.;21,86;1;16,81;5;14,3;10;13,42;25;12,53;50
+35;R2287;WEI11554400;WEICON Technische Sprays;WEICON Technical Sprays;Universal Dicht-Spray 400 ml sw;Allround Sealing Spray 400ml BK;19,26;1;14,44;6;12,04;12;10,83;24;9,63;60
+36;Y4455;MSP430F1232IRHBR;TI 16Bit-Flash/FRAM-Microcontroller MSP4;TI 16Bit Flash/FRAM Microcontrollers MSP;MC 16bit 1,8V 8kB Flash 8MHz VQFN32;MC 16bit 1,8V 8kB Flash 8MHz VQFN32;2,11;5;1,79;25;1,63;100;1,57;200;1,5;500
+37;E3344;DTS644N;Leiterplattentaster 6x6mm 1,6N;Tact Switches 6x6mm 1,6N;Mini-Taster print liegend 7,3mm 1,6N;Tact Switch PC Horizontal 7,3mm 1,6N;12,62;100;9,47;500;7,89;1000;7,1;3000;6,31;5000
+38;E3346;DTS63R;Leiterplattentaster 6x6mm 2,6N;Tact Switches 6x6mm 2,6N;Mini-Taster print liegend 7,0mm 2,6N;Tact Switch PC Horizontal 7,0mm 2,6N;12,25;100;9,19;500;7,66;1000;6,89;3000;6,12;5000
+39;M5271;HNP12-090V2;HN-Power HNP12-V2 Stecker-SNT 12W;HN-Power HNP12-V2 Plug-In SPS 12W;Stecker-SNT Slim 12W 9V/1,33A;SPS Plug-in Slim 12W 9V/1,33A;6,07;1;5,13;5;4,67;20;4,46;50;4,24;100
+40;R2287;WEI11555400;WEICON Technische Sprays;WEICON Technical Sprays;Universal Dicht-Spray 400 ml grau;Allround Sealing Spray 400ml GR;19,26;1;14,44;6;12,04;12;10,83;24;9,63;60
+41;E4355;ITS-LZ1335Z-24;Elektromagnete Zylinderform Serie ITS-LZ;Solenoid Cylindrical Type ITS-LZ;El. Zylindermagnet 1335 Z 24V;Solenoid Cylindric 1335 Z 24V;12,57;1;11,6;5;10,73;10;10,54;25;10,35;50
+42;C6625;CAX02200/40;F&T Elkos axial 40V 20%;F&T Alu-Electrolytic Caps Axial 40V 20%;Elko axial 2200uF 40V 18x30mm;El-Capacitor 2200uF 40V 18x30mm;149,53;25;118,53;100;103,03;500;96,71;1000;90,39;3000
+43;C6629;CAX00022/450;F&T Elkos axial 450V 20%;F&T Alu-Electrolytic Caps Axial 450V 20%;Elko axial 22uF 450V 16x30mm;El-Capacitor 22uF 450V 16x30mm;137,07;25;108,65;100;94,44;500;88,65;1000;82,86;3000
+44;M5271;HNP12-050V2;HN-Power HNP12-V2 Stecker-SNT 12W;HN-Power HNP12-V2 Plug-In SPS 12W;Stecker-SNT Slim 12W 5V/2,4A;SPS Plug-in Slim 12W 5V/2,4A;6,07;1;5,13;5;4,67;20;4,46;50;4,24;100
+45;R2287;WEI11640150;WEICON Technische Sprays;WEICON Technical Sprays;Rauchmelder-Testspray 150 ml;Smoke Detector Test Spray 150 ml;19,35;1;14,51;6;12,09;12;10,88;24;9,67;60
+46;C5422;CL10C471JB8NNNC;SMD-Keramik-Vielschicht-Ko's NPO;SMD Ceramic Multilayer Capacitors NPO;SMD-Vs-Kond 470pF 50V NPO 0603;SMD MLC Capacitor 470pF 50V NPO 0603;1,12;500;0,77;4000;0,59;8000;0,52;16000;0,46;40000
+47;M5255;HNP07-120V2;HN-Power HNP07-V2 Stecker-SNT 7,5W;HN-Power HNP07-V2 Plug-In SPS 7,5W;Stecker-SNT Slim 7,5W 12V/0,63A;SPS Plug-in Slim 7,5W 12V/0,63A;5,19;1;4,39;5;3,99;20;3,81;50;3,63;100
+48;U8324;IRLZ34NPBF;INFI Leistungs-MOSFETs IRF_, IRL_ TO220A;INFI Power MOSFETs IRF_, IRL_ TO220AB;N-LogL 55V 30A 68W 0,035R TO220AB;N-LogL 55V 30A 68W 0,035R TO220AB;35,58;10;26,69;50;22,24;200;21,41;500;20,59;1000
+49;C5442;CL21B474KOFNNNG;SMD-Keramik-Vielschicht-Ko's X7R;SMD Ceramic Multilayer Capacitors X7R;SMD-Vs-Kond 470nF 16V X7R 0805;SMD MLC Capacitor 470nF 16V X7R 0805;1,76;500;1,2;4000;0,93;8000;0,82;16000;0,71;40000
+50;G2633;HF101BL;PVC-Messleitungen 4mm-Stecker 100cm;PVC Test Leads, 4mm Jack, 100cm;PVC-Messleitung 1m blau;PVC Test Lead 1m Blue;3,36;5;2,84;25;2,58;50;2,46;100;2,35;200
+51;Y3755;ATXMEGA256A3U-AU;MICROCHIP 8/16Bit-AVR-ISP-Flash-Microcon;MICROCHIP 8/16Bit AVR ISP Flash Microcon;MC 8/16bit 1,6V 264kB Flash 32MHz TQFP64;MC 8/16bit 1,6V 264kB Flash 32MHz TQFP64;5,61;5;5,05;20;4,3;100;4,11;200;3,93;500
+52;K9156;FE80FI30;Ersatzfilterelemente;Filter Elements for Plastic Finger Guard;Ersatzelement für LFT80FI30;Replacement Element for LFT80FI30;31,9;5;26,1;50;23,2;100;21,75;200;20,3;500
+53;Y7795;LM555D-SMD;Timer-ICs ICM755_, TS55_ DIP/DIL, SO;Timer ICs ICM755_, TS55_ DIP/DIL, SO;IC OSC SGL TIMER 100KHZ 8-SOIC;Timer NMOS SO8;30;25;20;100;10,56;300;10,07;1000;9,6;3000
+54;R3112;UB2500HT-30;Contact-Universal-Schnellkleber + Grundi;Universal Instant Bonding Adhesives;Cyan-Kleber hochviskos 30g Pen;Cyan Adhesive High Viscosity 30g Pen;37,24;1;27,93;5;23,27;10;20,95;25;18,62;50
+55;R3112;UB250SW-30;Contact-Universal-Schnellkleber + Grundi;Universal Instant Bonding Adhesives;Cyan-Kleber hochviskos 30g Pen schwarz;Cyan Adhesive High Viscosity 30g  Pen BK;27,54;1;20,65;5;17,21;10;15,49;25;13,77;50
+56;R3112;UB807;Contact-Universal-Schnellkleber + Grundi;Universal Instant Bonding Adhesives;Cyan-Kleber mittelviskos 3g Tube;Cyan Adhesive Medium Viscosity 3g Tube;5,06;1;3,79;5;3,16;10;2,84;25;2,53;50
+57;R3112;UB807-12;Contact-Universal-Schnellkleber + Grundi;Universal Instant Bonding Adhesives;Cyan-Kleber mittelviskos 12g Pen;Cyan Adhesive Medium Viscosity 12g Pen;7,26;1;5,45;5;4,54;10;4,08;25;3,63;50
+58;R3112;UB807-30;Contact-Universal-Schnellkleber + Grundi;Universal Instant Bonding Adhesives;Cyan-Kleber mittelviskos 30g Pen;Cyan Adhesive Medium Viscosity 30g Pen;13,9;1;10,42;5;8,69;10;7,82;25;6,95;50
+59;G8233;KDI6M3X10-ESS;Distanzbolzen Polyamid M3 2xInnengewinde;Spacers Polyamid M3 2x Inside Thread;PA-Distanzbolzen 10mm M3 2xInnen;PA Spacers 10mm M3 2xInside;13,86;100;10,39;500;8,66;1000;8,13;3000;7,6;5000
+60;K1151;MEC0252V2-A99;SUNON DC-Axiallüfter Serie ME/EE 120x120;Sunon DC Axial Fan Series ME/EE 120x120x;Lüfter 24V 120x25 V 157,9m³/h 40,5dBA;Fan 24V 120x25 V 157,9m³/h 40,5dBA;8,6;1;6,54;20;5,51;40;5,16;240;4,82;480
+61;K1251;EE92251B1-A99;SUNON DC-Axiallüfter Serie ME/EE 92x92x2;Sunon DC Axial Fan ME/EE Series 92x92x25;Lüfter 12V 92x25 K 87,4m³/h 34dBA;Fan 12V 92x25 B 87,4m³/h 34dBA;4,62;1;3,51;25;2,96;50;2,77;250;2,59;500
+62;K1561;MF60151V31000UA99;SUNON DC-Axiallüfter Serie ME 60x60x15mm;SUNON DC Axial Fan ME Series 60x60x15mm;Lüfter 12V 60x15 V 29,9m³/h 21,3dBA;Fan 12V 60x15 V 29,9m³/h 21,3dBA;3,91;5;3,01;50;2,56;100;2,41;200;2,26;500
+63;A6495;TL072CP;FET- und CMOS-Operationsverstärker CA_,;FET and CMOS Operational Amplifiers CA_,;2xOp-Amp JFET +-18V LN 13V/us DIP8;2xOp-Amp JFET +-18V LN 13V/us DIP8;27,77;100;23,14;300;20,92;500;20,27;1000;19,62;3000
+64;R5138;SACXPLUS0307AS05-2;Lötdraht Fluitin AS SACX0307 3,3%, bleif;Solder Wire Fluitin AS SACX0307 3,3%;AS SACXPLUS0307 3,3% 0,50mm 250g;AS SACXPLUS0307 3,3% 0,50mm 250g;28,81;1;22,84;5;19,85;10;18,63;25;17,41;50
+65;C6399;EEUEE2G820;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 82uF 400V 18x31,5mm RM7,5;El-Capacitor 82uF 400V 18x31,5mm P7,5;179,17;10;151,57;100;137,88;500;131,57;1000;125,25;2000
+66;C6399;EEUEE2E221;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 220uF 250V 18x40mm RM7,5;El-Capacitor 220uF 250V 18x40mm P7,5;235,33;10;199,08;100;181,11;500;172,81;1000;164,52;2000
+67;C6399;EEUEE2D331;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 330uF 200V 18x40mm RM7,5;El-Capacitor 330uF 200V 18x40mm P7,5;235,33;10;199,08;100;181,11;500;172,81;1000;164,52;2000
+68;C6397;EEUFC1J182;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 1800uF 63V 18x40mm RM7,5;El-Capacitor 1800uF 63V 18x40mm P7,5;169,29;25;143,21;100;130,28;500;124,31;1000;118,35;5000
+69;C6397;EEUFC1J122;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 1200uF 63V 18x31,5mm RM7,5;El-Capacitor 1200uF 63V 18x31,5mm P7,5;125,58;25;106,23;100;96,64;500;92,22;1000;87,79;5000
+70;C6399;EEUEE2G470S;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 47uF 400V 18x20mm RM7,5;El-Capacitor 47uF 400V 18x20mm P7,5;103,84;10;87,84;100;79,91;500;76,25;1000;72,59;2000
+71;C6399;EEUEE2E151;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 150uF 250V 18x31,5mm RM7,5;El-Capacitor 150uF 250V 18x31,5mm P7,5;163,14;10;138,01;100;125,55;500;119,8;1000;114,05;2000
+72;C6399;EEUEE2D151;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 150uF 200V 16x25mm RM7,5;El-Capacitor 150uF 200V 16x25mm P7,5;93,61;10;79,19;100;72,04;500;68,74;1000;65,44;2000
+73;C6399;EEUEE2C331;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 330uF 160V 18x31,5mm RM7,5;El-Capacitor 330uF 160V 18x31,5mm P7,5;163,14;10;138,01;100;125,55;500;119,8;1000;114,05;2000
+74;C6363;ECA2EM101;Panasonic Elektrolyt-Kondensatoren radia;Panasonic Electrolytic Capacitors Radial;Elko 100uF 250V 16x31,5mm RM7,5;El-Capacitor 100uF 250V 16x31,5mm P7,5;92,12;10;77,93;50;70,89;250;67,65;500;64,4;1000
+75;A6496;TLC272AID-GURT;SMD-FET- und CMOS-Operationsverstärker F;SMD FET and CMOS Operational Amplifiers;2xOp-Amp CMOS 4..16V LP LN SO8;2xOp-Amp CMOS 4..16V LP LN SO8;72,45;100;60,38;300;54,58;500;52,89;1000;51,2;3000
+76;E1268;ERFSD014602RZ;ECE ERFSL/SD Selbstrückstellende Sicheru;ECE ERFSL/SD Series PTC Fuses;SMD-PTC-Sicherung 60V 0,14A 1812;SMD PTC Fuse 60V 0,14A 1812;19,18;10;13,12;100;10,09;1000;9,25;3000;8,41;5000
+77;M5275;HNP18-240V2;HN-Power HNP18-V2 Stecker-SNT 18W;HN-Power HNP18-V2 Plug-In SPS 18W;Stecker-SNT 18W 24V/0,75A;SPS Plug-in 18W 24V/0,75A;8;1;6,77;5;6,16;20;5,88;50;5,6;100
+78;E1268;ERFSL185332RZ;ECE ERFSL/SD Selbstrückstellende Sicheru;ECE ERFSL/SD Series PTC Fuses;SMD-PTC-Sicherung 33V 1,85A 2920;SMD PTC Fuse 33V 1,85A 2920;19,18;10;13,12;100;10,09;1000;9,25;3000;8,41;5000
+79;B5465;MAX660CSA+T;MAXIM DC/DC-Wandler MAX_ DIP/DIL, SO, µM;MAXIM DC/DC Converters MAX_ DIP/DIL, SO,;U-Conv 1,5-5,5V SO8;U-Conv 1,5-5,5V SO8;1,55;5;1,27;25;1,13;100;1,09;200;1,05;500
+80;C6397;EEUFC1V182;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 1800uF 35V 16x25mm RM7,5;El-Capacitor 1800uF 35V 16x25mm P7,5;78,79;25;66,65;100;60,64;500;57,86;1000;55,08;5000
+81;R3113;WEI14050319;WEICON Klebeband;WEICON Adhesive Tape;Montage-Klebeband grau;Mounting Tape Grey;18,33;1;13,75;6;11,46;12;10,31;24;9,16;60
+82;R3113;WEI14100319;WEICON Klebeband;WEICON Adhesive Tape;Montage-Klebeband transparent;Mounting Tape Transparent;14,04;1;10,53;6;8,77;12;7,9;24;7,02;60
+83;E1268;ERFSL050602RZ;ECE ERFSL/SD Selbstrückstellende Sicheru;ECE ERFSL/SD Series PTC Fuses;SMD-PTC-Sicherung 60V 0,50A 2920;SMD PTC Fuse 60V 0,50A 2920;19,18;10;13,12;100;10,09;1000;9,25;3000;8,41;5000
+84;V1771;S1ML;TSC SMD-Si-Gleichrichterdioden 1A S1_L,;TSC SMD Si-Rectifier Diodes 1A S1_L, S1_;SMD-Si-Gleichr 1000V 1A Sub-SMA;SMD Si-Rectifier Diode 1000V 1A Sub-SMA;3,45;500;2,59;2500;2,15;7500;2,06;15000;1,96;30000
+85;E4355;ITS-LZ1949Z-12;Elektromagnete Zylinderform Serie ITS-LZ;Solenoid Cylindrical Type ITS-LZ;El. Zylindermagnet 1949 Z 12V;Solenoid Cylindric 1949 Z 12V;14,05;1;13,18;5;12,33;10;12,09;25;11,86;50
+86;R3321;AN30243-20;Schraubensicherungslack;Anaerobic Adhesives and Sealants;WEICONLOCK AN302-43 20ml Pen;WEICONLOCK AN302-43 20ml Pen;18;1;13,5;5;11,25;10;10,13;25;9;50
+87;T4421;AWM-S4-28;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Kabelmesser No.S4-28;Cable Stripper No.S4-28;18,47;1;13,85;6;11,54;12;10,39;24;9,23;60
+88;T4421;AWM16;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Universal-Kabelmesser No.4-16;Universal Cable Stripper No.4-16;10,51;1;7,88;6;6,57;12;5,91;24;5,25;60
+89;Y3856;PIC16C73B-04/SP;MICROCHIP 8Bit-Microcontroller PIC16x7_;MICROCHIP 8Bit Microcontrollers PIC16x7_;4Kx14 OTP 22I/O 4MHz SDIP28;4Kx14 OTP 22I/O 4MHz SDIP28;6,42;1;5,09;10;4,43;50;4,26;100;4,1;200
+90;C6735;EEEFK1C220UR;Alu Elko SMD Serie FK_P/R;Alu El-Cap SMD Series FK_P/R;SMD-Elko 22uF 16V 4x5,8mm;SMD El-Capacitor 22uF 16V 4x5,8mm;6,04;100;5,11;500;4,65;1000;4,43;3000;4,22;5000
+91;V5874;TLD5S10AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 10V DO218AB;SMD TVS Diode Unip 3600W 10V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+92;V5874;TLD5S15AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 15V DO218AB;SMD TVS Diode Unip 3600W 15V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+93;V5874;TLD5S18AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 18V DO218AB;SMD TVS Diode Unip 3600W 18V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+94;T4421;AWM28;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Universal-Kabelmesser No.4-28H;Universal Cable Stripper No.4-28H;11,53;1;8,65;6;7,21;12;6,49;24;5,77;60
+95;T4421;AWM28MULTI;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Kabelmesser No.S4-28 Multi;Cable Stripper No.S4-28 Multi;19,86;1;14,89;6;12,41;12;11,17;24;9,93;60
+96;C2110;PT6HE500;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 500R;Trimmer Side Adjust P2,5/5 500R;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+97;C2110;PT6HK001;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 1K;Trimmer Side Adjust P2,5/5 1K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+98;C2110;PT6HK002.5;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 2K5;E-Regler stehend RM2,5/5 2K5;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+99;C2110;PT6HK005;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 5K;Trimmer Side Adjust P2,5/5 5K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+100;C2110;PT6HK010;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 10K;Trimmer Side Adjust P2,5/5 10K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+101;C2110;PT6HK025;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 25K;Trimmer Side Adjust P2,5/5 25K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+102;C2110;PT6HK050;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 50K;Trimmer Side Adjust P2,5/5 50K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+103;C2110;PT6HK100;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 100K;Trimmer Side Adjust P2,5/5 100K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+104;C2110;PT6HK250;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 250K;Trimmer Side Adjust P2,5/5 250K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+105;C2110;PT6HK500;Trimmer PT6h stehend RM2,5/5mm;Trimmers PT6h Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 500K;Trimmer Side Adjust P2,5/5 500K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+106;C2115;PT6VE500;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 500R;Trimmer Top Adjust P5/5 500R;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+107;C2115;PT6VK001;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 1K;Trimmer Top Adjust P5/5 1K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+108;C2115;PT6VK002.5;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 2K5;E-Regler liegend RM5/5 2K5;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+109;C2115;PT6VK005;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 5K;Trimmer Top Adjust P5/5 5K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+110;C2115;PT6VK010;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 10K;Trimmer Top Adjust P5/5 10K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+111;C2115;PT6VK025;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 25K;Trimmer Top Adjust P5/5 25K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+112;Y3856;PIC16F722-I/SP;MICROCHIP 8Bit-Microcontroller PIC16x7_;MICROCHIP 8Bit Microcontrollers PIC16x7_;2Kx14 Flash 25I/O 20MHz SDIP28;2Kx14 Flash 25I/O 20MHz SDIP28;1,8;1;1,43;10;1,24;50;1,2;100;1,15;200
+113;D2333;SMCM453232-220K;SMD-Induktivitäten Serie SMCM453232;CTC SMD Inductors Series SMCM453232;SMD-Drossel 22uH 180mA;SMD Inductor 22uH 180mA;19,41;50;14,56;300;12,13;1000;11,39;3000;10,64;5000
+114;T4421;AWZ13;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Rundkabel-Stripper No.13;Round Cable Stripper No.13;15,08;1;11,31;6;9,43;12;8,48;24;7,54;60
+115;T4421;AWZ2;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Koaxial-Abisolierer No.2;Coax Cable Stripper No.2;16,77;1;12,58;6;10,48;12;9,44;24;8,39;60
+116;T4421;AWZ30;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Data-Strip No.30;Data-Strip No.30;37,51;1;28,14;6;23,45;12;21,1;24;18,76;60
+117;Y3856;PIC16F74-I/L;MICROCHIP 8Bit-Microcontroller PIC16x7_;MICROCHIP 8Bit Microcontrollers PIC16x7_;4Kx14 Flash 33I/O 20MHz PLCC44;4Kx14 Flash 33I/O 20MHz PLCC44;7,53;1;5,97;10;5,19;50;5;100;4,81;200
+118;C2115;PT6VK050;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 50K;Trimmer Top Adjust P5/5 50K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+119;C2115;PT6VK100;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 100K;Trimmer Top Adjust P5/5 100K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+120;C2115;PT6VK250;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 250K;Trimmer Top Adjust P5/5 250K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+121;C2115;PT6VK500;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 500K;Trimmer Top Adjust P5/5 500K;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+122;T4421;AWZ5;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Abisolierzange No.5;Wire Stripper No.5;22,09;1;16,56;6;13,8;12;12,42;24;11,04;60
+123;T4421;WEI51000002;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;WEICON Präzisions-Abisolierer S;Precision Wire Stripper S;39,72;1;29,79;6;24,82;12;22,34;24;19,86;60
+124;C2115;PT6VM001;Trimmer PT6v liegend RM5/5mm;Trimmers PT6v Top Adjust P5/5mm;E-Regler liegend RM5/5 1M;Trimmer Top Adjust P5/5 1M;30,07;25;23,85;100;20,75;500;19,8;1000;18,85;3000
+125;C2120;PT10HE100;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 100R;Trimmer Side Adjust P2,5/5 100R;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+126;C2120;PT10HE250;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 250R;Trimmer Side Adjust P2,5/5 250R;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+127;C2120;PT10HE500;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 500R;Trimmer Side Adjust P2,5/5 500R;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+128;C2120;PT10HK001;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 1K;Trimmer Side Adjust P2,5/5 1K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+129;C2120;PT10HK002.5;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/2 2K5;E-Regler stehend RM2,5/2 2K5;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+130;C2120;PT10HK005;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 5K;Trimmer Side Adjust P2,5/5 5K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+131;V5874;TLD5S26AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 26V DO218AB;SMD TVS Diode Unip 3600W 26V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+132;V5874;TLD5S30AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 30V DO218AB;SMD TVS Diode Unip 3600W 30V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+133;V5874;TLD5S33AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 33V DO218AB;SMD TVS Diode Unip 3600W 33V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+134;V5874;TLD5S36AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 36V DO218AB;SMD TVS Diode Unip 3600W 36V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+135;V5874;TLD5S43AH;TSC SMD-Überspannungsschutzdioden 3600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 3600W 43V DO218AB;SMD TVS Diode Unip 3600W 43V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+136;V5875;TLD6S10AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 10V DO218AB;SMD TVS Diode Unip 4600W 10V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+137;T4421;WEI52000001;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Coax-Stripper No1FPlus F-Schraubstecker;Coax-Stripper No1FPlus F-Screw Connector;26,47;1;19,85;6;16,54;12;14,89;24;13,24;60
+138;C2120;PT10HK010;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 10K;Trimmer Side Adjust P2,5/5 10K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+139;V5875;TLD6S15AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 15V DO218AB;SMD TVS Diode Unip 4600W 15V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+140;V5875;TLD6S18AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 18V DO218AB;SMD TVS Diode Unip 4600W 18V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+141;V5875;TLD6S26AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 26V DO218AB;SMD TVS Diode Unip 4600W 26V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+142;V5875;TLD6S30AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 30V DO218AB;SMD TVS Diode Unip 4600W 30V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+143;M5255;HNP07-090V2;HN-Power HNP07-V2 Stecker-SNT 7,5W;HN-Power HNP07-V2 Plug-In SPS 7,5W;Stecker-SNT Slim 7,5W 9V/0,84A;SPS Plug-in Slim 7,5W 9V/0,84A;5,19;1;4,39;5;3,99;20;3,81;50;3,63;100
+144;V5875;TLD6S33AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 33V DO218AB;SMD TVS Diode Unip 4600W 33V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+145;V5875;TLD6S36AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 36V DO218AB;SMD TVS Diode Unip 4600W 36V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+146;Y3856;PIC16F76-I/SP;MICROCHIP 8Bit-Microcontroller PIC16x7_;MICROCHIP 8Bit Microcontrollers PIC16x7_;8Kx14 Flash 22I/O 20MHz SDIP28;8Kx14 Flash 22I/O 20MHz SDIP28;6,42;1;5,09;10;4,43;50;4,26;100;4,1;200
+147;T4421;WEI52000010;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Cat Cable-Stripper No. 10;Cat Cable-Stripper No. 10;23,52;1;17,64;6;14,7;12;13,23;24;11,76;60
+148;C6397;EEUFC1H102L;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 1000uF 50V12,5x40mm RM5;El-Capacitor 1000uF 50V12,5x40mm P5;81,5;25;68,95;100;62,72;500;59,85;1000;56,98;5000
+149;T4421;WEI52000016;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Quadro-Entmanteler No.16;Quadro-Stripper No. 16;32,29;1;24,22;6;20,18;12;18,17;24;16,15;60
+150;B4292;78L05;Festspannungsregler 0,1A 78L_, 79L_ TO92;Fixed Output Voltage Regulators 0,1A 78L;U-Reg +5V 0,1A TO92;U-Reg +5V 0,1A TO92;8,28;100;6,56;500;5,71;1000;5,48;3000;5,24;5000
+151;A6895;LM393D-SMD;Komparatoren LM_, LP_, TLC_ DIP/DIL, SO,;Comparators LM_, LP_, TLC_ DIP/DIL, SO,;2xComp +-18V 300ns SO8;2xComp +-18V 300ns SO8;8,53;100;6,76;300;5,88;500;5,66;1000;5,44;3000
+152;C4010;K164NK006.8-10;Heißleiter K164 10% RM5;NTC Thermistors K164 10% P5;NTC-Widerstand 6K8 10%;NTC-Widerstand 6K8 10%;55,44;10;41,58;50;34,64;200;32,52;500;30,39;1000
+153;T4421;WEI52001001;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Coax-Stripper No1FPlus F-Kompressionsst.;Coax-Stripper No1FPlus F-Compression Con;26,47;1;19,85;6;16,54;12;14,89;24;13,24;60
+154;A6496;TL082CD-SMD;SMD-FET- und CMOS-Operationsverstärker F;SMD FET and CMOS Operational Amplifiers;2xOp-Amp JFET +-18V 13V/us SO8;2xOp-Amp JFET +-18V 13V/us SO8;13,89;100;11,58;300;10,46;500;10,14;1000;9,82;3000
+155;C6399;EEUEE2V330S;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 33uF 350V 16x20mm RM7,5;El-Capacitor 33uF 350V 16x20mm P7,5;74,9;10;63,36;100;57,64;500;55;1000;52,36;2000
+156;D2291;TC685360470;Speicher- / Entstoerdrosseln Serie TC;Storage/EMI Suppression Chokes Series TC;Drossel 47uH 5,4A;Inductor 47uH 5,4A;20,45;10;13,99;50;10,76;100;9,52;200;8,28;500
+157;Y4751;LPC1114FHN33/301;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 32kB Flash 50MHz HVQFN32;MC 32bit 1,8V 32kB Flash 50MHz HVQFN32;3,38;5;2,86;25;2,6;100;2,5;200;2,4;500
+158;T4421;WEI52002002;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Stripper No.2 Cat;Stripper No.2 Cat;23,52;1;17,64;6;14,7;12;13,23;24;11,76;60
+159;T4421;WEI52100008;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Modul-Einsatz No1FPlus F-Schraubstecker;Inserts for No.1 F Plus F-Screw Con.;14,43;1;10,82;6;9,02;12;8,12;24;7,22;60
+160;V5875;TLD6S43AH;TSC SMD-Überspannungsschutzdioden 4600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 4600W 43V DO218AB;SMD TVS Diode Unip 4600W 43V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+161;T4421;WEI52100009;WEICON Abisolierwerkzeuge;WEICON Cable Strippers;Modul-Einsatz No1FPlus F-Kompressionsst.;Inserts for No1FPlus F-Compression Con.;14,43;1;10,82;6;9,02;12;8,12;24;7,22;60
+162;V5878;TLD8S10AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 10V DO218AB;SMD TVS Diode Unip 6600W 10V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+163;C2120;PT10HK025;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 25K;Trimmer Side Adjust P2,5/5 25K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+164;T4712;DNLSA-LC;Werkzeug für Patchkabel;Patch Cable Tools;LSA-Anlege- und Schneidewerkzeug;LSA Push Down and Cutting Tool;5,17;1;4,1;6;3,59;12;3,44;24;3,28;60
+165;M5255;HNP07-050V2;HN-Power HNP07-V2 Stecker-SNT 7,5W;HN-Power HNP07-V2 Plug-In SPS 7,5W;Stecker-SNT Slim 7,5W 5V/1,5A;SPS Plug-in Slim 7,5W 5V/1,5A;5,19;1;4,39;5;3,99;20;3,81;50;3,63;100
+166;V5878;TLD8S15AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 15V DO218AB;SMD TVS Diode Unip 6600W 15V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+167;V5878;TLD8S18AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 18V DO218AB;SMD TVS Diode Unip 6600W 18V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+168;T4712;WEI52000040;Werkzeug für Patchkabel;Patch Cable Tools;WEICON LSA Sensor No. 40;WEICON LSA Sensor No. 40;33,52;1;26,62;6;23,27;12;22,28;24;21,3;60
+169;T5611;WEI52800000;WEICON Spezialwerkzeuge;WEICON Special Tools;Multi-Opener;Multi-Opener;19,02;1;14,27;6;11,89;12;10,7;24;9,51;60
+170;T5611;WEI52800001;WEICON Spezialwerkzeuge;WEICON Special Tools;Easy Opener®;Easy Opener®;13,27;1;9,95;6;8,29;12;7,46;24;6,64;60
+171;V5878;TLD8S26AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 26V DO218AB;SMD TVS Diode Unip 6600W 26V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+172;C5414;CCNF2.2K0805;SMD-Keramik-Vielschicht-Ko's NPO 0805;SMD Ceramic Multilayer Capacitors NPO 08;SMD-Vs-Kond 2,2nF 50V 5% NPO 0805;SMD MLC Capacitor 2,2nF 50V 5% NPO 0805;2,17;500;1,63;4000;1,36;8000;1,24;16000;1,13;40000
+173;T7612;WEI11850200;WEICON Handschutzschaum;WEICON Hand Protective Foam;Handschutzschaum 200 ml;Hand Protective Foam 200 ml;21,09;1;15,82;6;13,18;12;11,86;24;10,54;60
+174;Y4755;LPC2294HBD144/01;NXP 32Bit-Flash-Microcontroller ARM7TDMI;NXP 32Bit Flash Microcontrollers ARM7TDM;MCU 16-bit/32-bit ARM7TDMI-S RISC 256KB;MCU 16-bit/32-bit ARM7TDMI-S RISC 256KB;17,15;5;14,51;20;13,19;50;12,7;100;12,21;200
+175;A6496;TL072CD-SMD;SMD-FET- und CMOS-Operationsverstärker F;SMD FET and CMOS Operational Amplifiers;2xOp-Amp JFET +-18V LN 13V/us SO8;2xOp-Amp JFET +-18V LN 13V/us SO8;14,79;100;12,33;300;11,14;500;10,8;1000;10,45;3000
+176;L7250;GE12I18-P1J;MeanWell GE_I Stecker-SNT für AC-Adapter;MeanWell GE_I Plug-In SPS for AC-Adapter;Stecker-SNT 15W 18V/0,83A ErP-2;SPS Plug-in 15W 18V/0,83A ErP-2;8;1;7,66;5;7,28;10;7,03;20;6,28;50
+177;V1335;1N4148-TAP;Si-Allzweckdioden 1N_, BAV_ DO35;Si-General Purpose Diodes 1N_, BAV_ DO35;Si-Diode 100V 150mA DO35;Si-Diode 100V 150mA DO35;0,86;1000;0,65;5000;0,54;10000;0,52;20000;0,49;50000
+178;Y4751;LPC1115FBD48/303;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 1,8V 64kB Flash 50MHz LQFP48;MC 32bit 1,8V 64kB Flash 50MHz LQFP48;4,26;5;3,6;25;3,27;100;3,15;200;3,03;500
+179;V5878;TLD8S30AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 30V DO218AB;SMD TVS Diode Unip 6600W 30V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+180;C2120;PT10HK050;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 50K;Trimmer Side Adjust P2,5/5 50K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+181;B4294;UA7805U-DG;Festspannungsregler 1A bis 2A UA78_U_, U;Fixed Output Voltage Regulators 1A to 2A;U-Reg +5V 1A TO220 Dual Gauge;U-Reg +5V 1A TO220 Dual Gauge;18,14;50;14,38;200;12,52;1000;12;2500;11,47;5000
+182;Y3754;ATMEGA1280-16AU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 2,7V 128kB Flash 16MHz TQFP100;MC 8bit 2,7V 128kB Flash 16MHz TQFP100;8,15;5;7,33;20;6,24;100;5,97;200;5,7;500
+183;K6835;MA2062HVL;SUNON AC-Axiallüfter Serie MagLev-AC 60x;SUNON AC Axial Fan MagLev-AC Series60x60;Lüfter 230V 60x25 V L 29,7m³/h 30dBA;Fan 230V 60x25 V L 29,7m³/h 30dBA;9,65;1;8,64;50;7,87;100;7,37;200;6,86;500
+184;L4098;XLG-100-L;MeanWell XLG-100 IP67;MeanWell XLG-100 IP67;SNT IP67 96W 71-142V/350-1050mA CP;SPS IP67 96W 71-142V/350-1050mA CP;14,4;200;0;0;0;0;0;0;0;0
+185;C2120;PT10HK100;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 100K;Trimmer Side Adjust P2,5/5 100K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+186;C2120;PT10HK250;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 250K;Trimmer Side Adjust P2,5/5 250K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+187;C6363;ECA2WM220;Panasonic Elektrolyt-Kondensatoren radia;Panasonic Electrolytic Capacitors Radial;Elko 22uF 450V 16x25mm RM7,5;El-Capacitor 22uF 450V 16x25mm P5;72,37;10;61,22;50;55,7;250;53,15;500;50,59;1000
+188;C6363;ECA1CM682;Panasonic Elektrolyt-Kondensatoren radia;Panasonic Electrolytic Capacitors Radial;Elko 6800uF 16V 16x31,5mm RM7,5;El-Capacitor 6800uF 16V 16x31,5mm P7,5;78,04;10;66,02;50;60,06;250;57,31;500;54,56;1000
+189;V5878;TLD8S33AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 33V DO218AB;SMD TVS Diode Unip 6600W 33V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+190;V5878;TLD8S36AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 36V DO218AB;SMD TVS Diode Unip 6600W 36V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+191;V5878;TLD8S43AH;TSC SMD-Überspannungsschutzdioden 6600W;TSC SMD Transient Voltage Suppressor Dio;SMD-TVS-Diode unip 6600W 43V DO218AB;SMD TVS Diode Unip 6600W 43V DO218AB;2,17;25;1,77;150;1,58;300;1,5;750;1,43;1500
+192;V7588;TS10KL100;TSC Brückengleichrichter 10A TS10KL_ In-;TSC Bridge Rectifiers 10A TS10KL_ In-Lin;Flachbrücke 10A 700V(RMS) 7,5/7,5mm;Bridge Rect. 10A 700V(RMS) 7,5/7,5mm;50,91;10;38,19;50;31,83;200;29,86;500;27,92;1000
+193;V7588;TS10KL60;TSC Brückengleichrichter 10A TS10KL_ In-;TSC Bridge Rectifiers 10A TS10KL_ In-Lin;Flachbrücke 10A 420V(RMS) 7,5/7,5mm;Bridge Rect. 10A 420V(RMS) 7,5/7,5mm;50,91;10;38,19;50;31,83;200;29,86;500;27,92;1000
+194;V7588;TS10KL80;TSC Brückengleichrichter 10A TS10KL_ In-;TSC Bridge Rectifiers 10A TS10KL_ In-Lin;Flachbrücke 10A 560V(RMS) 7,5/7,5mm;Bridge Rect. 10A 560V(RMS) 7,5/7,5mm;50,91;10;38,19;50;31,83;200;29,86;500;27,92;1000
+195;Y4751;LPC1225FBD48/321;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 80kB Flash 45MHz LQFP48;MC 32bit 3,3V 80kB Flash 45MHz LQFP48;5,61;5;4,74;25;4,31;100;4,15;200;3,99;500
+196;C2120;PT10HK500;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 500K;Trimmer Side Adjust P2,5/5 500K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+197;C2120;PT10HM001;Trimmer PT10Lh stehend RM2,5/5mm;Trimmers PT10Lh Side Adjust P2,5/5mm;E-Regler stehend RM2,5/5 1M;Trimmer Side Adjust P2,5/5 1M;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+198;T1578;ERSA-102WDLF16;Zubehör für ERSA i-Tool;Accessories for ERSA i-Tool;Lötdepotspitze 1,6mm;PowerWell Tip 1,6mm;25,46;1;24,43;2;22,98;5;22,56;10;21,53;20
+199;H1473;SMD-10D05;EKULIT SMD-DC-Summer elektromechanisch;EKULIT SMD DC Buzzer Electromechanical;SMD-DC-Signalgeber 5V 2700Hz 30mA 85dB;SMD DC Sounder 5V 2700Hz 30mA 85dB;2,07;10;1,64;50;1,43;200;1,37;500;1,3;1000
+200;V7593;TS15P04G;TSC Brückengleichrichter 15A TS15P_G In-;TSC Bridge Rectifiers 15A TS15P_G In-Lin;Flachbrücke 15A 280V(RMS) 7,5/10mm;Bridge Rect. 15A 280V(RMS) 7,5/10mm;88,95;15;66,72;75;55,61;300;52,17;600;48,77;1200
+201;V7593;TS15P05G;TSC Brückengleichrichter 15A TS15P_G In-;TSC Bridge Rectifiers 15A TS15P_G In-Lin;Flachbrücke 15A 420V(RMS) 7,5/10mm;Bridge Rect. 15A 420V(RMS) 7,5/10mm;88,95;15;66,72;75;55,61;300;52,17;600;48,77;1200
+202;V1378;BAV99;SMD-Si-Allzweckdioden BAS_, BAV_, BAW_ S;SMD Si-General Purpose Diodes BAS_, BAV_;2xSMD-Si-Diode 100V 200mA SOT23;2xSMD Si-Diode 100V 200mA SOT23;1,09;500;0,86;3000;0,74;9000;0,7;18000;0,67;30000
+203;V1378;BAS16;SMD-Si-Allzweckdioden BAS_, BAV_, BAW_ S;SMD Si-General Purpose Diodes BAS_, BAV_;SMD-Si-Diode 100V 200mA SOT23;SMD-Si-Diode 100V 200mA SOT23;0,98;500;0,76;3000;0,66;9000;0,63;18000;0,6;30000
+204;E2317;C3900BE;Arcolectric Kippschalter Metallhebel;Arcolectric Toggle Switches Metal Lever;Kippschalter 1xE/A 250V 16A Metall;Toggle Switch SPST 250V 16A Metal;6,84;5;5,59;20;4,97;50;4,79;100;4,6;200
+205;E2317;C3910BE;Arcolectric Kippschalter Metallhebel;Arcolectric Toggle Switches Metal Lever;Kippschalter 1XU 250V 16A Metall;Toggle Switch SPDT 250V 16A Metal;8,51;5;6,96;20;6,19;50;5,96;100;5,73;200
+206;E2317;C3921BE;Arcolectric Kippschalter Metallhebel;Arcolectric Toggle Switches Metal Lever;Kippschalter 1xE-0-(E) 250V 16A Metall;Toggle Swi. 1xOn-Off-(On) 250V 16A Metal;7,55;5;6,17;20;5,49;50;5,29;100;5,08;200
+207;E2317;C3922BE;Arcolectric Kippschalter Metallhebel;Arcolectric Toggle Switches Metal Lever;Kippschalter 1x(E)-0-(E) 250V 16A Metall;Toggle Swi. 1x(On)-Off-(On) 250V 16A Met;7,55;5;6,17;20;5,49;50;5,29;100;5,08;200
+208;E2915;H8350RP;ARCOLECTRIC Schalter/Taster vandalensich;Arcolectric Switches, Vandal-Proof;Druckschalter IP66 2xE/A 250V 16A;Pushbutton Switch IP66 DPST 250V 16A;11,81;1;9,66;5;8,59;20;8,27;50;7,95;100
+209;Y4751;LPC1226FBD48/301;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 96kB Flash 45MHz LQFP48;MC 32bit 3,3V 96kB Flash 45MHz LQFP48;5,28;5;4,47;25;4,06;100;3,91;200;3,76;500
+210;L4098;XLG-100-12;MeanWell XLG-100 IP67;MeanWell XLG-100 IP67;SNT IP67 96W 12V/8A CV + CC;SPS IP67 96W 12V/8A CV + CC;14,4;200;0;0;0;0;0;0;0;0
+211;E2915;H8351RP;ARCOLECTRIC Schalter/Taster vandalensich;Arcolectric Switches, Vandal-Proof;Drucktaster IP66 2xE/A 250V 16A;Pushbutton Mom. Swi. IP66 DPST 250V 16A;12,1;1;9,9;5;8,8;20;8,48;50;8,14;100
+212;A6496;TL062CD-GURT;SMD-FET- und CMOS-Operationsverstärker F;SMD FET and CMOS Operational Amplifiers;2xOp-Amp JFET +-18V LP 3,5V/us SO8;2xOp-Amp JFET +-18V LP 3,5V/us SO8;13,4;100;11,16;300;10,09;500;9,78;1000;9,47;3000
+213;V1378;BAV70;SMD-Si-Allzweckdioden BAS_, BAV_, BAW_ S;SMD Si-General Purpose Diodes BAS_, BAV_;2xSMD-Si-Diode 100V 200mA SOT23;2xSMD-Si-Diode 100V 200mA SOT23;0,98;500;0,78;3000;0,67;9000;0,64;18000;0,61;30000
+214;C6396;EEUFM1C222;Panasonic Hybrid Kondensatoren radial Se;Panasonic Hybrid Capacitors Radial Serie;Elko 2200uF 16V 12,5x25mm RM5,0;EL-Capacitor 2200uF 16V 12,5x25mm P5,0;45,22;50;38,26;200;34,8;1000;33,21;5000;31,62;10000
+215;C6397;EEUFC2A101L;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 100uF 100V 10x30mm RM5;El-Capacitor 100uF 100V 10x30mm P5;43,2;25;36,55;100;33,25;500;31,73;1000;30,2;5000
+216;V1378;BAW56;SMD-Si-Allzweckdioden BAS_, BAV_, BAW_ S;SMD Si-General Purpose Diodes BAS_, BAV_;2xSMD-Si-Diode 70V 200mA SOT23;2xSMD Si-Diode 70V 200mA SOT23;0,98;500;0,78;3000;0,67;9000;0,64;18000;0,61;30000
+217;E6376;EMI-SS-205FI;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xU 8A 5V 62,5R;Relay DPDT 8A 5V 62,5R;1,87;10;1,4;50;1,17;100;1,07;200;0,97;500
+218;L4098;XLG-100-24;MeanWell XLG-100 IP67;MeanWell XLG-100 IP67;SNT IP67 96W 24V/4A CV + CC;SPS IP67 96W 24V/4A CV + CC;14,4;200;0;0;0;0;0;0;0;0
+219;L4098;XLG-100-H;MeanWell XLG-100 IP67;MeanWell XLG-100 IP67;SNT IP67 96W 27-56V/875-2780mA CP;SPS IP67 96W 27-56V/875-2780mA CP;14,4;200;0;0;0;0;0;0;0;0
+220;C2125;PT10VE100;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 100R;Trimmer Top Adjust P5/10 100R;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+221;C2125;PT10VE250;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 250R;Trimmer Top Adjust P5/10 250R;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+222;C2125;PT10VE500;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 500R;Trimmer Top Adjust P5/10 500R;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+223;E6376;EMI-SS-212FI;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xU 8A 12V 360R;Relay DPDT 8A 12V 360R;1,93;10;1,45;50;1,21;100;1,11;200;1,01;500
+224;C2125;PT10VK001;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 1K;Trimmer Top Adjust P5/10 1K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+225;L4735;PWM-120-12DA;MeanWell PWM IP67;MeanWell PWM IP67;SNT IP67 120W 12V/10A PWM Dali;SPS IP67 120W 12V/10A PWM Dali;39,4;1;37,59;5;35,74;10;34,5;20;30,81;50
+226;E6376;EMI-SS-212FMI;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xNO 8A 12V 360R;Relay DPST-NO 8A 12V 360R;1,78;10;1,33;50;1,11;100;1,02;200;0,93;500
+227;C2125;PT10VK002.5;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 2K5;E-Regler liegend RM5/10 2K5;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+228;C2125;PT10VK005;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 5K;Trimmer Top Adjust P5/10 5K;20,03;25;15,89;100;13,82;500;13,19;1000;12,55;3000
+229;E6376;EMI-SS-224FMI;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xNO 8A 24V 1440R;Relay DPST-NO 8A 24V 1440R;1,87;10;1,4;50;1,17;100;1,07;200;0,97;500
+230;L4735;PWM-120-12BLE;MeanWell PWM IP67;MeanWell PWM IP67;SNT IP67 120W 12V/10A PWM Casambi;SPS IP67 120W 12V/10A PWM Casambi;81,3;1;77,5;5;73,69;10;71,15;20;63,52;50
+231;E6354;EMR-112D-3;GoodSky Relais Serie EMR;GoodSky Series EMR;Relais 1xU 8A 12V 650R;Relay SPDT 8A 12V 650R;2,08;10;1,56;50;1,3;100;1,19;200;1,09;500
+232;E6354;EMR-112DM-5;GoodSky Relais Serie EMR;GoodSky Series EMR;Relais 1xNO 8A 12V 650R;Relay SPST-NO 8A 12V 650R;1,72;10;1,29;50;1,07;100;0,98;200;0,89;500
+233;L4735;PWM-120-24;MeanWell PWM IP67;MeanWell PWM IP67;SNT IP67 120W 24V/5A PWM;SPS IP67 120W 24V/5A PWM;35;1;33,33;5;31,69;10;30,6;20;27,32;50
+234;C6397;EEUFC1V561S;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 560uF 35V 12,5x20mm RM5;El-Capacitor 560uF 35V 12,5x20mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+235;E6354;EMR-124DM-5;GoodSky Relais Serie EMR;GoodSky Series EMR;Relais 1xNO 8A 24V 2620R;Relay SPST-NO 8A 24V 2620R;1,85;10;1,38;50;1,15;100;1,06;200;0,96;500
+236;L4735;PWM-120-36;MeanWell PWM IP67;MeanWell PWM IP67;SNT IP67 120W 36V/3,4A PWM;SPS IP67 120W 36V/3,4A PWM;35;1;33,33;5;31,69;10;30,6;20;27,32;50
+237;E6376;EZ-SS-124D;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 1xU 16A 24V 1440R;Relay SPDT 16A 24V 1440R;2,39;10;1,79;50;1,49;100;1,37;200;1,24;500
+238;E6343;GQ-SS-105LM1F;Serie GQ Goodsky Printrelais;Series GQ GoodSky PCB Relays;Relais 1xNO 10A 5V 125R;Relay SPST-NO 10A 5V 125R;0,93;10;0,7;50;0,58;100;0,53;200;0,49;500
+239;U4536;FP10R12W1T7P_B11;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inv. 1200V 10A EASY1B;Converter-Brake-Inv 1200V 10A EASY1B;30,41;1;24,87;3;22,11;10;21,28;20;20,46;50
+240;E6343;GQ-SS-112LM1F;Serie GQ Goodsky Printrelais;Series GQ GoodSky PCB Relays;Relais 1xNO 10A 12V 720R;Relay SPST-NO 10A 12V 720R;0,96;10;0,72;50;0,6;100;0,55;200;0,5;500
+241;E6343;GQ-SS-124LM1F;Serie GQ Goodsky Printrelais;Series GQ GoodSky PCB Relays;Relais 1xNO 10A 24V 2880R;Relay SPST-NO 10A 24V 2880R;1;10;0,75;50;0,62;100;0,57;200;0,52;500
+242;E6462;GU-SH-112D;Goodsky Relais GU 30A 1xWechsler/1xSchli;Goodsk Relays Series GU Rated Current 30;Relais 1xU 30A 12V 155R;Relay SPDT 30A 12V 155R;1,72;10;1,29;50;1,07;100;0,98;200;0,89;500
+243;E6462;GU-SH-112DM;Goodsky Relais GU 30A 1xWechsler/1xSchli;Goodsk Relays Series GU Rated Current 30;Relais 1xNO 30A 12V 155R;Relay SPST-NO 30A 12V 155R;1,56;10;1,17;50;0,98;100;0,9;200;0,81;500
+244;E6462;GU-SH-124D;Goodsky Relais GU 30A 1xWechsler/1xSchli;Goodsk Relays Series GU Rated Current 30;Relais 1xU 30A 24V 660R;Relay SPDT 30A 24V 660R;1,78;10;1,33;50;1,11;100;1,02;200;0,93;500
+245;E6462;GU-SH-124DM;Goodsky Relais GU 30A 1xWechsler/1xSchli;Goodsk Relays Series GU Rated Current 30;Relais 1xNO 30A 24V 660R;Relay SPST-NO 30A 24V 660R;1,61;10;1,2;50;1;100;0,92;200;0,84;500
+246;E6332;JE105D;Good Sky Printrelais Serie JE;Power PCB Relays Series JE;Relais 1xU 5A 5V 125R;Relay SPDT 5A 5V 125R;1,78;10;1,33;50;1,11;100;1,02;200;0,93;500
+247;B4475;TS317CM;TSC Spannungsregler variabel TS317_, TS4;TSC Voltage Regulators Variable Output T;U-Reg 1,25-37V 1,5A D²Pak;U-Reg 1,25-37V 1,5A D²Pak;52,73;50;41,81;200;36,37;500;34,7;1000;33,05;3000
+248;B4475;TS317CP;TSC Spannungsregler variabel TS317_, TS4;TSC Voltage Regulators Variable Output T;U-Reg 1,25-37V 0,5A TO252;U-Reg 1,25-37V 0,5A TO252;27,97;50;22,18;200;19,3;500;18,41;1000;17,54;3000
+249;B4475;TS317CZ;TSC Spannungsregler variabel TS317_, TS4;TSC Voltage Regulators Variable Output T;U-Reg 1,25-37V 1,5A TO220;U-Reg 1,25-37V 1,5A TO220;44,69;50;35,44;200;30,83;500;29,41;1000;28,02;3000
+250;E6332;JE105DM;Good Sky Printrelais Serie JE;Power PCB Relays Series JE;Relais 1xNO 8A 5V 125R;Relay SPST-NO 8A 5V 125R;1,54;10;1,16;50;0,96;100;0,88;200;0,8;500
+251;E6332;JE112D;Good Sky Printrelais Serie JE;Power PCB Relays Series JE;Relais 1xU 5A 12V 720R;Relay SPDT 5A 12V 720R;1,82;10;1,37;50;1,14;100;1,04;200;0,95;500
+252;E6332;JE124DM;Good Sky Printrelais Serie JE;Power PCB Relays Series JE;Relais 1xNO 8A 24V 2880R;Relay SPST-NO 8A 24V 2880R;1,85;10;1,38;50;1,15;100;1,06;200;0,96;500
+253;U4536;FP15R06W1E3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 600V 22A EASY1B;Converter-Brake-Inverter 600V 22A EASY1B;24,77;1;20,26;3;18,01;10;17,34;20;16,67;50
+254;C2125;PT10VK010;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 10K;Trimmer Top Adjust P5/10 10K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+255;L4735;PWM-120-48;MeanWell PWM IP67;MeanWell PWM IP67;SNT IP67 120W 48V/2,5A PWM;SPS IP67 120W 48V/2,5A PWM;35;1;33,33;5;31,69;10;30,6;20;27,32;50
+256;U4536;FP15R12KT3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 1200V 25A ECONO;Converter-Brake-Inverter 1200V 25A ECONO;56,98;1;46,6;3;41,42;10;39,88;20;38,34;50
+257;U4536;FP15R12W1T7;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inv. 1200V 10A EASY1B;Converter-Brake-Inv 1200V 10A EASY1B;29,74;1;24,32;3;21,62;10;20,82;20;20,01;50
+258;U4536;FP15R12W1T7P_B11;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inv. 1200V 10A EASY1B;Converter-Brake-Inv 1200V 10A EASY1B;32,41;1;26,5;3;23,56;10;22,69;20;21,81;50
+259;E6384;RWH-SS-105D;Serie RWH GoodSky Printrelais;Series RWH GoodSky PCB Relays;Relais 1xU 15A 5V 70R;Relay DPST 15A 5V 70R;0,67;10;0,5;50;0,42;100;0,39;200;0,35;500
+260;E6384;RWH-SS-112D;Serie RWH GoodSky Printrelais;Series RWH GoodSky PCB Relays;Relais 1xU 15A 12V 400R;Relay DPST 15A 12V 400R;0,74;10;0,55;50;0,46;100;0,42;200;0,38;500
+261;E6384;RWH-SS-124D;Serie RWH GoodSky Printrelais;Series RWH GoodSky PCB Relays;Relais 1xU 15A 24V 1600R;Relay DPST 15A 24V 1600R;1,87;10;1,4;50;1,17;100;1,07;200;0,97;500
+262;E6211;STSH105L;Printrelais Serie ST 1xU;Signal PCB Relays Series ST;Relais 1xU 2A 5V 167R;Relay SPDT 2A 5V 167R;1,28;10;0,96;50;0,8;100;0,73;500;0,67;1000
+263;V7595;TS35P05G;TSC Brückengleichrichter 35A TS35P_G In-;TSC Bridge Rectifiers 35A TS35P_G In-Lin;Flachbrücke 35A 420V(RMS) 7,5/10mm;Bridge Rect. 35A 420V(RMS) 7,5/10mm;121,79;15;91,35;75;76,14;300;71,43;600;66,78;1200
+264;C6397;EEUFC1J331;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 330uF 63V 12,5x20mm RM5;El-Capacitor 330uF 63V 12,5x20mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+265;C6397;EEUFC1J221S;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 220uF 63V 12,5x20mm RM5;El-Capacitor 220uF 63V 12,5x20mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+266;C6397;EEUFC1H471L;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 470uF 50V 10x30mm RM5;El-Capacitor 470uF 50V 10x30mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+267;V7595;TS35P06G;TSC Brückengleichrichter 35A TS35P_G In-;TSC Bridge Rectifiers 35A TS35P_G In-Lin;Flachbrücke 35A 560V(RMS) 7,5/10mm;Bridge Rect. 35A 560V(RMS) 7,5/10mm;121,79;15;91,35;75;76,14;300;71,43;600;66,78;1200
+268;V7595;TS35P07G;TSC Brückengleichrichter 35A TS35P_G In-;TSC Bridge Rectifiers 35A TS35P_G In-Lin;Flachbrücke 35A 700V(RMS) 7,5/10mm;Bridge Rect. 35A 700V(RMS) 7,5/10mm;121,79;15;91,35;75;76,14;300;71,43;600;66,78;1200
+269;C6397;EEUFC1H331;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 330uF 50V 12,5x20mm RM5;El-Capacitor 330uF 50V 12,5x20mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+270;E6211;STSH105T;Printrelais Serie ST 1xU;Signal PCB Relays Series ST;Relais 1xU 2A 5V 125R;Relay SPDT 2A 5V 125R;1,28;10;0,96;50;0,8;100;0,73;500;0,67;1000
+271;U4536;FP25R12KT4_B15;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 1200V 39A ECONO;Converter-Brake-Inverter 1200V 39A ECONO;64,53;1;52,77;3;46,91;10;45,16;20;43,42;50
+272;Y4751;LPC1227FBD48/301;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 128kB Flash 45MHz LQFP48;MC 32bit 3,3V 128kB Flash 45MHz LQFP48;6,05;5;5,12;25;4,65;100;4,48;200;4,31;500
+273;C2125;PT10VK025;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 25K;Trimmer Top Adjust P5/10 25K;20,03;25;15,89;100;13,82;500;13,19;1000;12,55;3000
+274;C2125;PT10VK050;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 50K;Trimmer Top Adjust P5/10 50K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+275;C2125;PT10VK100;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 100K;Trimmer Top Adjust P5/10 100K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+276;C2125;PT10VK250;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 250K;Trimmer Top Adjust P5/10 250K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+277;C2125;PT10VK500;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 500K;Trimmer Top Adjust P5/10 500K;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+278;C2125;PT10VM001;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 1M;Trimmer Top Adjust P5/10 1M;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+279;C2125;PT10VM002.5;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 2M5;E-Regler liegend RM5/10 2M5;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+280;C2125;PT10VM005;Trimmer PT10Lv liegend RM5/10mm;Trimmers PT10Lv Top Adjust P5/10mm;E-Regler liegend RM5/10 5M;Trimmer Top Adjust P5/10 5M;20,54;25;16,29;100;14,17;500;13,52;1000;12,87;3000
+281;C2135;PTC10LE250;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 250R;Cermet Trimmer Top Adjust P5/10 250R;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+282;C2135;PTC10LE500;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 500R;Cermet Trimmer Top Adjust P5/10 500R;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+283;C2135;PTC10LK001;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 1K;Cermet Trimmer Top Adjust P5/10 1K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+284;C2135;PTC10LK002.5;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 2K5;Cermet Trimmer Top Adjust P5/10 2K5;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+285;C2135;PTC10LK005;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 5K;Cermet Trimmer Top Adjust P5/10 5K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+286;C2135;PTC10LK010;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 10K;Cermet Trimmer Top Adjust P5/10 10K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+287;C2135;PTC10LK025;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 25K;Cermet Trimmer Top Adjust P5/10 25K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+288;C2135;PTC10LK050;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 50K;Cermet Trimmer Top Adjust P5/10 50K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+289;C2135;PTC10LK100;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 100K;Cermet Trimmer Top Adjust P5/10 100K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+290;C2135;PTC10LK250;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 250K;Cermet Trimmer Top Adjust P5/10 250K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+291;C2135;PTC10LK500;Cermet Trimmer PTC10Lv liegend RM5/10mm;Cermet Trimmers PTC10Lv Top Adjust P5/10;Cermet Trimmer lieg. RM5/10 500K;Cermet Trimmer Top Adjust P5/10 500K;56,04;10;44,44;50;38,66;200;36,89;500;35,12;1000
+292;C2140;PT15HK001;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 1K;Trimmer Side Adjust P5/10 1K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+293;C2140;PT15HK002.5;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 2K5;E-Regler stehend RM5/10 2K5;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+294;C2140;PT15HK005;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 5K;Trimmer Side Adjust P5/10 5K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+295;C2140;PT15HK010;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 10K;Trimmer Side Adjust P5/10 10K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+296;C2140;PT15HK025;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 25k;Trimmer Side Adjust P5/10 25k;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+297;C2140;PT15HK050;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 50K;Trimmer Side Adjust P5/10 50K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+298;C2140;PT15HK100;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 100K;Trimmer Side Adjust P5/10 100K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+299;C2140;PT15HK250;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 250K;Trimmer Side Adjust P5/10 250K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+300;C2140;PT15HK500;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 500K;Trimmer Side Adjust P5/10 500K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+301;C2140;PT15HM001;Trimmer PT15Nh stehend RM5/10mm;Trimmers PT15Nh Side Adjust P5/10mm;E-Regler stehend RM5/10 1M;Trimmer Side Adjust P5/10 1M;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+302;C2145;PT15VE500;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 500R;Trimmer Top Adjust P10/12,5 500R;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+303;C2145;PT15VK001;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 1K;Trimmer Top Adjust P10/12,5 1K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+304;C2145;PT15VK002.5;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 2K5;E-Regler liegend RM10/12,5 2K5;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+305;C2145;PT15VK005;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 5K;Trimmer Top Adjust P10/12,5 5K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+306;C2145;PT15VK010;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 10K;Trimmer Top Adjust P10/12,5 10K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+307;C2145;PT15VK025;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 25K;Trimmer Top Adjust P10/12,5 25K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+308;C2145;PT15VK050;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 50K;Trimmer Top Adjust P10/12,5 50K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+309;C2145;PT15VK100;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 100K;Trimmer Top Adjust P10/12,5 100K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+310;C2145;PT15VK250;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 250K;Trimmer Top Adjust P10/12,5 250;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+311;C2145;PT15VK500;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 500K;Trimmer Top Adjust P10/12,5 500K;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+312;C2145;PT15VM001;Trimmer PT15Nv liegend RM10/12,5mm;Trimmers PT15Nv Top Adjust P10/12,5mm;E-Regler liegend RM10/12,5 1M;Trimmer Top Adjust P10/12,5 1M;31,1;25;24,67;100;21,46;500;20,48;1000;19,49;3000
+313;C6735;EEEFK1K220P;Alu Elko SMD Serie FK_P/R;Alu El-Cap SMD Series FK_P/R;SMD-Elko 22uF 80V 8x10,2mm;SMD El-Capacitor 22uF 80V 8x10,2mm;12,61;100;10,67;500;9,7;1000;9,26;3000;8,81;5000
+314;U4536;FP25R12W1T7;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inv. 1200V 10A EASY1B;Converter-Brake-Inv 1200V 10A EASY1B;39,62;1;32,4;3;28,8;10;27,73;20;26,66;50
+315;C6737;EEEFT1A680AR;Alu Elko SMD Serie FT;Alu Elko SMD Series FT;SMD-Elko 68uF 10V 4x5,8mm;SMD El-Capacitor 68uF 10V 4x5,8mm;11,06;100;9,36;500;8,51;1000;8,12;3000;7,73;5000
+316;Y3754;ATMEGA88-20AU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 2,7V 8kB Flash 20MHz TQFP32;MC 8bit 2,7V 8kB Flash 20MHz TQFP32;1,67;5;1,5;20;1,28;100;1,22;200;1,17;500
+317;M5224;HNP12-UNI;HN-Power HNP-UNI Stecker-SNT;HN-Power HNP-UNI Plug-In SPS;Stecker SNT 12W 3-12V/1A universal;SPS Plug-In 12W 3-12V/1A universal;9,07;1;7,19;5;6,26;20;5,97;50;5,68;100
+318;Y3752;AT90CAN128-16MU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 2,7V 128kB Flash 16MHz MLF64;MC 8bit 2,7V 128kB Flash 16MHz MLF64;6,74;5;6,06;25;5,16;100;4,94;200;4,71;500
+319;Y3754;ATMEGA128L-8AU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 2,7V 128kB Flash 8MHz TQFP64;MC 8bit 2,7V 128kB Flash 8MHz TQFP64;6,54;5;5,89;20;5,01;100;4,8;200;4,58;500
+320;M5224;HNP18-UNI;HN-Power HNP-UNI Stecker-SNT;HN-Power HNP-UNI Plug-In SPS;Stecker SNT 18W 3-12V/1,5A universal;SPS Plug-In 18W 3-12V/1,5A universal;9,67;1;8,19;5;7,44;20;7,1;50;6,77;100
+321;Y3754;ATMEGA168PA-AU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 1,8V 16kB Flash 20MHz TQPF32;MC 8bit 1,8V 16kB Flash 20MHz TQPF32;1,37;5;1,23;20;1,05;100;1;200;0,96;500
+322;U4536;FP25R12W2T4;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 1200V 39A EASY2;Converter-Brake-Inverter 1200V 39A EASY2;40,39;1;33,03;3;29,37;10;28,27;20;27,18;50
+323;L3029;DR-15-12;MeanWell DR-15 DIN-Schiene;MeanWell DR-15 DIN-Rail;SNT DIN-Schiene 15W 12V/1,25A;SPS DIN-Rail 15W 12V/1,25A;12,41;1;12,11;5;11,67;10;11,32;20;11,15;50
+324;U4536;FP25R12W2T7;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inv. 1200V 10A EASY1B;Converter-Brake-Inv 1200V 10A EASY1B;40,39;1;33,03;3;29,37;10;28,27;20;27,18;50
+325;E6211;STSH112L;Printrelais Serie ST 1xU;Signal PCB Relays Series ST;Relais 1xU 2A 12V 960R;Relay SPDT 2A 12V 960R;1,28;10;0,96;50;0,8;100;0,73;500;0,67;1000
+326;A6885;TS393CS;TSC Komparatoren TS_ SO, SOT23-5;TSC Comparators TS_ SO, SOT23-5;2xComp +-18V 300ns SO8;2xComp +-18V 300ns SO8;9,9;25;7,85;100;6,83;300;6,52;1000;6,21;3000
+327;U4536;FP30R06KE3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 600V 37A ECONO2;Converter-Brake-Inverter 600V 37A ECONO2;66,48;1;54,37;3;48,33;10;46,53;20;44,74;50
+328;C6397;EEUFC1E102L;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 1000uF 25V 10x30mm RM5;EL-Capacitor 1000uF 25V 10x30mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+329;E6211;STSH112T;Printrelais Serie ST 1xU;Signal PCB Relays Series ST;Relais 1xU 2A 12V 720R;Relay SPDT 2A 12V 720R;1,58;10;1,19;50;0,99;100;0,91;500;0,83;1000
+330;U4536;FP30R06W1E3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 600V 37A EASY1B;Converter-Brake-Inverter 600V 37A EASY1B;29,12;1;23,81;3;21,17;10;20,38;20;19,59;50
+331;V7596;TS40P05G;TSC Brückengleichrichter 40A TS40P_G In-;TSC Bridge Rectifiers 40A TS40P_G In-Lin;Flachbrücke 40A 420V(RMS) 7,5/10mm;Bridge Rect. 40A 420V(RMS) 7,5/10mm;121,79;15;91,35;75;76,14;300;71,43;600;66,78;1200
+332;C6397;EEUFC1A222;Alu Elko Serie UFC;Alu El-Cap Series UFC;Elko 2200uF 10V 12,5x20mm RM5;EL-Capacitor 2200uF 10V 12,5x20mm P5;38,18;25;32,3;100;29,38;500;28,04;1000;26,69;5000
+333;V7596;TS40P06G;TSC Brückengleichrichter 40A TS40P_G In-;TSC Bridge Rectifiers 40A TS40P_G In-Lin;Flachbrücke 40A 560V(RMS) 7,5/10mm;Bridge Rect. 40A 520V(RMS) 7,5/10mm;121,79;15;91,35;75;76,14;300;71,43;600;66,78;1200
+334;V7596;TS40P07G;TSC Brückengleichrichter 40A TS40P_G In-;TSC Bridge Rectifiers 40A TS40P_G In-Lin;Flachbrücke 40A 700V(RMS) 7,5/10mm;Bridge Rect. 40A 700V(RMS) 7,5/10mm;121,79;15;91,35;75;76,14;300;71,43;600;66,78;1200
+335;V1372;TS4148-0805;TSC SMD-Si-Allzweckdioden TS4148_, TS444;TSC SMD Si-General Purpose Diodes TS4148;SMD-Si-Diode 75V 150mA 0805;SMD Si-Diode 75V 150mA 0805;1,45;500;1,17;2500;0,83;10000;0,74;50000;0,72;150000
+336;V1372;TS4148-1206;TSC SMD-Si-Allzweckdioden TS4148_, TS444;TSC SMD Si-General Purpose Diodes TS4148;SMD-Si-Diode 75V 150mA 1206;SMD Si-Diode 75V 150mA 1206;1,58;500;1,28;2500;0,9;10000;0,81;50000;0,79;150000
+337;L3029;DR-15-15;MeanWell DR-15 DIN-Schiene;MeanWell DR-15 DIN-Rail;SNT DIN-Schiene 15W 15V/1A;SPS DIN-Rail 15W 15V/1A;12,41;1;12,11;5;11,67;10;11,32;20;11,15;50
+338;L3029;DR-15-24;MeanWell DR-15 DIN-Schiene;MeanWell DR-15 DIN-Rail;SNT DIN-Schiene 15,2W 24V/0,63A;SPS DIN-Rail 15,2W 24V/0,63A;12,41;1;12,11;5;11,67;10;11,32;20;11,15;50
+339;E6211;STSH124T;Printrelais Serie ST 1xU;Signal PCB Relays Series ST;Relais 1xU 2A 24V 2880R;Relay SPDT 2A 24V 2880R;1,41;10;1,06;50;0,88;100;0,81;500;0,74;1000
+340;U1273;BC807-16.215;SMD-Kleinleistungstransistoren BC_ SOT23;SMD Small Signal Transistors BC_ SOT23;PNP 45V 0,5A 0,25W B:100-250 SOT23;PNP 45V 0,5A 0,25W B:100-250 SOT23;1,6;500;1,2;3000;0,99;9000;0,93;18000;0,87;30000
+341;Y4751;LPC1227FBD64/301;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 128kB Flash 45MHz LQFP64;MC 32bit 3,3V 128kB Flash 45MHz LQFP64;6,05;5;5,12;25;4,65;100;4,48;200;4,31;500
+342;U4536;FP35R12W2T4;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 1200V 54A EASY2;Converter-Brake-Inverter 1200V 54A EASY2;44,48;1;36,37;3;32,33;10;31,13;20;29,93;50
+343;U4536;FP35R12W2T7;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inv. 1200V 10A EASY1B;Converter-Brake-Inv 1200V 10A EASY1B;44,49;1;36,39;3;32,35;10;31,14;20;29,94;50
+344;L3059;DR-30-12;MeanWell DR-30 DIN-Schiene;MeanWell DR-30 DIN-Rail;SNT DIN-Schiene 24W 12V/2A;SPS DIN-Rail 24W 12V/2A;15,28;1;14,91;5;14,37;10;13,94;20;13,73;50
+345;L3059;DR-30-24;MeanWell DR-30 DIN-Schiene;MeanWell DR-30 DIN-Rail;SNT DIN-Schiene 36W 24V/1,5A;SPS DIN-Rail 36W 24V/1,5A;15,28;1;14,91;5;14,37;10;13,94;20;13,73;50
+346;M5484;HIM5-4815S-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 18-72V:15V/333mA DIL24;DC/DC Conv 18-72V:15V/333mA DIL24;16,21;1;13,71;5;12,46;20;11,89;50;11,32;100
+347;M5484;HIM5-4815D-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 18-72V:+/-15V/166mA DIL24;DC/DC Conv 18-72V:+/-15V/166mA DIL24;17,83;1;15,09;5;13,72;20;13,1;50;12,48;100
+348;M5484;HIM5-4809S-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 18-72V:9V/555mA DIL24;DC/DC Conv 18-72V:9V/555mA DIL24;16,21;1;13,71;5;12,46;20;11,89;50;11,32;100
+349;M5484;HIM5-4809D-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 18-72V:+/-9V/277mA DIL24;DC/DC Conv 18-72V:+/-9V/277mA DIL24;17,83;1;15,09;5;13,72;20;13,1;50;12,48;100
+350;M5484;HIM5-4803S-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 18-72V:3,3V/1,3A DIL24;DC/DC Conv 18-72V:3,3V/1,3A DIL24;16,21;1;13,71;5;12,46;20;11,89;50;11,32;100
+351;M5484;HIM5-4803D-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 18-72V:+/-3,3V/757mA DIL24;DC/DC Conv 18-72V:+/-3,3V/757mA DIL24;17,83;1;15,09;5;13,72;20;13,1;50;12,48;100
+352;M5484;HIM5-2415S-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 9-36V:15V/333mA DIL24;DC/DC Conv 9-36V:15V/333mA DIL24;16,21;1;13,71;5;12,46;20;11,89;50;11,32;100
+353;M5484;HIM5-2415D-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 9-36V:+/-15V/166mA DIL24;DC/DC Conv 9-36V:+/-15V/166mA DIL24;17,83;1;15,09;5;13,72;20;13,1;50;12,48;100
+354;M5484;HIM5-2409S-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 9-36V:9V/555mA DIL24;DC/DC Conv 9-36V:9V/555mA DIL24;16,21;1;13,71;5;12,46;20;11,89;50;11,32;100
+355;M5484;HIM5-2409D-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 9-36V:+/-9V/277mA DIL24;DC/DC Conv 9-36V:+/-9V/277mA DIL24;17,83;1;15,09;5;13,72;20;13,1;50;12,48;100
+356;M5484;HIM5-2403D-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 9-36V:+/-3,3V/757mA DIL24;DC/DC Conv 9-36V:+/-3,3V/757mA DIL24;17,83;1;15,09;5;13,72;20;13,1;50;12,48;100
+357;M5457;HIM2-4803S-SIL8;HNP HIM2 DC/DC-Wandler SIL8 2W 4:1 gereg;HNP HIM2 DC/DC-Conv. SIL8 2W 4:1 regulat;DC/DC-Conv 18-75V:3.3V 500mA 2W SIP8;DC/DC Conv 18-75V:3.3V 500mA 2W SIP8;12,58;1;10,64;5;9,67;20;9,23;50;8,79;100
+358;M5457;HIM2-2415S-SIL8;HNP HIM2 DC/DC-Wandler SIL8 2W 4:1 gereg;HNP HIM2 DC/DC-Conv. SIL8 2W 4:1 regulat;DC/DC-Conv 9-36V:15V 133mA 2W SIP8;DC/DC Conv 9-36V:15V 133mA 2W SIP8;12,58;1;10,64;5;9,67;20;9,23;50;8,79;100
+359;M5457;HIM2-2403S-SIL8;HNP HIM2 DC/DC-Wandler SIL8 2W 4:1 gereg;HNP HIM2 DC/DC-Conv. SIL8 2W 4:1 regulat;DC/DC-Conv 9-36V:3.3V 500mA 2W SIP8;DC/DC Conv 9-36V:3.3V 500mA 2W SIP8;12,58;1;10,64;5;9,67;20;9,23;50;8,79;100
+360;M5457;HIM2-1215S-SIL8;HNP HIM2 DC/DC-Wandler SIL8 2W 4:1 gereg;HNP HIM2 DC/DC-Conv. SIL8 2W 4:1 regulat;DC/DC-Conv 4,5-18V:15V 133mA 2W SIP8;DC/DC Conv 4,5-18V:15V 133mA 2W SIP8;12,58;1;10,64;5;9,67;20;9,23;50;8,79;100
+361;M5488;HIM12-4803S-DIL24;HNP HIM12 DC/DC-Wandler DIL24 12W 4:1 ge;HNP HIM12 DC/DC-Converter DIL24 12W 4:1;DC/DC Conv 18-75V:3.3V/3.5A DIL24;DC/DC Conv 18-75V:3.3V/3.5A DIL24;26,82;1;22,7;5;20,64;20;19,7;50;18,76;100
+362;M5485;BIM8-4803S-DIL24;HNP BIM8 DC/DC-Wandler DIL24 8W 2:1 gere;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;DC/DC-Conv 36-72V:3.3V/2.0A DIL24;DC/DC Conv 36-72V:3.3V/2.0A DIL24;18,48;1;15,64;5;14,22;20;13,57;50;12,92;100
+363;M5485;BIM8-2403S-DIL24;HNP BIM8 DC/DC-Wandler DIL24 8W 2:1 gere;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;DC/DC-Conv 18-36V:3.3V/2.0A DIL24;DC/DC Conv 18-36V:3.3V/2.0A DIL24;18,48;1;15,64;5;14,22;20;13,57;50;12,92;100
+364;M5485;BIM8-1215S-DIL24;HNP BIM8 DC/DC-Wandler DIL24 8W 2:1 gere;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;DC/DC-Conv 9-18V:15V/535mA DIL24;DC/DC Conv 9-18V:15V/535mA DIL24;18,48;1;15,64;5;14,22;20;13,57;50;12,92;100
+365;M5485;BIM8-1203S-DIL24;HNP BIM8 DC/DC-Wandler DIL24 8W 2:1 gere;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;DC/DC-Conv 9-18V:3.3V/2.0A DIL24;DC/DC Conv 9-18V:3.3V/2.0A DIL24;18,48;1;15,64;5;14,22;20;13,57;50;12,92;100
+366;M5483;BIM5-4815S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 36-72V:15V/333mA DIL24;DC/DC Conv 36-72V:15V/333mA DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+367;M5483;BIM5-4815D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 36-72V:+/-15V/167mA DIL24;DC/DC Conv 36-72V:+/-15V/167mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+368;M5483;BIM5-4809S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 36-72V:9V/555mA DIL24;DC/DC Conv 36-72V:9V/555mA DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+369;M5483;BIM5-4809D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 36-72V:+/-9V/278mA DIL24;DC/DC Conv 36-72V:+/-9V/278mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+370;M5483;BIM5-4803S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 36-72V:3.3V/1.3A DIL24;DC/DC Conv 36-72V:3.3V/1.3A DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+371;M5483;BIM5-4803D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 36-72V:+/-3.3V/750mA DIL24;DC/DC Conv 36-72V:+/-3.3V/750mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+372;M5483;BIM5-2409S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 18-36V:9V/555mA DIL24;DC/DC Conv 18-36V:9V/555mA DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+373;M5483;BIM5-2409D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 18-36V:+/-9V/278mA DIL24;DC/DC Conv 18-36V:+/-9V/278mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+374;M5483;BIM5-2403S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 18-36V:3.3V/1.3A DIL24;DC/DC Conv 18-36V:3.3V/1.3A DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+375;M5483;BIM5-2403D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 18-36V:+/-3.3V/750mA DIL24;DC/DC Conv 18-36V:+/-3.3V/750mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+376;M5483;BIM5-1215S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 9-18V:15V/333mA DIL24;DC/DC Conv 9-18V:15V/333mA DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+377;M5483;BIM5-1215D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 9-18V:+/-15V/167mA DIL24;DC/DC Conv 9-18V:+/-15V/167mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+378;M5483;BIM5-1209S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 9-18V:9V/555mA DIL24;DC/DC Conv 9-18V:9V/555mA DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+379;M5483;BIM5-1209D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 9-18V:+/-9V/278mA DIL24;DC/DC Conv 9-18V:+/-9V/278mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+380;M5483;BIM5-1203S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 9-18V:3.3V/1.3A DIL24;DC/DC Conv 9-18V:3.3V/1.3A DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+381;M5483;BIM5-1203D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 9-18V:+/-3.3V/750mA DIL24;DC/DC Conv 9-18V:+/-3.3V/750mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+382;M5458;BIM3-4815S-SIL8;HNP BIM3 DC/DC-Wandler SIL8 3W 2:1 gereg;HNP BIM3 DC/DC-Converter SIL8 3W 2:1 reg;DC/DC-Conv 36-72V:15V/200mA SIL8;DC/DC Conv 36-72V:15V/200mA SIL8;11,44;1;9,68;5;8,8;20;8,4;50;8;100
+383;M5458;BIM3-4803S-SIL8;HNP BIM3 DC/DC-Wandler SIL8 3W 2:1 gereg;HNP BIM3 DC/DC-Converter SIL8 3W 2:1 reg;DC/DC-Conv 36-72V:3.3V/700mA SIL8;DC/DC Conv 36-72V:3.3V/700mA SIL8;11,44;1;9,68;5;8,8;20;8,4;50;8;100
+384;M5458;BIM3-2403S-SIL8;HNP BIM3 DC/DC-Wandler SIL8 3W 2:1 gereg;HNP BIM3 DC/DC-Converter SIL8 3W 2:1 reg;DC/DC-Conv 18-36V:3.3V/700mA SIL8;DC/DC Conv 18-36V:3.3V/700mA SIL8;11,44;1;9,68;5;8,8;20;8,4;50;8;100
+385;M5458;BIM3-1203S-SIL8;HNP BIM3 DC/DC-Wandler SIL8 3W 2:1 gereg;HNP BIM3 DC/DC-Converter SIL8 3W 2:1 reg;DC/DC-Conv 9-18V:3.3V/700mA SIL8;DC/DC Conv 9-18V:3.3V/700mA SIL8;11,44;1;9,68;5;8,8;20;8,4;50;8;100
+386;M5458;BIM3-0515S-SIL8;HNP BIM3 DC/DC-Wandler SIL8 3W 2:1 gereg;HNP BIM3 DC/DC-Converter SIL8 3W 2:1 reg;DC/DC-Conv 4.5-9V:15V/200mA SIL8;DC/DC Conv 4.5-9V:15V/200mA SIL8;11,44;1;9,68;5;8,8;20;8,4;50;8;100
+387;M5456;BIM2-4815S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 36-72V:15V/133mA SIL8;DC/DC Conv 36-72V:15V/133mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+388;M5456;BIM2-4815D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 36-72V:+/-15V/67mA SIL8;DC/DC Conv 36-72V:+/-15V/67mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+389;M5456;BIM2-4809S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 36-72V:9V/222mA SIL8;DC/DC Conv 36-72V:9V/222mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+390;M5456;BIM2-4809D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 36-72V:+/-9V/111mA SIL8;DC/DC Conv 36-72V:+/-9V/111mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+391;M5456;BIM2-4803S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 36-72V:3.3V/500mA SIL8;DC/DC Conv 36-72V:3.3V/500mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+392;M5456;BIM2-4803D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 36-72V:+/-3.3V/250mA SIL8;DC/DC Conv 36-72V:+/-3.3V/250mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+393;M5456;BIM2-2415S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:15V/133mA SIL8;DC/DC Conv 18-36V:15V/133mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+394;M5456;BIM2-2415D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:+/-15V/67mA SIL8;DC/DC Conv 18-36V:+/-15V/67mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+395;M5456;BIM2-2409S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:9V/222mA SIL8;DC/DC Conv 18-36V:9V/222mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+396;M5456;BIM2-2409D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:+/-9V/111mA SIL8;DC/DC Conv 18-36V:+/-9V/111mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+397;M5456;BIM2-2403S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:3.3V/500mA SIL8;DC/DC Conv 18-36V:3.3V/500mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+398;M5456;BIM2-2403D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:+/-3.3V/250mA SIL8;DC/DC Conv 18-36V:+/-3.3V/250mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+399;M5456;BIM2-1215S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:15V/133mA SIL8;DC/DC Conv 9-18V:15V/133mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+400;M5456;BIM2-1215D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:+/-15V/67mA SIL8;DC/DC Conv 9-18V:+/-15V/67mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+401;M5456;BIM2-1209S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:9V/222mA SIL8;DC/DC Conv 9-18V:9V/222mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+402;M5456;BIM2-1209D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:+/-9V/111mA SIL8;DC/DC Conv 9-18V:+/-9V/111mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+403;M5456;BIM2-1203S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:3.3V/500mA SIL8;DC/DC Conv 9-18V:3.3V/500mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+404;M5456;BIM2-1203D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:+/-3.3V/250mA SIL8;DC/DC Conv 9-18V:+/-3.3V/250mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+405;M5456;BIM2-0515S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 4.5-9V:15V/133mA SIL8;DC/DC Conv 4.5-9V:15V/133mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+406;M5456;BIM2-0515D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 4.5-9V:+/-15V/67mA SIL8;DC/DC Conv 4.5-9V:+/-15V/67mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+407;M5456;BIM2-0509S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 4.5-9V:9V/222mA SIL8;DC/DC Conv 4.5-9V:9V/222mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+408;M5456;BIM2-0509D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 4.5-9V:+/-9V/111mA SIL8;DC/DC Conv 4.5-9V:+/-9V/111mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+409;M5456;BIM2-0503D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 4.5-9V:+/-3.3V/250mA SIL8;DC/DC Conv 4.5-9V:+/-3.3V/250mA SIL8;11,96;1;10,12;5;9,2;20;8,78;50;8,36;100
+410;M5487;BIM12-4803S-DIL24;HNP BIM12 DC/DC-Wandler DIL24 12W 2:1 ge;HNP BIM12 DC/DC-Converter DIL24 12W 2:1;DC/DC-Conv 36-75V:3.3V/3.5A DIL24;DC/DC Conv 36-75V:3.3V/3.5A DIL24;24,19;1;20,47;5;18,61;20;17,76;50;16,91;100
+411;M5487;BIM12-1203S-DIL24;HNP BIM12 DC/DC-Wandler DIL24 12W 2:1 ge;HNP BIM12 DC/DC-Converter DIL24 12W 2:1;DC/DC-Conv 9-18V:3.3V/3.5A DIL24;DC/DC Conv 9-18V:3.3V/3.5A DIL24;24,19;1;20,47;5;18,61;20;17,76;50;16,91;100
+412;M5486;BIM10-4803S-DIL24;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;HNP BIM10 DC/DC-Converter DIL24 10W 2:1;DC/DC-Conv 36-75V:3.3V/3.0A DIL24;DC/DC Conv 36-75V:3.3V/3.0A DIL24;20,4;1;17,26;5;15,69;20;14,98;50;14,27;100
+413;M5486;BIM10-2403S-DIL24;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;HNP BIM10 DC/DC-Converter DIL24 10W 2:1;DC/DC-Conv 18-36V:3.3V/3.0A DIL24;DC/DC Conv 18-36V:3.3V/3.0A DIL24;20,4;1;17,26;5;15,69;20;14,98;50;14,27;100
+414;M5486;BIM10-1203S-DIL24;HNP BIM8 DC/DC-Converter DIL24 8W 2:1 re;HNP BIM10 DC/DC-Converter DIL24 10W 2:1;DC/DC-Conv 9-18V:3.3V/3.0A DIL24;DC/DC Conv 9-18V:3.3V/3.0A DIL24;20,4;1;17,26;5;15,69;20;14,98;50;14,27;100
+415;M5455;BIM1-4815S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 36-72V:15V/67mA SIL8;DC/DC Conv 36-72V:15V/67mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+416;M5455;BIM1-4815D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 36-72V:+/-15V/33mA SIL8;DC/DC Conv 36-72V:+/-15V/33mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+417;M5455;BIM1-4809S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 36-72V:9V/111mA SIL8;DC/DC Conv 36-72V:9V/111mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+418;M5455;BIM1-4809D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 36-72V:+/-9V/56mA SIL8;DC/DC Conv 36-72V:+/-9V/56mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+419;M5455;BIM1-4803S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 36-72V:3,3V/303mA SIL8;DC/DC Conv 36-72V:3,3V/303mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+420;M5455;BIM1-4803D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 36-72V:+/-3,3V/152mA SIL8;DC/DC Conv 36-72V:+/-3,3V/152mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+421;M5455;BIM1-2415S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:15V/67mA SIL8;DC/DC-Conv 18-36V:15V/67mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+422;M5455;BIM1-2415D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:+/-15V/33mA SIL8;DC/DC Conv 18-36V:+/-15V/33mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+423;M5455;BIM1-2409S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:9V/111mA SIL8;DC/DC Conv 18-36V:9V/111mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+424;M5455;BIM1-2409D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:+/-9V/56mA SIL8;DC/DC Conv 18-36V:+/-9V/56mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+425;M5455;BIM1-2403S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:3,3V/303mA SIL8;DC/DC Conv 18-36V:3,3V/303mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+426;M5455;BIM1-2403D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:+/-3,3V/152mA SIL8;DC/DC Conv 18-36V:+/-3,3V/152mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+427;M5455;BIM1-1215S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 9-18V:15V/67mA SIL8;DC/DC Conv 9-18V:15V/67mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+428;M5455;BIM1-1215D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 9-18V:+/-15V/33mA SIL8;DC/DC Conv 9-18V:+/-15V/33mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+429;M5455;BIM1-1209S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 9-18V:9V/111mA SIL8;DC/DC Conv 9-18V:9V/111mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+430;M5455;BIM1-1209D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 9-18V:+/-9V/56mA SIL8;DC/DC Conv 9-18V:+/-9V/56mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+431;M5455;BIM1-1203S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 9-18V:3,3V/303mA SIL8;DC/DC Conv 9-18V:3,3V/303mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+432;M5455;BIM1-1203D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 9-18V:+/-3,3V/152mA SIL8;DC/DC Conv 9-18V:+/-3,3V/152mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+433;M5455;BIM1-0515S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 4,5-9V:15V/67mA SIL8;DC/DC Conv 4,5-9V:15V/67mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+434;M5455;BIM1-0515D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 4,5-9V:+/-15V/33mA SIL8;DC/DC Conv 4,5-9V:+/-15V/33mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+435;M5455;BIM1-0509S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 4,5-9V:9V/111mA SIL8;DC/DC Conv 4,5-9V:9V/111mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+436;M5455;BIM1-0509D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 4,5-9V:+/-9V/56mA SIL8;DC/DC Conv 4,5-9V:+/-9V/56mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+437;M5455;BIM1-0503D-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 4,5-9V:+/-3,3V/152mA SIL8;DC/DC Conv 4,5-9V:+/-3,3V/152mA SIL8;11,61;1;9,83;5;8,94;20;8,53;50;8,12;100
+438;U4536;FP40R12KE3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 1200V 55A ECONO;Converter-Brake-Inverter 1200V 55A ECONO;88,04;1;72;3;64;10;61,62;20;59,24;50
+439;Y4753;LPC1313FBD48/01;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 2V 32kB Flash 72MHz LQFP48;MC 32bit 2V 32kB Flash 72MHz LQFP48;4,26;5;3,6;20;3,27;50;3,15;100;3,03;200
+440;L3099;DR-4515;MeanWell DR-45 DIN-Schiene;MeanWell DR-45 DIN-Rail;SNT DIN-Schiene 42W 15V/2,8A;SPS DIN-Rail 42W 15V/2,8A;17,64;1;17,2;5;16,58;10;16,09;20;15,84;50
+441;L3139;DR-75-24;MeanWell DR-75 DIN-Schiene;MeanWell DR-75 DIN-Rail;SNT DIN-Schiene 76,8W 24V/3,2A;SPS DIN-Rail 76,8W 24V/3,2A;28,87;1;28,16;5;27,15;10;26,34;20;25,93;50
+442;L3179;DR-120-24;MeanWell DR-120 DIN-Schiene;MeanWell DR-120 DIN-Rail;SNT DIN-Schiene 120W 24V/5A;SPS DIN-Rail 120W 24V/5A;35,92;1;35,04;5;33,78;10;32,77;20;32,27;50
+443;L3197;DRP-240-24;MeanWell DRP-240 DIN-Schiene;MeanWell DRP-240 DIN-Rail;SNT DIN-Schiene 240W 24V/10A;SPS DIN-Rail 240W 24V/10A;54,47;1;53,13;5;51,22;10;49,69;20;48,93;50
+444;F4268;PXM6012-02PST;6000 Metall Buccaneer Steckverbindersyst;6000 Metall Buccaneer Series;Met. Frontt. Kabelsteckergeh. 2pol schra;Metal Chassis Conn. Male 2-Pole Screw;16,81;1;13,75;5;12,23;20;11,78;50;11,32;100
+445;Y4753;LPC1343FBD48;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 2V 32kB Flash 72MHz LQFP48;MC 32bit 2V 32kB Flash 72MHz LQFP48;5,92;5;5,01;20;4,55;50;4,38;100;4,21;200
+446;F1430;NSL254M-8G;Nylon-Crimpsteckerverbinder 2,54mm;Nylon Crimp Connectors Pitch 2,54mm;Nylonstiftleiste 8polig gerade RM2,54;PCB Header 8-Pole Straight P2,54;16,5;100;11,3;1000;8,7;5000;7,45;10000;6,2;25000
+447;E1118;TSF094R;Serie SFR NEC Micro-Temperatursicherung;Series SFR NEC Micro-Thermal Cut-off Fus;Temperatursicherung 94°C 15A;Thermal Fuses 94°C 15A;53,95;10;34,35;100;24,55;1000;23,05;3000;21,55;5000
+448;D2291;TC685360680;Speicher- / Entstoerdrosseln Serie TC;Storage/EMI Suppression Chokes Series TC;Drossel 68uH 4,5A;Inductor 68uH 4,5A;22,72;10;15,55;50;11,96;100;10,58;200;9,2;500
+449;G9621;ICKPGA6X6X14;Kühlkörper für Pin Grid Array (PGA);Heatsinks for Pin Grid Array (PGA);PGA-Kühlkörper eloxiert 14x14x14;PGA Heatsink Anodized 14x14x14;87,94;5;69,74;25;60,64;100;56,92;200;53,2;500
+450;S2374;3/V80H-362;Varta NiMH Knopfzellen;Varta NiMH Button Cell;NiMH-Akku 3,6V 80mAh 2 Lötfahnen;NiMH Rech. Batt. 3,6V 80mAh 2 Solder Tag;4,88;1;3,66;10;3,05;50;2,91;100;2,77;200
+451;Y4753;LPC1752FBD80;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 64kB Flash 100MHz LQFP80;MC 32bit 3,3V 64kB Flash 100MHz LQFP80;10,31;5;8,72;20;7,93;50;7,63;100;7,34;200
+452;F4247;SAL-12-FKH5-0.5;CONEC M12 Panelsteckverbinder mit Leitun;CONEC M12 Connectors With Wire;Flanschkupplung mit Litzen 5pol Back;Female Socket with Wires 5-Pole Back;8;1;6,3;5;5,5;20;5,25;50;5;100
+453;M5488;HIM12-4805S-DIL24;HNP HIM12 DC/DC-Wandler DIL24 12W 4:1 ge;HNP HIM12 DC/DC-Converter DIL24 12W 4:1;DC/DC Conv 18-75V:5V/2.4A DIL24;DC/DC Conv 18-75V:5.1V/2.4A DIL24;26,82;1;22,7;5;20,64;20;19,7;50;18,76;100
+454;M5488;HIM12-4812D-DIL24;HNP HIM12 DC/DC-Wandler DIL24 12W 4:1 ge;HNP HIM12 DC/DC-Converter DIL24 12W 4:1;DC/DC Conv 18-75V:+/-12V/500mA DIL24;DC/DC Conv 18-75V:+/-12V/500mA DIL24;31,21;1;26,41;5;24,01;20;22,92;50;21,83;100
+455;E1135;A5-F;Micro-Temperatursicherungen 2A radial;Micro Thermal Cut-off Fuses 2A Radial;Temperatursicherung 135°C 2A radial;Thermal Fuses 135°C 2A Radial;46,75;10;29,75;50;21,25;200;19,95;500;18,65;1000
+456;F4271;PXP6040-A-5M00;6000 Buccaneer Datensteckverbindersystem;6000 Buccaneer Data Connector;Flex Kabelsteckergeh. USB A IP/USB B 5m;USB Cable Ass. Sealed A/ unsealed B 5m;31,97;1;26,15;5;23,25;20;22,39;50;21,52;100
+457;F4268;PXM6010-08PCR-0709;6000 Metall Buccaneer Steckverbindersyst;6000 Metall Buccaneer Series;Met. Flex Kabelsteckergeh. 8pol crimp;Metal Flex Conn. Male 8-Pole Crimp;30,65;1;25,07;5;22,29;20;21,47;50;20,63;100
+458;M5456;BIM2-1205S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 9-18V:5V/400mA SIL8;DC/DC Conv 9-18V:5V/400mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+459;M5488;HIM12-4815S-DIL24;HNP HIM12 DC/DC-Wandler DIL24 12W 4:1 ge;HNP HIM12 DC/DC-Converter DIL24 12W 4:1;DC/DC Conv 18-75V:15V/800mA DIL24;DC/DC Conv 18-75V:15V/800mA DIL24;26,82;1;22,7;5;20,64;20;19,7;50;18,76;100
+460;L3217;DRP-480-24;MeanWell DRP-480 DIN-Schiene;MeanWell DRP-480 DIN-Rail;SNT DIN-Schiene 480W 24V/20A;SPS DIN-Rail 480W 24V/20A;95,1;1;92,76;5;89,43;10;86,76;20;85,42;50
+461;M5458;BIM3-1215D-SIL8;HNP BIM3 DC/DC-Wandler SIL8 3W 2:1 gereg;HNP BIM3 DC/DC-Converter SIL8 3W 2:1 reg;DC/DC-Conv 9-18V:+/-15V/100mA SIL8;DC/DC Conv 9-18V:+/-15V/100mA SIL8;12,65;1;10,71;5;9,74;20;9,3;50;8,86;100
+462;M5455;BIM1-2405S-SIL8;HNP BIM1 DC/DC-Wandler SIL8 1W 2:1 gereg;HNP BIM1 DC/DC-Converter SIL8 1W 2:1 reg;DC/DC-Conv 18-36V:5V/200mA SIL8;DC/DC Conv 18-36V:5V/200mA SIL8;10,22;1;8,64;5;7,85;20;7,49;50;7,13;100
+463;F1444;NSG396M-7;Nylon-Crimpsteckerverbinder 3,96mm;Nylon Crimp Connctors Pitch 3,96mm;Nylonsteckergehäuse 7polig RM3,96;Crimp Housing 7-Pole P3,96;24,4;100;16,7;1000;12,85;5000;11;10000;9,15;25000
+464;M5488;HIM12-2405D-DIL24;HNP HIM12 DC/DC-Wandler DIL24 12W 4:1 ge;HNP HIM12 DC/DC-Converter DIL24 12W 4:1;DC/DC Conv 9-36V:+/-5V/1.2A DIL24;DC/DC Conv 9-36V:+/-5V/1.2A DIL24;31,21;1;26,41;5;24,01;20;22,92;50;21,83;100
+465;M5456;BIM2-2405S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:5V/400mA SIL8;DC/DC Conv 18-36V:5V/400mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+466;M5487;BIM12-2403S-DIL24;HNP BIM12 DC/DC-Wandler DIL24 12W 2:1 ge;HNP BIM12 DC/DC-Converter DIL24 12W 2:1;DC/DC-Conv 18-36V:3.3V/3.5A DIL24;DC/DC Conv 18-36V:3.3V/3.5A DIL24;24,19;1;20,47;5;18,61;20;17,76;50;16,91;100
+467;L3217;DRP-480S-48;MeanWell DRP-480 DIN-Schiene;MeanWell DRP-480 DIN-Rail;SNT DIN-Schiene 480W 48V/10A;SPS DIN-Rail 480W 48V/10A;103,2;1;100,66;5;97,04;10;94,15;20;92,7;50
+468;L3323;DRT-240-48;MeanWell DRT-240 3-Phasen DIN-Schiene;MeanWell DRT-240 3-Phase DIN-Rail;SNT DIN-Schiene 240W 48V/5A;SPS DIN-Rail 240W 48V/5A;64,66;1;63,07;5;60,8;10;58,99;20;58,08;50
+469;F4268;PXM6012-03SST;6000 Metall Buccaneer Steckverbindersyst;6000 Metall Buccaneer Series;Met. Frontt. Kabelbuchsengeh. 3pol schra;Metal Chassis Conn. Female 3-Pole Screw;18,17;1;14,86;5;13,21;20;12,72;50;12,23;100
+470;F4268;PXM6010-02PST-0507;6000 Metall Buccaneer Steckverbindersyst;6000 Metall Buccaneer Series;Met. Flex Kabelsteckergeh. 2pol schraub;Metal Flex Conn. Male 2-Pole Screw;35,7;1;29,2;5;25,96;20;25,01;50;24,03;100
+471;M5487;BIM12-1212S-DIL24;HNP BIM12 DC/DC-Wandler DIL24 12W 2:1 ge;HNP BIM12 DC/DC-Converter DIL24 12W 2:1;DC/DC-Conv 9-18V:12V/1.0A DIL24;DC/DC Conv 9-18V:12V/1.0A DIL24;24,19;1;20,47;5;18,61;20;17,76;50;16,91;100
+472;M5488;HIM12-2412S-DIL24;HNP HIM12 DC/DC-Wandler DIL24 12W 4:1 ge;HNP HIM12 DC/DC-Converter DIL24 12W 4:1;DC/DC Conv 9-36V:12V/1.0A DIL24;DC/DC Conv 9-36V:12V/1.0A DIL24;26,82;1;22,7;5;20,64;20;19,7;50;18,76;100
+473;F4268;PXM6010-08SCR-0709;6000 Metall Buccaneer Steckverbindersyst;6000 Metall Buccaneer Series;Met. Flex Kabelbuchsengeh. 8pol crimp;Metal Flex Conn. Female 8-Pole Crimp;30,65;1;25,07;5;22,29;20;21,47;50;20,63;100
+474;M5456;BIM2-2412S-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:12V/167mA SIL8;DC/DC Conv 18-36V:12V/167mA SIL8;10,55;1;8,93;5;8,12;20;7,75;50;7,38;100
+475;M5484;HIM5-2424S-DIL24;HNP HIM5 DC/DC-Wandler DIL24 5W 4:1 gere;HNP HIM5 DC/DC-Conv. DIL24 5W 4:1 regula;DC/DC-Conv 9-36V:24V/208mA DIL24;DC/DC Conv 9-36V:24V/208mA DIL24;16,21;1;13,71;5;12,46;20;11,89;50;11,32;100
+476;M5483;BIM5-2415S-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 18-36V:15V/333mA DIL24;DC/DC Conv 18-36V:15V/333mA DIL24;14;1;11,84;5;10,76;20;10,27;50;9,78;100
+477;M5483;BIM5-2415D-DIL24;HNP BIM5 DC/DC-Wandler DIL24 5W 2:1 gere;HNP BIM5 DC/DC-Converter DIL24 5W 2:1 re;DC/DC-Conv 18-36V:+/-15V/167mA DIL24;DC/DC Conv 18-36V:+/-15V/167mA DIL24;16,36;1;13,84;5;12,58;20;12,01;50;11,44;100
+478;Y4753;LPC1754FBD80;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 128kB Flash 100MHz LQFP80;MC 32bit 3,3V 128kB Flash 100MHz LQFP80;7,8;5;6,6;20;5,99;50;5,77;100;5,55;200
+479;D9121;QSMD014.318;SMD-Mikroprozessor-Quarze HC49S4SMD;SMD Quartz Crystals HC49S4SMD;SMD-Quarz 14.318.000Hz HC49S4;SMD Crystal 14.318.000Hz HC49S4;45,9;10;31,4;50;24,15;300;21,35;1000;18,55;2000
+480;Y4753;LPC1756FBD80;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 256kB Flash 100MHz LQFP80;MC 32bit 3,3V 256kB Flash 100MHz LQFP80;10,72;5;9,07;20;8,24;50;7,94;100;7,63;200
+481;V4369;BZX84-C10;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 10V SOT23;SMD Z-Diode 0,25W 10V SOT23;1,61;500;1,2;3000;1;9000;0,94;18000;0,88;30000
+482;V4369;BZX84-C4V7;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 4,7V SOT23;SMD Z-Diode 0,25W 4,7V SOT23;1,64;500;1,23;3000;1,03;9000;0,96;18000;0,9;30000
+483;Y4753;LPC1758FBD80;NXP 32Bit-Flash-Microcontroller ARM-Cort;NXP 32Bit Flash Microcontrollers ARM-Cor;MC 32bit 3,3V 512kB Flash 100MHz LQFP80;MC 32bit 3,3V 512kB Flash 100MHz LQFP80;14,28;5;12,08;20;10,99;50;10,58;100;10,17;200
+484;C6365;16SEPG270W;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPG 270uF 16V 6,3×8,9mm;OS-CON SEPG 270uF 16V 6,3×8,9mm;62,74;25;53,07;100;48,28;500;46,07;1000;43,86;5000
+485;C6371;35SEK180M;OS-CON Serie SEK;OS-CON Series SEK;OS-CON SEK 180uF 35V 8x12mm;OS-CON SEK 180uF 35V 8x12mm;100,67;25;85,16;100;77,47;500;73,92;1000;70,38;5000
+486;C6371;35SEK82M;OS-CON Serie SEK;OS-CON Series SEK;OS-CON SEK 82uF 35V 8x7mm;OS-CON SEK 82uF 35V 8x7mm;82,35;25;69,66;100;63,37;500;60,47;1000;57,57;5000
+487;C6371;50SEK120M;OS-CON Serie SEK;OS-CON Series SEK;OS-CON SEK 120uF 50V 10x13mm;OS-CON SEK 120uF 50V 10x13mm;131,09;25;110,9;100;100,89;500;96,27;1000;91,65;5000
+488;C6371;50SEK22M;OS-CON Serie SEK;OS-CON Series SEK;OS-CON SEK 22uF 50V 6,3x6mm;OS-CON SEK 22uF 50V 6,3x6mm;70,12;25;59,32;100;53,96;500;51,49;1000;49,02;5000
+489;C6371;50SEK33M;OS-CON Serie SEK;OS-CON Series SEK;OS-CON SEK 33uF 50V 8x7mm;OS-CON SEK 33uF 50V 8x7mm;82,35;25;69,66;100;63,37;500;60,47;1000;57,57;5000
+490;C6371;50SEK68M;OS-CON Serie SEK;OS-CON Series SEK;OS-CON SEK 68uF 50V 8x12mm;OS-CON SEK 68uF 50V 8x12mm;100,67;25;85,16;100;77,47;500;73,92;1000;70,38;5000
+491;U4536;FP50R06KE3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 600V 60A ECONO2;Converter-Brake-Inverter 600V 60A ECONO2;77,96;1;63,75;3;56,68;10;54,57;20;52,46;50
+492;U1273;BC817-16LT1G;SMD-Kleinleistungstransistoren BC_ SOT23;SMD Small Signal Transistors BC_ SOT23;NPN 45V 0,5A 0,225W B:100-250 SOT23;NPN 45V 0,5A 0,225W B:100-250 SOT23;1,53;500;1,15;3000;0,95;9000;0,9;18000;0,84;30000
+493;U1273;BC817-25LT1G;SMD-Kleinleistungstransistoren BC_ SOT23;SMD Small Signal Transistors BC_ SOT23;NPN 45V 0,5A 0,225W B:160-400 SOT23;NPN 45V 0,5A 0,225W B:160-400 SOT23;1,6;500;1,2;3000;1;9000;0,94;18000;0,88;30000
+494;E6376;EMI-SS-205FMI;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xNO 8A 5V 62,5R;Relay DPST-NO 8A 5V 62,5R;1,11;10;0,83;50;0,69;100;0,63;200;0,58;500
+495;E6376;EMI-SS-212D;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xU 8A 12V 360R;Relay DPDT 8A 12V 360R;1,5;10;1,12;50;0,94;100;0,86;200;0,78;500
+496;E6376;EMI-SS-224D;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xU 8A 24V 1440R;Relay DPDT 8A 24V 1440R;2,45;10;1,84;50;1,53;100;1,41;200;1,28;500
+497;E6376;EMI-SS-224FI;GoodSky Printrelais Serie EMI/EZ;GoodSky Printrelays Series EMI/EZ;Relais 2xU 8A 24V 1440R;Relay DPDT 8A 24V 1440R;1,28;10;0,96;50;0,8;100;0,73;200;0,67;500
+498;U1273;BC817-40LT1G;SMD-Kleinleistungstransistoren BC_ SOT23;SMD Small Signal Transistors BC_ SOT23;NPN 45V 0,5A 0,225W B:250-600 SOT23;NPN 45V 0,5A 0,225W B:250-600 SOT23;1,44;500;1,08;3000;0,9;9000;0,84;18000;0,78;30000
+499;U1273;BC846BLT1G;SMD-Kleinleistungstransistoren BC_ SOT23;SMD Small Signal Transistors BC_ SOT23;NPN 65V 0,1A 0,225W B:200-450 SOT23;NPN 65V 0,1A 0,225W B:200-450 SOT23;1,36;500;1,02;3000;0,84;9000;0,79;18000;0,74;30000
+500;U1273;BC847BLT1G;SMD-Kleinleistungstransistoren BC_ SOT23;SMD Small Signal Transistors BC_ SOT23;NPN 45V 0,1A 0,225W B:200-450 SOT23;NPN 45V 0,1A 0,225W B:200-450 SOT23;1,39;500;1,04;3000;0,87;9000;0,82;18000;0,76;30000
+501;L3343;DRT-480-24;MeanWell DRT-480 3-Phasen DIN-Schiene;MeanWell DRT-480 3-Phase DIN-Rail;SNT DIN-Schiene 480W 24V/20A;SPS DIN-Rail 480W 24V/20A;102,81;1;100,28;5;96,67;10;93,79;20;92,34;50
+502;C6399;EEUEE2V220;Alu Elko Serie EE;Alu El-Cap Series EE;Elko 22uF 350V 12,5x20mm RM5,0;El-Capacitor 22uF 350V 12,5x20mm P5,0;46,82;10;39,61;100;36,03;500;34,38;1000;32,73;2000
+503;F2537;PFLZ10;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 10polig RM2,54 schwarz;IDC Connector 10-Pole P2,54 Black;25,99;10;17,78;50;13,68;300;11,4;1000;9,12;2000
+504;F2537;PFLZ14;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 14polig RM2,54 schwarz;IDC Connector 14-Pole P2,54 Black;25,99;10;17,78;50;13,68;300;11,4;1000;9,12;2000
+505;F2537;PFLZ16;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 16polig RM2,54 schwarz;IDC Connector 16-Pole P2,54 Black;25,99;10;17,78;50;13,68;300;11,4;1000;9,12;2000
+506;F2537;PFLZ20;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 20polig RM2,54 schwarz;IDC Connector 20-Pole P2,54 Black;34,66;10;23,71;50;18,24;300;15,2;1000;12,16;2000
+507;F2537;PFLZ26;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 26polig RM2,54 schwarz;IDC Connector 26-Pole P2,54 Black;34,66;10;23,71;50;18,24;300;15,2;1000;12,16;2000
+508;F2537;PFLZ34;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 34polig RM2,54 schwarz;IDC Connector 34-Pole P2,54 Black;43,32;10;29,64;50;22,8;300;18,99;1000;15,2;2000
+509;F2537;PFLZ40;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 40polig RM2,54 schwarz;IDC Connector 40-Pole P2,54 Black;43,32;10;29,64;50;22,8;300;18,99;1000;15,2;2000
+510;F2537;PFLZ50;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 50polig RM2,54 schwarz;IDC Connector 50-Pole P2,54 Black;69,32;10;47,42;50;36,48;300;30,39;1000;24,32;2000
+511;F2537;PFLZ60;Pfostenverbinder RM2,54;IDC Connector Pitch 2,54mm;Pfostenverbinder 60polig RM2,54 schwarz;IDC Connector 60-Pole P2,54 Black;121,31;10;82,99;50;63,83;300;53,18;1000;42,57;2000
+512;F2353;PSBZ10;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 10polig gerade, schwarz;Box Header 10-Pole Straight, Black;17,33;10;11,86;50;9,12;200;7,6;500;6,08;1000
+513;F2357;PSBZ14W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled Pitch 2,54mm Black;W-Stiftleiste 14polig gewinkelt, schwarz;Box Header 14-Pole Angled, Black;34,66;10;23,71;50;18,24;200;15,2;500;12,16;1000
+514;F2357;PSBZ16W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled Pitch 2,54mm Black;W-Stiftleiste 16polig gewinkelt, schwarz;Box Header 16-Pole Angled, Black;34,66;10;23,71;50;18,24;200;15,2;500;12,16;1000
+515;F2353;PSBZ20;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 20polig gerade, schwarz;Box Header 20-Pole Straight, Black;34,66;10;23,71;50;18,24;200;15,2;500;12,16;1000
+516;F2357;PSBZ20W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled Pitch 2,54mm Black;W-Stiftleiste 20polig gewinkelt, schwarz;Box Header 20-Pole Angled, Black;43,32;10;29,64;50;22,8;200;18,99;500;15,2;1000
+517;F2357;PSBZ26W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled Pitch 2,54mm Black;W-Stiftleiste 26polig gewinkelt, schwarz;Box Header 26-Pole Angled, Black;51,99;10;35,57;50;27,36;200;22,79;500;18,24;1000
+518;F2353;PSBZ34;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 34polig gerade, schwarz;Box Header 34-Pole Straight, Black;43,32;10;29,64;50;22,8;200;18,99;500;15,2;1000
+519;F2357;PSBZ34W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled Pitch 2,54mm Black;W-Stiftleiste 34polig gewinkelt, schwarz;Box Header 34-Pole Angled, Black;69,32;10;47,42;50;36,48;200;30,39;500;24,32;1000
+520;F2353;PSBZ50;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 50polig gerade, schwarz;Box Header 50-Pole Straight, Black;69,32;10;47,42;50;36,48;200;30,39;500;24,32;1000
+521;F2373;PSLZ10;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 10polig gerade, schwarz;Box Header 10-Pole Straight, Black;51,99;10;35,57;50;27,36;200;22,79;500;18,24;1000
+522;F2375;PSLZ10W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 10polig gewinkelt, schwarz;Box Header 10-Pole Angled, Black;65,88;10;45,07;50;34,67;200;28,88;500;23,12;1000
+523;F2373;PSLZ14;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 14polig gerade, schwarz;Box Header 14-Pole Straight, Black;65,88;10;45,07;50;34,67;200;28,88;500;23,12;1000
+524;F2375;PSLZ14W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 14polig gewinkelt, schwarz;Box Header 14-Pole Angled, Black;77,98;10;53,35;50;41,04;200;34,19;500;27,37;1000
+525;F2373;PSLZ16;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 16polig gerade, schwarz;Box Header 16-Pole Straight, Black;69,32;10;47,42;50;36,48;200;30,39;500;24,32;1000
+526;F2375;PSLZ16W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 16polig gewinkelt, schwarz;Box Header 16-Pole Angled, Black;86,65;10;59,28;50;45,6;200;37,99;500;30,41;1000
+527;F2373;PSLZ20;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 20polig gerade, schwarz;Box Header 20-Pole Straight, Black;77,98;10;53,35;50;41,04;200;34,19;500;27,37;1000
+528;F2375;PSLZ20W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 20polig gewinkelt, schwarz;Box Header 20-Pole Angled, Black;97,03;10;66,38;50;51,06;200;42,54;500;34,05;1000
+529;F2373;PSLZ26;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 26polig gerade, schwarz;Box Header 26-Pole Straight, Black;86,65;10;59,28;50;45,6;200;37,99;500;30,41;1000
+530;F2375;PSLZ26W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 26polig gewinkelt, schwarz;Box Header 26-Pole Angled, Black;103,98;10;71,14;50;54,72;200;45,59;500;36,49;1000
+531;F2373;PSLZ34;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 34polig gerade, schwarz;Box Header 34-Pole Straight, Black;103,98;10;71,14;50;54,72;200;45,59;500;36,49;1000
+532;F2375;PSLZ34W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 34polig gewinkelt, schwarz;Box Header 34-Pole Angled, Black;129,97;10;88,92;50;68,39;200;56,98;500;45,61;1000
+533;F2373;PSLZ40;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 40polig gerade, schwarz;Box Header 40-Pole Straight, Black;121,31;10;82,99;50;63,83;200;53,18;500;42,57;1000
+534;F2375;PSLZ40W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 40polig gewinkelt, schwarz;Box Header 40-Pole Angled, Black;147,3;10;100,78;50;77,51;200;64,58;500;51,69;1000
+535;F2373;PSLZ50;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 50polig gerade, schwarz;Box Header 50-Pole Straight, Black;138,64;10;94,85;50;72,95;200;60,78;500;48,65;1000
+536;F2375;PSLZ50W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled P2,54mm Black;W-Stiftleiste 50polig gewinkelt, schwarz;Box Header 50-Pole Angled, Black;181,96;10;124,49;50;95,75;200;79,78;500;63,85;1000
+537;F2373;PSLZ60;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight P2,54mm Black;W-Stiftleiste 60polig gerade, schwarz;Box Header 60-Pole Straight, Black;164,63;10;112,63;50;86,63;200;72,18;500;57,77;1000
+538;F2357;PSBZ10W;Wannen-Stiftleisten abgewinkelt RM2,54 s;Box Header Angled Pitch 2,54mm Black;W-Stiftleiste 10polig gewinkelt, schwarz;Box Header 10-Pole Angled, Black;25,99;10;17,78;50;13,68;200;11,4;500;9,12;1000
+539;F2353;PSBZ14;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 14polig gerade, schwarz;Box Header 14-Pole Straight, Black;25,99;10;17,78;50;13,68;200;11,4;500;9,12;1000
+540;F2353;PSBZ16;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 16polig gerade, schwarz;Box Header 16-Pole Straight, Black;25,99;10;17,78;50;13,68;200;11,4;500;9,12;1000
+541;F2353;PSBZ26;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 26polig gerade, schwarz;Box Header 26-Pole Straight, Black;34,66;10;23,71;50;18,24;200;15,2;500;12,16;1000
+542;F2353;PSBZ40;Wannen-Stiftleisten gerade RM2,54 schwar;Box Header Straight Pitch 2,54mm Black;W-Stiftleiste 40polig gerade, schwarz;Box Header 40-Pole Straight, Black;51,99;10;35,57;50;27,36;200;22,79;500;18,24;1000
+543;G5114;HA10758PSLA;Eddystone Alu-Druckguss-Gehäuse;Eddystone Diecast Aluminium Enclosures;Alu-Geh. 145x95x49;Aluminium Enclosure 145x95x49;12,16;1;10,29;5;9,36;10;8,93;25;8,5;50
+544;G5114;HA11130BPSLA;Eddystone Alu-Druckguss-Gehäuse;Eddystone Diecast Aluminium Enclosures;Alu-Geh. 125x125x12,25;Aluminium Enclosure 125x125x12,25;12,56;1;10,63;5;9,67;10;9,23;25;8,78;50
+545;G5114;HA11130PSLA;Eddystone Alu-Druckguss-Gehäuse;Eddystone Diecast Aluminium Enclosures;Alu-Geh. 125x125x75;Aluminium Enclosure 125x125x75;12,73;1;10,77;5;9,8;10;9,35;25;8,9;50
+546;G5114;HA11451PSLA;Eddystone Alu-Druckguss-Gehäuse;Eddystone Diecast Aluminium Enclosures;Alu-Geh. 53x38x31;Aluminium Enclosure 53x38x31;3,45;1;2,92;5;2,65;10;2,53;25;2,41;50
+547;G5155;HA1411B;Hammond Alublechgehäuse;Hammond Aluminium Enclosures;Alu-Gehäuse 69x56x41 grau;Aluminium Enclosure 69x56x41 Grey;6,48;1;5,48;5;4,99;10;4,76;25;4,53;50
+548;G5155;HA1411C;Hammond Alublechgehäuse;Hammond Aluminium Enclosures;Alu-Gehäuse 81x56x28 grau;Aluminium Enclosure 81x56x28 Grey;6,51;1;5,51;5;5,01;10;4,78;25;4,55;50
+549;G5155;HA1411H;Hammond Alublechgehäuse;Hammond Aluminium Enclosures;Alu-Gehäuse 102x56x56 grau;Aluminium Enclosure 102x56x56 Grey;7,54;1;6,38;5;5,8;10;5,54;25;5,27;50
+550;G5155;HA1411J;Hammond Alublechgehäuse;Hammond Aluminium Enclosures;Alu-Gehäuse 102x102x51 grau;Aluminium Enclosure 102x102x51 Grey;7,34;1;6,21;5;5,65;10;5,39;25;5,13;50
+551;G5155;HA1411PP;Hammond Alublechgehäuse;Hammond Aluminium Enclosures;Alu-Gehäuse 152x102x51 grau;Aluminium Enclosure 152x102x51 Grey;8,73;1;7,39;5;6,72;10;6,41;25;6,1;50
+552;G5137;HA1455A1002;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 100x70x12 klar elox.;Aluminium Encl. 100x70x12 CLR anod.;7;1;5,92;5;5,39;10;5,14;25;4,89;50
+553;G5137;HA1455A1002BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 100x70x12 sw elox.;Aluminium Encl. 100x70x12 BK anod.;8,3;1;7,02;5;6,39;10;6,1;25;5,8;50
+554;G5137;HA1455A1202;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x70x12 klar elox.;Aluminium Encl. 120x70x12 CLR anod.;7,31;1;6,18;5;5,62;10;5,37;25;5,11;50
+555;G5137;HA1455A1202BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x70x12 sw elox.;Aluminium Encl. 120x70x12 BK anod.;8,72;1;7,37;5;6,71;10;6,4;25;6,09;50
+556;G5137;HA1455A802;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x70x12 klar elox.;Aluminium Encl. 80x70x12 CLR anod.;6,66;1;5,64;5;5,13;10;4,89;25;4,66;50
+557;G5137;HA1455A802BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x70x12 sw elox.;Aluminium Encl. 80x70x12 BK anod.;7,91;1;6,69;5;6,08;10;5,81;25;5,53;50
+558;G5137;HA1455B1002;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 100x71,7x19 klar elox.;Aluminium Encl. 100x71,7x19 CLR anod.;7,55;1;6,39;5;5,81;10;5,55;25;5,28;50
+559;G5137;HA1455B1002BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 100x71.7x19 sw elox.;Aluminium Encl. 100x71.7x19 BK anod.;8,9;1;7,53;5;6,85;10;6,54;25;6,22;50
+560;G5137;HA1455B1202;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x72x19 klar elox.;Aluminium Encl. 120x72x19 CLR anod.;8;1;6,77;5;6,15;10;5,87;25;5,59;50
+561;G5137;HA1455B1202BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x70x19 sw elox.;Aluminium Encl. 120x70x19 BK anod.;9,41;1;7,96;5;7,24;10;6,91;25;6,58;50
+562;G5137;HA1455B802;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x71,7x19 klar elox.;Aluminium Encl. 80x71,7x19 CLR anod.;7,17;1;6,07;5;5,52;10;5,27;25;5,01;50
+563;G5137;HA1455B802BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x71.7x19 sw elox.;Aluminium Encl. 80x71.7x19 BK anod.;8,43;1;7,13;5;6,48;10;6,19;25;5,89;50
+564;G4113;HA1551FBK;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 50x35x15 schwarz;ABS Enclosure 50x35x15 Black;1,27;5;1,08;25;0,98;50;0,93;100;0,89;200
+565;G4114;HA1551FFLBK;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 50x35x15 Flansch schwarz;ABS Enclosure 50x35x15 Flanged Lid Black;1,29;5;1,09;25;0,99;50;0,95;100;0,9;200
+566;G4114;HA1551FFLGY;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 50x35x15 Flansch grau;ABS Enclosure 50x35x15 Flanged Lid Grey;1,29;5;1,09;25;0,99;50;0,95;100;0,9;200
+567;G4113;HA1551FGY;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 50x35x15 grau;ABS Enclosure 50x35x15 Grey;1,27;5;1,08;25;0,98;50;0,93;100;0,89;200
+568;G4113;HA1551JBK;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 60x35x15 schwarz;ABS Enclosure 60x35x15 Black;1,69;5;1,43;25;1,3;50;1,24;100;1,18;200
+569;G4114;HA1551JFLBK;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 60x35x15 Flansch schwarz;ABS Enclosure 60x35x15 Flanged Lid Black;1,69;5;1,43;25;1,3;50;1,24;100;1,18;200
+570;G4113;HA1551JGY;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 60x35x15 grau;ABS Enclosure 60x35x15 Grey;1,69;5;1,43;25;1,3;50;1,24;100;1,18;200
+571;G4113;HA1551LBK;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 80x40x15 schwarz;ABS Enclosure 80x40x15 Black;1,78;5;1,5;25;1,37;50;1,31;100;1,24;200
+572;G4114;HA1551LFLBK;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 80x40x15 Flansch schwarz;ABS Enclosure 80x40x15 Flanged Lid Black;1,78;5;1,5;25;1,37;50;1,31;100;1,24;200
+573;G4114;HA1551LFLGY;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 80x40x15 Flansch grau;ABS Enclosure 80x40x15 Flanged Lid Grey;1,78;5;1,5;25;1,37;50;1,31;100;1,24;200
+574;G4113;HA1551LGY;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 80x40x15 grau;ABS Enclosure 80x40x15 Grey;1,78;5;1,5;25;1,37;50;1,31;100;1,24;200
+575;G4113;HA1551NBK;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 35x35x15 schwarz;ABS Enclosure 35x35x15 Black;1,41;5;1,19;25;1,08;50;1,04;100;0,99;200
+576;G4114;HA1551NFLGY;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 35x35x15 Flansch grau;ABS Enclosure 35x35x15 Flanged Lid Grey;1,41;5;1,19;25;1,08;50;1,04;100;0,99;200
+577;G4113;HA1551NGY;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 35x35x15 grau;ABS Enclosure 35x35x15 Grey;1,41;5;1,19;25;1,08;50;1,04;100;0,99;200
+578;G4113;HA1551QBK;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 40x40x15 schwarz;ABS Enclosure 40x40x15 Black;1,47;5;1,24;25;1,13;50;1,08;100;1,03;200
+579;G4114;HA1551QFLBK;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 40x40x15 Flansch schwarz;ABS Enclosure 40x40x15 Flanged Lid Black;1,47;5;1,24;25;1,13;50;1,08;100;1,03;200
+580;G4114;HA1551QFLGY;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 40x40x15 Flansch grau;ABS Enclosure 40x40x15 Flanged Lid Grey;1,47;5;1,24;25;1,13;50;1,08;100;1,03;200
+581;G4114;HA1551SFLBK;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 50x50x15 Flansch schwarz;ABS Enclosure 50x50x15 Flanged Lid Black;1,59;5;1,35;25;1,23;50;1,17;100;1,11;200
+582;G4114;HA1551SFLGY;Hammond ABS-Flansch-Kleingehäuse;Hammond ABS Miniature Enclosures with Fl;ABS-Geh. 50x50x15 Flansch grau;ABS Enclosure 50x50x15 Flanged Lid Grey;1,59;5;1,35;25;1,23;50;1,17;100;1,11;200
+583;G4113;HA1551SGY;Hammond Kleingehäuse;ABS Miniature Enclosures Series 1551;ABS-Geh. 50x50x15 grau;ABS Enclosure 50x50x15 Grey;1,59;5;1,35;25;1,23;50;1,17;100;1,11;200
+584;G4153;HA1553BBKBKBAT;Hammond ABS-Handgehäuse;Hammond ABS Hand-held Enclosures;ABS-Geh. 117x79x25 sw/sw Batteriefach;ABS Enclosure 117x79x25 BK/BK Batt. Comp;9,39;1;7,94;5;7,23;10;6,9;25;6,57;50
+585;G4153;HA1553CBKBAT;Hammond ABS-Handgehäuse;Hammond ABS Hand-held Enclosures;ABS-Geh. 117x79x33 sw;ABS Enclosure 117x79x33 BK;8,29;1;7,01;5;6,38;10;6,09;25;5,79;50
+586;G4153;HA1553CGYBAT;Hammond ABS-Handgehäuse;Hammond ABS Hand-held Enclosures;ABS-Geh. 117x79x33 gr;ABS Enclosure 117x79x33 GY;8,29;1;7,01;5;6,38;10;6,09;25;5,79;50
+587;G4153;HA1553DBKBKBAT;Hammond ABS-Handgehäuse;Hammond ABS Hand-held Enclosures;ABS-Geh. 147x89x25 sw Batteriefach;ABS Enclosure 147x89x25 BK Batt.Comp.;10,33;1;8,74;5;7,95;10;7,58;25;7,22;50
+588;G4153;HA1553DTBUBKBAT;Hammond ABS-Handgehäuse;Hammond ABS Hand-held Enclosures;ABS-Geh. 147x89x25 tr. bl/sw Batt. Fach;ABS Encl. 147x89x25 Tr. BU/BK Batt. Comp;10,33;1;8,74;5;7,95;10;7,58;25;7,22;50
+589;G4535;HA1554GGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 120x90x80 grau;ABS Enclosure 120x90x80 Grey;11,89;1;10,06;5;9,15;10;8,73;25;8,31;50
+590;G4535;HA1554HGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 180x120x60 grau;ABS Enclosure 180x120x60 Grey;15,87;1;13,43;5;12,21;10;11,66;25;11,1;50
+591;G4535;HA1554JGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 160x90x60 grau;ABS Enclosure 160x90x60 Grey;11,87;1;10,04;5;9,14;10;8,72;25;8,3;50
+592;G4535;HA1554PGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 120x120x80 grau;ABS Enclosure 120x120x80 Grey;14,57;1;12,32;5;11,21;10;10,7;25;10,19;50
+593;G4535;HA1554RGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 160x160x60 grau;ABS Enclosure 160x160x60 Grey;15,98;1;13,52;5;12,3;10;11,73;25;11,17;50
+594;G4535;HA1554SGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 160x160x90 grau;ABS Enclosure 160x160x90 Grey;17,6;1;14,89;5;13,55;10;12,93;25;12,31;50
+595;G4535;HA1554TGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 180x120x90 grau;ABS Enclosure 180x120x90 Grey;16,97;1;14,36;5;13,06;10;12,47;25;11,87;50
+596;G4535;HA1554UGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 200x120x90 grau;ABS Enclosure 200x120x90 Grey;22,4;1;18,95;5;17,24;10;16,45;25;15,66;50
+597;G4535;HA1554VAGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 240x160x90 grau;ABS Enclosure 240x160x90 Grey;28,04;1;23,72;5;21,58;10;20,59;25;19,6;50
+598;G4535;HA1554VBGY;Hammond Wand- und Tischgehäuse 1554;Hammond Wall and Desk Mounting Enclosure;ABS-Geh. 240x160x120 grau;ABS Enclosure 240x160x120 Grey;28,04;1;23,72;5;21,58;10;20,59;25;19,6;50
+599;G5136;HA1455C1201;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x54x23 klar elox.;Aluminium Encl. 120x54x23 CLR anod.;10,86;1;9,19;5;8,36;10;7,98;25;7,59;50
+600;G5136;HA1455C1201BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x54x23 sw elox.;Aluminium Encl. 120x54x23 BK anod.;11,26;1;9,53;5;8,67;10;8,27;25;7,87;50
+601;G5136;HA1455C1201BU;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x54x23 blau elox.;Aluminium Encl. 120x54x23 BU anod.;15,49;1;13,1;5;11,92;10;11,37;25;10,83;50
+602;G5136;HA1455C1201RD;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x54x23 rot elox.;Aluminium Encl. 120x54x23 RD anod.;15,49;1;13,1;5;11,92;10;11,37;25;10,83;50
+603;G5137;HA1455C1202;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x54x23 klar elox.;Aluminium Encl. 120x54x23 CLR anod.;8;1;6,77;5;6,15;10;5,87;25;5,59;50
+604;G5137;HA1455C1202BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x54x23 sw elox.;Aluminium Encl. 120x54x23 BK anod.;8,92;1;7,54;5;6,86;10;6,55;25;6,23;50
+605;G5136;HA1455C801;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x54x23 klar elox.;Aluminium Encl. 80x54x23 CLR anod.;9,36;1;7,92;5;7,2;10;6,87;25;6,54;50
+606;G5136;HA1455C801BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x54x23 sw elox.;Aluminium Encl. 80x54x23 BK anod.;10,85;1;9,18;5;8,35;10;7,97;25;7,58;50
+607;G5136;HA1455C801BU;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x54x23 blau elox.;Aluminium Encl. 80x54x23 BU anod.;14,45;1;12,22;5;11,12;10;10,61;25;10,1;50
+608;G5136;HA1455C801RD;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x54x23 rot elox.;Aluminium Encl. 80x54x23 RD anod.;14,45;1;12,22;5;11,12;10;10,61;25;10,1;50
+609;G5137;HA1455C802;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x54x23 klar elox.;Aluminium Encl. 80x54x23 CLR anod.;7,49;1;6,34;5;5,77;10;5,5;25;5,24;50
+610;G5137;HA1455C802BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x54x23 sw elox.;Aluminium Encl. 80x54x23 BK anod.;8,56;1;7,24;5;6,59;10;6,29;25;5,99;50
+611;G5136;HA1455CF1201;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilg. 120x54x23 klar elox Flansch;Alu Encl. 120x54x23 CLR Anod. Flange;10,74;1;9,08;5;8,26;10;7,89;25;7,51;50
+612;G5136;HA1455CF1201BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilg. 120x54x23 sw elox Flansch;Alu Encl. 120x54x23 BK Anod. Flange;11,35;1;9,6;5;8,74;10;8,34;25;7,94;50
+613;G5136;HA1455CF801;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilg. 80x54x23 klar elox. Flansch;Alu Encl. 80x54x23 CLR Anod. Flange;9,91;1;8,39;5;7,63;10;7,28;25;6,93;50
+614;G5136;HA1455CF801BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilg. 80x54x23 sw elox. Flansch;Alu Encl. 80x54x23 BK Anod. Flange;10,56;1;8,93;5;8,12;10;7,75;25;7,38;50
+615;G5136;HA1455D601;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 60x45x25 klar elox.;Aluminium Encl. 60x45x25 CLR anod.;10,72;1;9,07;5;8,25;10;7,88;25;7,5;50
+616;G5136;HA1455D601BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 60x45x25 sw elox.;Aluminium Encl. 60x45x25 BK anod.;13,25;1;11,21;5;10,2;10;9,73;25;9,26;50
+617;G5136;HA1455D601BU;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 60x45x25 blau elox.;Aluminium Encl. 60x45x25 BU anod.;13,25;1;11,21;5;10,2;10;9,73;25;9,26;50
+618;G5137;HA1455D602;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 60x45x25 klar elox.;Aluminium Encl. 60x45x25 CLR anod.;6,79;1;5,74;5;5,22;10;4,98;25;4,74;50
+619;G5137;HA1455D602BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 60x45x25 sw elox.;Aluminium Encl. 60x45x25 BK anod.;8,47;1;7,17;5;6,52;10;6,22;25;5,92;50
+620;G5136;HA1455D801;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x45x25 klar elox.;Aluminium Encl. 80x45x25 CLR anod.;10,97;1;9,28;5;8,44;10;8,06;25;7,67;50
+621;G5136;HA1455D801BU;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x45x25 blau elox.;Aluminium Encl. 80x45x25 BU anod.;13,68;1;11,57;5;10,53;10;10,05;25;9,56;50
+622;G5136;HA1455D801RD;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 80x45x25 rot elox.;Aluminium Encl. 80x45x25 RD anod.;13,68;1;11,57;5;10,53;10;10,05;25;9,56;50
+623;G5137;HA1455D802;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x45x25 klar elox.;Aluminium Encl. 80x45x25 CLR anod.;7,05;1;5,96;5;5,42;10;5,18;25;4,93;50
+624;G5137;HA1455D802BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 80x45x25 sw elox.;Aluminium Encl. 80x45x25 BK anod.;8,87;1;7,5;5;6,83;10;6,51;25;6,2;50
+625;G5136;HA1455J1201;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x78x27 klar elox.;Aluminium Encl. 120x78x27 CLR anod.;12,93;1;10,94;5;9,95;10;9,5;25;9,04;50
+626;G5136;HA1455J1201BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x78x27 sw elox.;Aluminium Encl. 120x78x27 BK anod.;12,62;1;10,68;5;9,71;10;9,27;25;8,83;50
+627;G5136;HA1455J1201BU;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x78x27 blau elox.;Aluminium Encl. 120x78x27 BU anod.;20,56;1;17,39;5;15,82;10;15,1;25;14,37;50
+628;G5136;HA1455J1201RD;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 120x78x27 rot elox.;Aluminium Encl. 120x78x27 RD anod.;20,56;1;17,39;5;15,82;10;15,1;25;14,37;50
+629;G5137;HA1455J1202;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x78x27 klar elox.;Aluminium Encl. 120x78x27 CLR anod.;9,84;1;8,32;5;7,57;10;7,22;25;6,88;50
+630;G5137;HA1455J1202BK;Hammond Alu-Profilgehäuse,Serie 1455,ABS;Extruded Aluminium Enclosures Series 145;Alu-Profilgeh. 120x78x27 sw elox.;Aluminium Encl. 120x78x27 BK anod.;8,99;1;7,61;5;6,92;10;6,6;25;6,29;50
+631;G5136;HA1455J1601;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 160x78x27 klar elox.;Aluminium Encl. 160x78x27 CLR anod.;13,68;1;11,57;5;10,53;10;10,05;25;9,56;50
+632;G4318;HA1591AFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 100x50x25 Flansch gr UL94V-0;ABS Encl 100x50x25 Flanged L. GY UL94V-0;3,34;1;2,83;10;2,57;50;2,45;100;2,33;200
+633;G4318;HA1591CFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 120x65x40 Flansch gr UL94V-0;ABS Encl 120x65x40 Flanged L. GY UL94V-0;5,19;1;4,39;10;4;50;3,81;100;3,63;200
+634;G4318;HA1591EFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 191x110x61 Flansch gr UL94V-0;ABS Enc 191x110x61 Flanged L. GY UL94V-0;8,99;1;7,61;10;6,92;50;6,6;100;6,29;200
+635;G4318;HA1591GFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 120x94x34 Flansch gr UL94V-0;ABS Encl 120x94x34 Flanged L. GY UL94V-0;5,82;1;4,92;10;4,48;50;4,28;100;4,07;200
+636;G4318;HA1591HFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 165x71x29 Flansch gr UL94V-0;ABS Encl 165x71x29 Flanged L. GY UL94V-0;6,1;1;5,16;10;4,69;50;4,48;100;4,26;200
+637;G4318;HA1591LFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 85x56x39 Flansch gr UL94V-0;ABS Encl 85x56x39 Flanged Lid GY UL94V-0;3,57;1;3,02;10;2,75;50;2,62;100;2,5;200
+638;G4318;HA1591MFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 85x56x26 Flansch gr UL94V-0;ABS Encl 85x56x26 Flanged Lid GY UL94V-0;3,68;1;3,11;10;2,83;50;2,7;100;2,57;200
+639;G4315;HA1591MGY;HAMMOND 1591 ABS Universalgehäuse;HAMMOND 1591 ABS Multipurpose Encl.;ABS-Geh. 85x56x26 gr UL94V-0;ABS Enclosure 85x56x26 GY UL94V-0;3,68;1;3,11;10;2,83;50;2,7;100;2,57;200
+640;G4318;HA1591SFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 110x82x44 Flansch gr UL94V-0;ABS Encl 110x82x44 Flanged L. GY UL94V-0;5,82;1;4,92;10;4,48;50;4,28;100;4,07;200
+641;G4318;HA1591TFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 120x80x59 Flansch gr UL94V-0;ABS Encl 120x80x59 Flanged L. GY UL94V-0;6,17;1;5,22;10;4,75;50;4,53;100;4,32;200
+642;G4315;HA1591TGY;HAMMOND 1591 ABS Universalgehäuse;HAMMOND 1591 ABS Multipurpose Encl.;ABS-Geh. 120x80x59 gr UL94V-0;ABS Enclosure 120x80x59 GY UL94V-0;6,17;1;5,22;10;4,75;50;4,53;100;4,32;200
+643;G4318;HA1591UFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 120x120x59 Flansch gr UL94V-0;ABS Enc 120x120x59 Flanged L. GY UL94V-0;7,14;1;6,04;10;5,49;50;5,24;100;4,99;200
+644;G4315;HA1591UGY;HAMMOND 1591 ABS Universalgehäuse;HAMMOND 1591 ABS Multipurpose Encl.;ABS-Geh. 120x120x59 gr UL94V-0;ABS Enclosure 120x120x59 GY UL94V-0;7,14;1;6,04;10;5,49;50;5,24;100;4,99;200
+645;G4318;HA1591VFLGY;HAMMOND 1591 ABS Universalgehäuse mit Fl;HAMMOND 1591 ABS Multipurpose Encl. with;ABS-Geh. 120x120x94 Flansch gr UL94V-0;ABS Enc 120x120x94 Flanged L. GY UL94V-0;8,55;1;7,23;10;6,58;50;6,28;100;5,98;200
+646;G4315;HA1591VGY;HAMMOND 1591 ABS Universalgehäuse;HAMMOND 1591 ABS Multipurpose Encl.;ABS-Geh. 120x120x94 gr UL94V-0;ABS Enclosure 120x120x94 GY UL94V-0;8,55;1;7,23;10;6,58;50;6,28;100;5,98;200
+647;G4511;HA1593DTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 114x36x25 transparent bl;ABS Enclosure 114x36x25 Translucent BU;4,35;1;3,68;10;3,35;50;3,2;100;3,04;200
+648;G4141;HA1593HAMPI3CLR;Raspberry PI Model B Gehäuse;Raspberry PI Model B Enclosure;Raspberry PI B+/2B/3B Gehäuse klar;Raspberry PI B+/2B/3B Enclosure Clear;5,97;1;5,05;10;4,6;50;4,39;100;4,18;200
+649;G4141;HA1593HAMPI3GY;Raspberry PI Model B Gehäuse;Raspberry PI Model B Enclosure;Raspberry PI B+/2B/3B Gehäuse grau;Raspberry PI B+/2B/3B Enclosure Grey;5,55;1;4,69;10;4,27;50;4,07;100;3,88;200
+650;G4141;HA1593HAMPI3TBU;Raspberry PI Model B Gehäuse;Raspberry PI Model B Enclosure;Raspberry PI B+/2B/3B Geh. transp. blau;Raspberry PI B+/2/3 Encl. Transl. Blue;5,97;1;5,05;10;4,6;50;4,39;100;4,18;200
+651;G4511;HA1593JTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 66x66x28 transparent bl;ABS Enclosure 66x66x28 Translucent BU;3,11;1;2,63;10;2,39;50;2,28;100;2,17;200
+652;G4511;HA1593KTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 66x66x28 transparent bl;ABS Enclosure 66x66x28 Translucent BU;3,16;1;2,67;10;2,43;50;2,32;100;2,21;200
+653;G4511;HA1593LTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 92x66x28 transparent bl;ABS Enclosure 92x66x28 Translucent BU;3,98;1;3,37;10;3,07;50;2,93;100;2,78;200
+654;G4511;HA1593NTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 110x75x24 transparent bl;ABS Enclosure 110x75x24 Translucent BU;4,12;1;3,49;10;3,17;50;3,03;100;2,88;200
+655;G4511;HA1593PTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 92x66x28 trans. bl Batteriefach;ABS Encl. 92x66x28 Transl. BU Batt.Comp.;3,91;1;3,3;10;3,01;50;2,87;100;2,73;200
+656;G4511;HA1593QTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 112x66x28 tran. bl Batteriefach;ABS Encl. 112x66x28 Trans. BU Batt.Comp.;5,06;1;4,28;10;3,89;50;3,71;100;3,53;200
+657;G4511;HA1593STBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 92x66x21 trans. bl Batteriefach;ABS Encl. 92x66x21 Transl. BU Batt.Comp.;4,47;1;3,78;10;3,44;50;3,29;100;3,13;200
+658;G4511;HA1593TTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 112x66x21 tran. bl Batteriefach;ABS Encl. 112x66x21 Trans. BU Batt.Comp.;4,69;1;3,97;10;3,61;50;3,44;100;3,28;200
+659;G4511;HA1593XTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 140x66x28 transparent bl;ABS Enclosure 140x66x28 Translucent BU;5,32;1;4,5;10;4,09;50;3,9;100;3,72;200
+660;G4511;HA1593YTBU;Hammond Gehäuse mit Frontplatte;Hammond ABS Enclosures;ABS-Geh. 140x66x28 tran. bl Batteriefach;ABS Encl. 140x66x28 Trans. BU Batt.Comp.;5,19;1;4,39;10;4;50;3,81;100;3,63;200
+661;G4310;HA1599BBKBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 130x65x25 sw Batteriefach;ABS Enclosure 130x65x25 BK Batt.Comp;5,38;1;4,55;10;4,14;50;3,95;100;3,76;200
+662;G4310;HA1599BGYBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 130x65x25 gr Batteriefach;ABS Enclosure 130x65x25 GY Batt.Comp;5,38;1;4,55;10;4,14;50;3,95;100;3,76;200
+663;G4310;HA1599EBKBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 170x85x34 sw Batteriefach;ABS Enclosure 170x85x34 BK Batt.Comp;6,17;1;5,22;10;4,75;50;4,53;100;4,32;200
+664;G4310;HA1599EGYBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 170x85x34 gr Batteriefach;ABS Enclosure 170x85x34 GY Batt.Comp;6,17;1;5,22;10;4,75;50;4,53;100;4,32;200
+665;G4310;HA1599HBKBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 220x110x44 sw Batteriefach;ABS Enclosure 220x110x44 BK Batt.Comp;8,67;1;7,34;10;6,67;50;6,37;100;6,06;200
+666;G4310;HA1599HGYBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 220x110x44 gr Batteriefach;ABS Enclosure 220x110x44 GY Batt.Comp;8,67;1;7,34;10;6,67;50;6,37;100;6,06;200
+667;G4310;HA1599KBK;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 220x140x40 sw;ABS Enclosure 220x140x40 BK;8,99;1;7,61;10;6,92;50;6,6;100;6,29;200
+668;G4310;HA1599KBKBAT;Hammond ABS Universalgehäuse Serie 1599;Hammond ABS Universal Enclosures Series;ABS-Geh. 220x140x40 sw Batteriefach;ABS Enclosure 220x140x40 BK Batt.Comp;9,82;1;8,31;10;7,56;50;7,21;100;6,87;200
+669;G4154;HA1599TABMBKBAT;Hammond ABS-Handgehäuse Tablet;Hammond ABS-Hand-Held Encolure Tablet;ABS-Geh. 170x135x27 gr Batteriefach;ABS Enclosure 170x135x27 GY Batt.Comp;14,62;1;12,36;5;11,25;10;10,73;25;10,22;50
+670;G4154;HA1599TABMGYBAT;Hammond ABS-Handgehäuse Tablet;Hammond ABS-Hand-Held Encolure Tablet;ABS-Geh. 170x135x27 gr Batteriefach;ABS Enclosure 170x135x27 GY Batt.Comp;14,62;1;12,36;5;11,25;10;10,73;25;10,22;50
+671;G4154;HA1599TABSBK;Hammond ABS-Handgehäuse Tablet;Hammond ABS-Hand-Held Encolure Tablet;ABS-Geh. 120x95x27 sw;ABS Enclosure 120x95x27 BK;10,83;1;9,16;5;8,34;10;7,95;25;7,57;50
+672;G4154;HA1599TABSBKBAT;Hammond ABS-Handgehäuse Tablet;Hammond ABS-Hand-Held Encolure Tablet;ABS-Geh. 120x95x27 sw Batteriefach;ABS Enclosure 120x95x27 BK Batt.Comp;14,49;1;12,26;5;11,15;10;10,64;25;10,13;50
+673;G4154;HA1599TABSGY;Hammond ABS-Handgehäuse Tablet;Hammond ABS-Hand-Held Encolure Tablet;ABS-Geh. 120x95x27 gr;ABS Enclosure 120x95x27 GY;10,83;1;9,16;5;8,34;10;7,95;25;7,57;50
+674;G4154;HA1599TABSGYBAT;Hammond ABS-Handgehäuse Tablet;Hammond ABS-Hand-Held Encolure Tablet;ABS-Geh. 120x95x27 gr Batteriefach;ABS Enclosure 120x95x27 GY Batt.Comp;14,49;1;12,26;5;11,15;10;10,64;25;10,13;50
+675;G4330;HARL6105-F;HAMMOND RL6105 ABS Universalgehäuse;HAMMOND RL6105 ABS Multipurpose Encl.;ABS-Gehäuse 80x60x30 Flansch gr;ABS Encl. 80x60x30 Flanged Lid GY;2,13;1;1,8;10;1,64;50;1,56;100;1,49;200
+676;G4330;HARL6215-F;HAMMOND RL6105 ABS Universalgehäuse;HAMMOND RL6105 ABS Multipurpose Encl.;ABS-Gehäuse 125x80x35 Flansch gr;ABS Encl. 125x80x35 Flanged Lid GY;2,94;1;2,49;10;2,26;50;2,16;100;2,06;200
+677;G4533;HARP1020;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;Polycarbonat-Geh. 65x60x40 gr;Polycarbonate Encl. 65x60x40 GY;4,61;1;3,9;10;3,55;50;3,39;100;3,22;200
+678;G4533;HARP1085C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 105x75x40 gr transp. Deckel;ABS Encl. 105x75x40 GY Clear Lid;6,71;1;5,68;10;5,16;50;4,93;100;4,69;200
+679;G4533;HARP1135C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 125x85x55 gr transp. Deckel;ABS Encl. 125x85x55 GY Clear Lid;7,25;1;6,13;10;5,58;50;5,32;100;5,07;200
+680;G4533;HARP1155C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 125x85x85 gr transp. Deckel;ABS Encl. 125x85x85 GY Clear Lid;9,01;1;7,62;10;6,93;50;6,62;100;6,3;200
+681;G4533;HARP1170;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;Polycarbonat-Geh. 165x85x55 ws;Polycarbonate Encl. 165x85x55 WH;11,35;1;9,6;10;8,74;50;8,34;100;7,94;200
+682;G4533;HARP1185C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 165x85x85 gr transp. Deckel;ABS Encl. 165x85x85 GY Clear Lid;10,19;1;8,62;10;7,84;50;7,48;100;7,12;200
+683;G4533;HARP1205;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 145x105x40 gr;ABS Encl. 145x105x40 GY;8,4;1;7,1;10;6,46;50;6,17;100;5,87;200
+684;G4533;HARP1205C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 145x105x40 gr transp. Deckel;ABS Encl. 145x105x40 GY Clear Lid;9,71;1;8,22;10;7,47;50;7,13;100;6,79;200
+685;G4533;HARP1245C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 165x125x75 gr transp. Deckel;ABS Encl. 165x125x75 GY Clear Lid;10,34;1;8,75;10;7,96;50;7,59;100;7,23;200
+686;G4533;HARP1385C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 186x146x110 gr transp. Deckel;ABS Encl. 186x146x110 GY Clear Lid;13,82;1;11,69;10;10,63;50;10,15;100;9,66;200
+687;G4533;HARP1455;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 220x165x60 gr;ABS Encl. 220x165x60 GY;14,06;1;11,9;10;10,82;50;10,33;100;9,83;200
+688;G4533;HARP1455C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 220x165x60 gr transp. Deckel;ABS Encl. 220x165x60 GY Clear Lid;19,01;1;16,08;10;14,63;50;13,96;100;13,29;200
+689;G4533;HARP1465C;RITEC ABS-Wand- und Tischgehäuse IP65;RITEC ABS Wall- and Desktop Enclosure IP;ABS-Geh. 220x165x85 gr transp. Deckel;ABS Encl. 220x165x85 GY Clear Lid;20,42;1;17,28;10;15,72;50;15;100;14,28;200
+690;M5456;BIM2-2424D-SIL8;HNP BIM2 DC/DC-Wandler SIL8 2W 2:1 gereg;HNP BIM2 DC/DC-Converter SIL8 2W 2:1 reg;DC/DC-Conv 18-36V:+/-24V/42mA SIL8;DC/DC Conv 18-36V:+/-24V/42mA SIL8;7,33;1;7,19;5;7,06;20;6,93;50;6,8;100
+691;V4369;BZX84-C3V9;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 3,9V SOT23;SMD Z-Diode 0,25W 3,9V SOT23;1,7;500;1,28;3000;1,06;9000;1;18000;0,93;30000
+692;V4369;BZX84-C5V1;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 5,1V SOT23;SMD Z-Diode 0,25W 5,1V SOT23;1,51;500;1,13;3000;0,94;9000;0,88;18000;0,83;30000
+693;V4369;BZX84-C5V6;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 5,6V SOT23;SMD Z-Diode 0,25W 5,6V SOT23;1,55;500;1,16;3000;0,97;9000;0,91;18000;0,85;30000
+694;V4369;BZX84-C6V8;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 6,8V SOT23;SMD Z-Diode 0,25W 6,8V SOT23;1,53;500;1,15;3000;0,95;9000;0,9;18000;0,84;30000
+695;V4369;BZX84-C12;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 12V SOT23;SMD Z-Diode 0,25W 12V SOT23;1,51;500;1,13;3000;0,94;9000;0,88;18000;0,83;30000
+696;V4369;BZX84-C15;NEXPERIA SMD-Z-Dioden 0,25W BZX84-C_ SOT;NEXPERIA SMD Z-Diodes 0,25W BZX84-C_ SOT;SMD-Z-Diode 0,25W 15V SOT23;SMD Z-Diode 0,25W 15V SOT23;1,47;500;1,1;3000;0,92;9000;0,86;18000;0,8;30000
+697;S1167;LS14500CNA;SAFT Lithium-Thionylchlorid Batterien;SAFT Lithium-Thionyl Chloride Batteries;Lithium-Batterie 3,6V 2450mAh axial;Lithium Battery 3,6V 2450mAh Axial;5,04;1;3,78;10;3,31;50;3,14;100;3,02;200
+698;D2291;TC685360331;Speicher- / Entstoerdrosseln Serie TC;Storage/EMI Suppression Chokes Series TC;Drossel 330uH 1,8A;Inductor 330uH 1,8A;23,02;10;15,75;50;12,11;100;10,72;200;9,32;500
+699;S1134;ANS-IND-C;Ansmann Alkali-Mangan-Batterien Red;Ansmann Alkaline Manganese Batteries Red;Ans Ind. Alkaline C 1,5V 7200mAh 10St.;Ans Ind. Alkaline C 1,5V 7200mAh 10pcs;6,67;1;0;0;0;0;0;0;0;0
+700;S1134;ANS-IND-D;Ansmann Alkali-Mangan-Batterien Red;Ansmann Alkaline Manganese Batteries Red;Ans Ind. Alkaline D 1,5V 16000mAh 10St.;Ans Ind. Alkaline D 1,5V 16000mAh 10pcs;8,99;1;0;0;0;0;0;0;0;0
+701;S7811;ALCT6-24/4;Ansmann Ladegeräte für Bleiakkus;Ansmann Charger for Lead-Acid Rech. Batt;PB-Akkulader 6/12/24V 1/2/4A;PB Charger 6/12/24V 1/2/4A;43,55;1;39,19;5;34,26;10;33,09;25;31,35;50
+702;F8180;SDK799/RT;Si-Schnelldruckklemmen;Safety Quick Release Terminals;Si-Stecker-Schnelldruckklemme rt;Safety Quick-Release Term.-Plug RD;8,26;1;6,55;10;5,69;20;5,48;50;5,27;100
+703;F8211;FK8LNI/RT;Federkorbstecker 2,5mm;Lamella Basket Plugs 2,5mm;Federkorbstecker 2,5mm² Löt. rt;Lamella Basket Plug 2,5mm² Solder. RD;1,61;5;1,28;20;1,11;50;1,07;100;1,03;200
+704;F8211;FK8SNI/SW;Federkorbstecker 2,5mm;Lamella Basket Plugs 2,5mm;Federkorbstecker 2,5mm² Schraub. sw;Lamella Basket Plug 2,5mm² Screw. BK;2;5;1,58;20;1,38;50;1,33;100;1,27;200
+705;F8212;FK15SNI/1/SW;Federkorbstecker 1mm stapelbar;Lamella Basket Plugs 1mm Stackable;Federkorbstecker 1,0mm² Schraub. sw;Lamella Basket Plug 2,5mm² Screw. BK;1,61;5;1,28;20;1,11;50;1,07;100;1,03;200
+706;F8242;POL201/BL;Isolierte Polklemmen;Insulated Terminal Posts;Polklemme isoliert 200A M12x1 bl;Terminal Post Insulated 200A M12x1 BL;82,27;1;65,26;10;56,73;20;54,62;50;52,51;100
+707;F8242;POL631/RT;Isolierte Polklemmen;Insulated Terminal Posts;Polklemme isoliert 63A M6x0,75 rt;Terminal Post Insulated 63A M6x0,75 RD;13,81;1;10,95;10;9,52;20;9,17;50;8,81;100
+708;C5781;ECHU1C101JX5;Panasonic ECHU(X) SMD MPP Filmkondesator;Panasonic ECHU(X) SMD MPP Capacitor;MKP 16VDC 1,2nF 2% K1;MKP Capacitor 16VDC 1,2nF 2% K1;7,77;100;6,57;300;5,98;1000;5,7;3000;5,43;5000
+709;C6168;6TPB220ML;POSCAP TPB Serie Standard 105C;POSCAP TPB Series Standard 105C;POSCAP TPB 220uF 6,3V 7,3x4,3x2,8mm;POSCAP TPB 220uF 6,3V 7,3x4,3x2,8mm;82,62;25;69,89;100;63,58;500;60,67;1000;57,76;5000
+710;C6372;100SXE15M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 15uF 100V 8x12mm;OS-CON SXE 15uF 100V 8x12mm;158,98;25;134,49;100;122,34;500;116,74;1000;111,14;5000
+711;C6372;100SXE15MX;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 15uF 100V 10X8mm;OS-CON SXE 15uF 100V 10X8mm;168,35;25;142,42;100;129,56;500;123,63;1000;117,69;5000
+712;C6372;100SXE18M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 18uF 100V 10X13mm;OS-CON SXE 18uF 100V 10X13mm;168,35;25;142,42;100;129,56;500;123,63;1000;117,69;5000
+713;C6372;100SXE22M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 22uF 100V 10X13mm;OS-CON SXE 22uF 100V 10X13mm;193,84;25;163,98;100;149,18;500;142,35;1000;135,51;5000
+714;C6367;16SEF1000M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 1000uF 16V 10x13mm;OS-CON SEF 1000uF 16V 10x13mm;114,16;25;96,58;100;87,86;500;83,84;1000;79,81;5000
+715;C6367;16SEF180M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 180uF 16V 6,3x6mm;OS-CON SEF 180uF 16V 6,3x6mm;30,69;25;25,96;100;23,62;500;22,53;1000;21,45;5000
+716;C6367;16SEF270M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 270uF 16V 8x7mm;OS-CON SEF 270uF 16V 8x7mm;71,74;25;60,69;100;55,21;500;52,68;1000;50,15;5000
+717;C6367;16SEF560M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 560uF 16V 8x12mm;OS-CON SEF 560uF 16V 8x12mm;87,75;25;74,23;100;67,53;500;64,44;1000;61,35;5000
+718;C6365;16SEPF1000M+T;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 1000uF 16V 10x13mm;OS-CON SEPF 1000uF 16V 10x13mm;99,49;25;84,16;100;76,56;500;73,06;1000;69,55;5000
+719;C6365;16SEPF150M;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 150uF 16V 6,3x5,5mm;OS-CON SEPF 150uF 16V 6,3x5,5mm;39,91;25;33,76;100;30,71;500;29,31;1000;27,9;5000
+720;C6365;16SEPF150M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 150uF 16V 6,3x5,5mm;OS-CON SEPF 150uF 16V 6,3x5,5mm;39,89;25;33,75;100;30,7;500;29,3;1000;27,89;5000
+721;C6365;16SEPF180M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 180uF 16V 6,3x6mm;OS-CON SEPF 180uF 16V 6,3x6mm;26,67;25;22,56;100;20,53;500;19,59;1000;18,65;5000
+722;C6365;16SEPF270M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 270uF 16V 8x7mm;OS-CON SEPF 270uF 16V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+723;C6365;16SEPF560M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 560uF 16V 8x12mm;OS-CON SEPF 560uF 16V 8x12mm;76,43;25;64,66;100;58,82;500;56,13;1000;53,43;5000
+724;C6367;20SEF120M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 120uF 20V 6,3x6mm;OS-CON SEF 120uF 20V 6,3x6mm;61,17;25;51,75;100;47,08;500;44,92;1000;42,77;5000
+725;C6367;20SEF180M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 180uF 20V 8x7mm;OS-CON SEF 180uF 20V 8x7mm;71,74;25;60,69;100;55,21;500;52,68;1000;50,15;5000
+726;C6367;20SEF390M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 390uF 20V 8x12mm;OS-CON SEF 390uF 20V 8x12mm;90,36;25;76,44;100;69,54;500;66,35;1000;63,17;5000
+727;C6365;20SEPF180M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 180uF 20V 8x7mm;OS-CON SEPF 180uF 20V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+728;C6365;20SEPF390M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 390uF 20V 8x12mm;OS-CON SEPF 390uF 20V 8x12mm;78,67;25;66,55;100;60,54;500;57,77;1000;55;5000
+729;C6367;25SEF180M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 180uF 25V 8x12mm;OS-CON SEF 180uF 25V 8x12mm;87,75;25;74,23;100;67,53;500;64,44;1000;61,35;5000
+730;C6367;25SEF330M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 330uF 25V 10x13mm;OS-CON SEF 330uF 25V 10x13mm;108,77;25;92,02;100;83,71;500;79,88;1000;76,04;5000
+731;C6367;25SEF56M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 56uF 25V 6,3x6mm;OS-CON SEF 56uF 25V 6,3x6mm;61,17;25;51,75;100;47,08;500;44,92;1000;42,77;5000
+732;C6367;25SEF82M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 82uF 25V 8x7mm;OS-CON SEF 82uF 25V 8x7mm;71,74;25;60,69;100;55,21;500;52,68;1000;50,15;5000
+733;C6365;25SEPF56M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 56uF 25V 6,3x6mm;OS-CON SEPF 56uF 25V 6,3x6mm;53,25;25;45,05;100;40,98;500;39,11;1000;37,23;5000
+734;C6365;25SEPF82M;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 82uF 25V 8x7mm;OS-CON SEPF 82uF 25V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+735;C6365;25SEPF82M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 82uF 25V 8x7mm;OS-CON SEPF 82uF 25V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+736;C6365;32SEPF68M;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 68uF 32V 8x7mm;OS-CON SEPF 68uF 32V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+737;C6365;32SEPF68M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 68uF 32V 8x7mm;OS-CON SEPF 68uF 32V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+738;C6367;35SEF120M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 120uF 35V 10x13mm;OS-CON SEF 120uF 35V 10x13mm;108,77;25;92,02;100;83,71;500;79,88;1000;76,04;5000
+739;C6367;35SEF22M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 22uF 35V 6,3x6mm;OS-CON SEF 22uF 35V 6,3x6mm;61,17;25;51,75;100;47,08;500;44,92;1000;42,77;5000
+740;C6367;35SEF39M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 39uF 35V 8x7mm;OS-CON SEF 39uF 35V 8x7mm;71,74;25;60,69;100;55,21;500;52,68;1000;50,15;5000
+741;C6367;35SEF82M;OS-CON Serie SEF;OS-CON Series SEF;OS-CON SEF 82uF 35V 8x12mm;OS-CON SEF 82uF 35V 8x12mm;87,75;25;74,23;100;67,53;500;64,44;1000;61,35;5000
+742;C6365;35SEPF39M+TSS;Panasonic OSCON radial SEP/SEPC/SEPF Ser;Panasonic OSCON Radial SEP/SEPC/SEPF Ser;OS-CON SEPF 39uF 35V 8x7mm;OS-CON SEPF 39uF 35V 8x7mm;62,52;25;52,89;100;48,11;500;45,91;1000;43,71;5000
+743;C6372;63SXE18M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 18uF 63V 8×7mm;OS-CON SXE 18uF 63V 8×7mm;114,93;25;97,23;100;88,45;500;84,4;1000;80,35;5000
+744;C6372;63SXE33M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 33uF 63V 8x12mm;OS-CON SXE 33uF 63V 8x12mm;158,98;25;134,49;100;122,34;500;116,74;1000;111,14;5000
+745;C6372;63SXE39M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 39uF 63V 8x12mm;OS-CON SXE 39uF 63V 8x12mm;171,26;25;144,88;100;131,8;500;125,76;1000;119,73;5000
+746;C6372;63SXE39MX;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 39uF 63V 10x8mm;OS-CON SXE 39uF 63V 10x8mm;168,35;25;142,42;100;129,56;500;123,63;1000;117,69;5000
+747;C6372;63SXE68M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 68uF 63V 10×13mm;OS-CON SXE 68uF 63V 10×13mm;176,03;25;148,91;100;135,47;500;129,26;1000;123,06;5000
+748;C6372;80SXE12M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 12uF 80V 8×7mm;OS-CON SXE 12uF 80V 8×7mm;114,93;25;97,23;100;88,45;500;84,4;1000;80,35;5000
+749;C6372;80SXE27M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 27uF 80V 8x12mm;OS-CON SXE 27uF 80V 8x12mm;171,26;25;144,88;100;131,8;500;125,76;1000;119,73;5000
+750;C6372;80SXE27MX;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 7uF 80V 10×8mm;OS-CON SXE 7uF 80V 10×8mm;168,35;25;142,42;100;129,56;500;123,63;1000;117,69;5000
+751;C6372;80SXE47M;OS-CON Serie SXE;OS-CON Series SXE;OS-CON SXE 47uF 80V 10×13mm;OS-CON SXE 47uF 80V 10×13mm;176,03;25;148,91;100;135,47;500;129,26;1000;123,06;5000
+752;C6768;100SXV18M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 18uF 100V 10X12,6mm;OS-CON SXV 18uF 100V 10X12,6mm;199,42;25;168,7;100;153,47;500;146,44;1000;139,41;5000
+753;C6768;100SXV22M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 22uF 100V 10X12,6mm;OS-CON SXV 22uF 100V 10X12,6mm;199,42;25;168,7;100;153,47;500;146,44;1000;139,41;5000
+754;C6758;10SVPD56M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 56uF 10V 6,3x6mm;OS-CON SVPD 56uF 10V 6,3x6mm;62,64;25;52,99;100;48,21;500;46;1000;43,79;5000
+755;C6760;10SVPS10M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 10uF 10V 4x5,5mm;OS-CON SVPS 10uF 10V 4x5,5mm;63,84;25;54;100;49,13;500;46,88;1000;44,63;5000
+756;C6760;10SVPS150MX;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 150uF 10V 8x7mm;OS-CON SVPS 150uF 10V 8x7mm;65,03;25;55,02;100;50,05;500;47,76;1000;45,46;5000
+757;C6760;10SVPS15M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 15uF 10V 4x5,5mm;OS-CON SVPS 15uF 10V 4x5,5mm;63,84;25;54;100;49,13;500;46,88;1000;44,63;5000
+758;C6760;10SVPS68M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 68uF 10V 6,3x6mm;OS-CON SVPS 68uF 10V 6,3x6mm;60,24;25;50,96;100;46,36;500;44,24;1000;42,11;5000
+759;C6761;16SVF1000M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 1000uF 16V 10x12,7mm;OS-CON SVF 1000uF 16V 10x12,7mm;116,94;25;98,92;100;89,99;500;85,87;1000;81,75;5000
+760;C6761;16SVF180M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 180uF 16V 6,3x6mm;OS-CON SVF 180uF 16V 6,3x6mm;63,78;25;53,95;100;49,08;500;46,83;1000;44,59;5000
+761;C6761;16SVF270M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 270uF 16V 8x7mm;OS-CON SVF 270uF 16V 8x7mm;74,36;25;62,91;100;57,23;500;54,61;1000;51,99;5000
+762;C6761;16SVF560M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 560uF 16V 8x12mm;OS-CON SVF 560uF 16V 8x12mm;92,96;25;78,64;100;71,54;500;68,27;1000;64,99;5000
+763;C6761;16SVF82M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 82uF 16V 5x6mm;OS-CON SVF 82uF 16V 5x6mm;52,82;25;44,69;100;40,65;500;38,79;1000;36,93;5000
+764;C6758;16SVPD82M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 82uF 16V 8x7mm;OS-CON SVPD 82uF 16V 8x7mm;72,3;25;61,16;100;55,64;500;53,09;1000;50,54;5000
+765;C6767;16SVPG270M;Os-Con Serie SVPG;Os-Con Series SVPG;OS-CON SVPG 270uF 16V 6,3x10mm;OS-CON SVPG 270uF 16V 6,3x10mm;84,32;25;71,33;100;64,89;500;61,92;1000;58,95;5000
+766;C6767;16SVPG270MX;Os-Con Serie SVPG;Os-Con Series SVPG;OS-CON SVPG 270uF 16V 6,3x7,9mm;OS-CON SVPG 270uF 16V 6,3x7,9mm;80,08;25;67,74;100;61,63;500;58,8;1000;55,98;5000
+767;C6760;16SVPS100M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 100uF 16V 10x8mm;OS-CON SVPS 100uF 16V 10x8mm;72,3;25;61,16;100;55,64;500;53,09;1000;50,54;5000
+768;C6760;16SVPS180M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 180uF 16V 10x8mm;OS-CON SVPS 180uF 16V 10x8mm;72,3;25;61,16;100;55,64;500;53,09;1000;50,54;5000
+769;C6760;16SVPS22M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 22uF 16V 5x6mm;OS-CON SVPS 22uF 16V 5x6mm;57,86;25;48,95;100;44,53;500;42,49;1000;40,45;5000
+770;C6760;16SVPS39M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 39uF 16V 6,3x6mm;OS-CON SVPS 39uF 16V 6,3x6mm;60,24;25;50,96;100;46,36;500;44,24;1000;42,11;5000
+771;C6760;16SVPS82M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 82uF 16V 8x7mm;OS-CON SVPS 82uF 16V 8x7mm;65,03;25;55,02;100;50,05;500;47,76;1000;45,46;5000
+772;C6761;20SVF180M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 180uF 20V 8x7mm;OS-CON SVF 180uF 20V 8x7mm;74,36;25;62,91;100;57,23;500;54,61;1000;51,99;5000
+773;C6761;20SVF390M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 390uF 20V 8x12mm;OS-CON SVF 390uF 20V 8x12mm;92,96;25;78,64;100;71,54;500;68,27;1000;64,99;5000
+774;C6761;20SVF560M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 560uF 20V 10x12,7mm;OS-CON SVF 560uF 20V 10x12,7mm;111,59;25;94,4;100;85,88;500;81,95;1000;78,01;5000
+775;C6761;20SVF56M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 56uF 20V 5x6mm;OS-CON SVF 56uF 20V 5x6mm;52,82;25;44,69;100;40,65;500;38,79;1000;36,93;5000
+776;C6760;20SVPS47M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 47uF 20V 8x7mm;OS-CON SVPS 47uF 20V 8x7mm;65,03;25;55,02;100;50,05;500;47,76;1000;45,46;5000
+777;C6761;25SVF100M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 100uF 25V 8x7mm;OS-CON SVF 100uF 25V 8x7mm;74,19;25;62,77;100;57,1;500;54,48;1000;51,87;5000
+778;C6761;25SVF180M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 180uF 25V 8x12mm;OS-CON SVF 180uF 25V 8x12mm;92,96;25;78,64;100;71,54;500;68,27;1000;64,99;5000
+779;C6761;25SVF56M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 56uF 25V 6,3x6mm;OS-CON SVF 56uF 25V 6,3x6mm;63,78;25;53,95;100;49,08;500;46,83;1000;44,59;5000
+780;C6761;25SVF82M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 82uF 25V 8x7mm;OS-CON SVF 82uF 25V 8x7mm;74,36;25;62,91;100;57,23;500;54,61;1000;51,99;5000
+781;C6758;25SVPD10M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 10uF 25V 6,3x6mm;OS-CON SVPD 10uF 25V 6,3x6mm;62,64;25;52,99;100;48,21;500;46;1000;43,79;5000
+782;C6758;25SVPD22M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 22uF 25V 8x7mm;OS-CON SVPD 22uF 25V 8x7mm;72,3;25;61,16;100;55,64;500;53,09;1000;50,54;5000
+783;C6758;25SVPD39M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 39uF 25V 10x8mm;OS-CON SVPD 39uF 25V 10x8mm;84,32;25;71,33;100;64,89;500;61,92;1000;58,95;5000
+784;C6758;25SVPD47M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 47uF 25V 8x12mm;OS-CON SVPD 47uF 25V 8x12mm;86,74;25;73,38;100;66,75;500;63,7;1000;60,64;5000
+785;C6756;25SVPK120M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 120uF 25V 8x7mm;OS-CON SVPK 120uF 25V 8x7mm;75,31;25;63,71;100;57,96;500;55,31;1000;52,65;5000
+786;C6756;25SVPK33M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 33uF 25V 5x6mm;OS-CON SVPK 33uF 25V 5x6mm;55,83;25;47,23;100;42,96;500;41;1000;39,03;5000
+787;C6761;35SVF22M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 22uF 35V 6,3x6mm;OS-CON SVF 22uF 35V 6,3x6mm;68,6;25;58,03;100;52,8;500;50,38;1000;47,96;5000
+788;C6761;35SVF39M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 39uF 35V 8x7mm;OS-CON SVF 39uF 35V 8x7mm;74,36;25;62,91;100;57,23;500;54,61;1000;51,99;5000
+789;C6761;35SVF82M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 82uF 35V 8x12mm;OS-CON SVF 82uF 35V 8x12mm;92,96;25;78,64;100;71,54;500;68,27;1000;64,99;5000
+790;C6758;35SVPD18M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 18uF 35V 10x8mm;OS-CON SVPD 18uF 35V 10x8mm;84,32;25;71,33;100;64,89;500;61,92;1000;58,95;5000
+791;C6758;35SVPD22M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 22uF 35V 8x12mm;OS-CON SVPD 22uF 35V 8x12mm;86,74;25;73,38;100;66,75;500;63,7;1000;60,64;5000
+792;C6758;35SVPD8R2M;Os-Con Serie SVPD;Os-Con Series SVPD;OS-CON SVPD 8,2uF 35V 8x7mm;OS-CON SVPD 8,2uF 35V 8x7mm;72,3;25;61,16;100;55,64;500;53,09;1000;50,54;5000
+793;C6756;35SVPK22M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 22uF 35V 5x6mm;OS-CON SVPK 22uF 35V 5x6mm;55,83;25;47,23;100;42,96;500;41;1000;39,03;5000
+794;C6756;35SVPK82M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 82uF 35V 8x7mm;OS-CON SVPK 82uF 35V 8x7mm;77,73;25;65,76;100;59,82;500;57,08;1000;54,34;5000
+795;C6760;4SVPS150M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 150uF 4V 6,3x6mm;OS-CON SVPS 150uF 4V 6,3x6mm;60,24;25;50,96;100;46,36;500;44,24;1000;42,11;5000
+796;C6760;4SVPS33M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 33uF 4V 4x5,5mm;OS-CON SVPS 33uF 4V 4x5,5mm;63,84;25;54;100;49,13;500;46,88;1000;44,63;5000
+797;C6760;4SVPS680M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 680uF 4V 10x8mm;OS-CON SVPS 680uF 4V 10x8mm;72,3;25;61,16;100;55,64;500;53,09;1000;50,54;5000
+798;C6760;4SVPS68M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 68uF 4V 5x6mm;OS-CON SVPS 68uF 4V 5x6mm;57,86;25;48,95;100;44,53;500;42,49;1000;40,45;5000
+799;C6761;50SVF10M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 10uF 50V 6,3x6mm;OS-CON SVF 10uF 50V 6,3x6mm;68,6;25;58,03;100;52,8;500;50,38;1000;47,96;5000
+800;C6761;50SVF18M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 18uF 50V 8x7mm;OS-CON SVF 18uF 50V 8x7mm;77,73;25;65,76;100;59,82;500;57,08;1000;54,34;5000
+801;C6761;50SVF39M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 39uF 50V 8x12mm;OS-CON SVF 39uF 50V 8x12mm;106,7;25;90,27;100;82,12;500;78,36;1000;74,6;5000
+802;C6761;50SVF68M;Os-Con Serie SVF;Os-Con Series SVF;OS-CON SVF 68uF 50V 10x12,7mm;OS-CON SVF 68uF 50V 10x12,7mm;144,65;25;122,37;100;111,32;500;106,22;1000;101,12;5000
+803;C6756;50SVPK120M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 120uF 50V 10x12,7mm;OS-CON SVPK 120uF 50V 10x12,7mm;141,01;25;119,28;100;108,52;500;103,55;1000;98,57;5000
+804;C6756;50SVPK22M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 22uF 50V 6,3x6mm;OS-CON SVPK 22uF 50V 6,3x6mm;77,72;25;65,75;100;59,81;500;57,07;1000;54,33;5000
+805;C6756;50SVPK68M;Os-Con Serie SVP;Os-Con Series SVP;OS-CON SVPK 68uF 50V 8x12mm;OS-CON SVPK 68uF 50V 8x12mm;106,86;25;90,4;100;82,24;500;78,47;1000;74,7;5000
+806;C6768;63SXV18M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 18uF 63V 8×6,9mm;OS-CON SXV 18uF 63V 8×6,9mm;119,59;25;101,17;100;92,03;500;87,82;1000;83,6;5000
+807;C6768;63SXV33M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 33uF 63V 8x12mm;OS-CON SXV 33uF 63V 8x12mm;161,43;25;136,56;100;124,23;500;118,54;1000;112,85;5000
+808;C6768;63SXV39M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 39uF 63V 8×11,9mm;OS-CON SXV 39uF 63V 8×11,9mm;173,9;25;147,11;100;133,83;500;127,7;1000;121,57;5000
+809;C6768;63SXV39MX;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 39uF 63V 10x7,9mm;OS-CON SXV 39uF 63V 10x7,9mm;168,35;25;142,42;100;129,56;500;123,63;1000;117,69;5000
+810;C6768;63SXV68M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 68uF 63V 10x12,6mm;OS-CON SXV 68uF 63V 10x12,6mm;199,42;25;168,7;100;153,47;500;146,44;1000;139,41;5000
+811;C6760;6SVPS120M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 120uF 6,3V 6,3x6mm;OS-CON SVPS 120uF 6,3V 6,3x6mm;60,24;25;50,96;100;46,36;500;44,24;1000;42,11;5000
+812;C6760;6SVPS220M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 220uF 6,3V 8x7mm;OS-CON SVPS 220uF 6,3V 8x7mm;65,03;25;55,02;100;50,05;500;47,76;1000;45,46;5000
+813;C6760;6SVPS22M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 22uF 6,3V 4x5,5mm;OS-CON SVPS 22uF 6,3V 4x5,5mm;63,84;25;54;100;49,13;500;46,88;1000;44,63;5000
+814;U4536;FP50R12KE3;INFINEON Converter-Brake-Inverter-Module;INFINEON Converter-Brake-Inverter-Module;Converter-Brake-Inverter 1200V 75A ECONO;Converter-Brake-Inverter 1200V 75A ECONO;122,78;1;100,41;3;89,26;10;85,94;20;82,62;50
+815;C6760;6SVPS47M;Os-Con Serie SVPS;Os-Con Series SVPS;OS-CON SVPS 47uF 6,3V 5x6mm;OS-CON SVPS 47uF 6,3V 5x6mm;57,86;25;48,95;100;44,53;500;42,49;1000;40,45;5000
+816;C6768;80SXV12M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 12uF 80V 8×6,9mm;OS-CON SXV 12uF 80V 8×6,9mm;119,59;25;101,17;100;92,03;500;87,82;1000;83,6;5000
+817;C6768;80SXV27M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 27uF 80V 8×11,9mm;OS-CON SXV 27uF 80V 8×11,9mm;173,9;25;147,11;100;133,83;500;127,7;1000;121,57;5000
+818;C6768;80SXV27MX;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 27uF 80V 10x7,9mm;OS-CON SXV 27uF 80V 10x7,9mm;168,35;25;142,42;100;129,56;500;123,63;1000;117,69;5000
+819;C6768;80SXV47M;Os-Con Serie SXV;Os-Con Series SXV;OS-CON SXV 47uF 80V 10x12,6mm;OS-CON SXV 47uF 80V 10x12,6mm;199,42;25;168,7;100;153,47;500;146,44;1000;139,41;5000
+820;T1125;WT1010;WELLER Lötstationen Leistung: 90W bis 15;WELLER Soldering Stations Power: 90 - 15;1-Kanal-Lötstation digital 90W;1-Channel Soldering Station Digital 90W;419,73;1;393,87;2;368,35;5;361,3;10;354,25;20
+821;T1125;WT1H;WELLER Lötstationen Leistung: 90W bis 15;WELLER Soldering Stations Power: 90 - 15;1-Kanal-Versorgungseinheit digital 150W;1-Channel Power Unit Digital 150W;331,04;1;310,65;2;290,52;5;284,96;10;279,4;20
+822;T1181;WXP90-SET;Weller Lötwerkzeuge für Lötstationen 24V;Weller Soldering Tools for Soldering Sta;Set: Lötkolben WXP90 90W+WNTA+WDH51;Set: Soldering Iron 90W+WNTA+WDH51;275,35;1;258,39;2;241,65;5;237,02;10;232,4;20
+823;R2261;20720-AU;CRC Elektronik-Sprays: Universalreiniger;CRC Electronic Sprays: Universal Cleaner;Inox Kleen Edelstahlreiniger 500ml;Inox Kleen 500ml;8,1;1;6,58;6;5,77;12;5,67;24;5,46;60
+824;M7244;PSA120U-480L6;Phihong PSA120U Tisch-SNT;Phihong PSA120U Desk-Top SPS;SNT extern 120W 48V/3A DOE VI;SPS Desktop 120W 48V/3A DOE VI;118,72;1;100,46;5;91,33;20;87,18;50;83,03;100
+825;M7244;PSA120U-240L6;Phihong PSA120U Tisch-SNT;Phihong PSA120U Desk-Top SPS;SNT extern 120W 24V/6A DOE VI;SPS Desktop 120W 24V/6A DOE VI;118,72;1;100,46;5;91,33;20;87,18;50;83,03;100
+826;M7244;PSA120U-120L6;Phihong PSA120U Tisch-SNT;Phihong PSA120U Desk-Top SPS;SNT extern 120W 12V/9A DOE VI;SPS Desktop 120W 12V/9A DOE VI;118,72;1;100,46;5;91,33;20;87,18;50;83,03;100
+827;M5248;HNP24I-150L6;HN-Power HNP24I Stecker-SNT 24W;HNP24I Plug-In SPS 24W;Stecker-SNT 24W 15V/1,6A DOE VI;SPS Plug-in 24W 15V/1,6A DOE VI;14,95;1;12,65;5;11,5;20;10,98;50;10,46;100
+828;U8347;IXFN170N25X3;Littelfuse Leistungs-MOSFETs IXFN_, IXTN;Littelfuse Power MOSFETs IXFN_, IXTN_ SO;N-Ch 250V 146A 390W 0,0074R SOT227B;N-Ch 250V 146A 390W 0,0074R SOT227B;22,46;1;19;5;17,27;10;16,63;25;15,99;50
+829;U8347;IXFN132N50P3;Littelfuse Leistungs-MOSFETs IXFN_, IXTN;Littelfuse Power MOSFETs IXFN_, IXTN_ SO;N-Ch 500V 112A 1500W 0,039R SOT227B;N-Ch 500V 112A 1500W 0,039R SOT227B;23,02;1;19,47;5;17,7;10;17,04;25;16,39;50
+830;Y3754;ATMEGA644A-AU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 1,8V 64kB Flash 20MHz TQFP44;MC 8bit 1,8V 64kB Flash 20MHz TQFP44;2,33;5;2,09;20;1,78;100;1,71;200;1,63;500
+831;Y3754;ATMEGA162-16AU;MICROCHIP 8Bit-AVR-ISP-Flash-Microcontro;MICROCHIP 8Bit AVR ISP Flash Microcontro;MC 8bit 2,7V 16kB Flash 16MHz TQFP44;MC 8bit 2,7V 16kB Flash 16MHz TQFP44;2,69;5;2,42;20;2,06;100;1,97;200;1,88;500
+832;M5283;HNP12I-USBL6;HN-Power HNP_I_ USB Stecker-SNT;HNP_I_ USB Plug-In SPS;Stecker-SNT 12W 5V/2,4A USB DOE VI;SPS Plug-in 12W 5V/2,4A USB DOE VI;9,7;1;8,2;5;7,45;20;7,11;50;6,77;100
+833;M5228;HNP06I-050L6;HN-Power HNP06I Stecker-SNT 7,5W;HNP06I Plug-In SPS 7,5W;Stecker-SNT 7,5W 5V/1,5A DOE VI;SPS Plug-in 7,5W 5V/1,5A DOE VI;9,14;1;7,74;5;7,04;20;6,72;50;6,4;100
+834;M5236;HNP12I-050L6;HN-Power HNP12I Stecker-SNT 12W;HNP12I Plug-In SPS 12W;Stecker-SNT 12W 5V/2,4A DOE VI;SPS Plug-in 12W 5V/2,4A DOE VI;10,38;1;8,78;5;7,98;20;7,62;50;7,26;100
+835;M5248;HNP24I-090L6;HN-Power HNP24I Stecker-SNT 24W;HNP24I Plug-In SPS 24W;Stecker-SNT 22,5W 9V/2,5A DOE VI;SPS Plug-in 22,5W 9V/2,5A DOE VI;14,95;1;12,65;5;11,5;20;10,98;50;10,46;100
+836;M3163;RAC04-3.3SGB;Recom RAC04-GB AC/DC SNT Modul;Recom RAC04-GB AC/DC SPS module;AC/DC SNT 4W 3,3V 1,21A 3kV;AC/DC SPS 4W 3,3V 1,21A 3kV;0;1;0;5;0;10;0;25;0;50
+837;M3162;RAC04-12SGA;Recom RAC04-GA AC/DC SNT Modul;Recom RAC04-GA AC/DC SPS module;AC/DC SNT 4W 12V 0,33A 3kV;AC/DC SPS 4W 12V 0,33A 3kV;0;1;0;5;0;10;0;25;0;50
+838;G5136;HA1455J1601BK;Hammond Alu-Profilgehäuse,Serie 1455,Alu;Extruded Alu Enclosures Series 1455, Alu;Alu-Profilgeh. 160x78x27 sw elox.;Aluminium Encl. 160x78x27 BK anod.;13,53;1;11,44;5;10,41;10;9,93;25;9,46;50
+839;E6342;ALZ52B24;PANASONIC Serie ALZ;PANASONIC Series ALZ;Relais 1xNO 16A 5V 1440R;Relay SPST-NO 16A 5V 1440R;2,38;10;1,88;50;1,6;100;1,46;200;1,35;500
+840;E6342;ALZ52F24;PANASONIC Serie ALZ;PANASONIC Series ALZ;Relais 1xNO 16A 5V 1440R;Relay SPST-NO 16A 5V 1440R;2,2;10;1,74;50;1,48;100;1,36;200;1,25;500
+841;E6368;APF30312;Panasonic Serie APF;Panasonic Series APF;Relais 1xU 6A 12V 847R;Relay SPDT 6A 12V 847R;3,04;10;2,4;50;2,05;100;1,87;200;1,73;500
+842;E6361;DK1A-12V-F;Panasonic Printrelais Serie DK;Panasonic PCB Relay Series DK;Relais 1xNO 10A 12V 720R;Relay SPST-NO 10A 12V 720R;5,74;5;4,53;25;3,87;50;3,53;100;3,26;200
+843;E6361;DK1A1B-12V;Panasonic Printrelais Serie DK;Panasonic PCB Relay Series DK;Relais 2xU 8A 12V 720R;Relay DPDT-NO/NC 8A 12V 720R;5,74;5;4,53;25;3,87;50;3,53;100;3,26;200
+844;E6361;DK1A1B-24V;Panasonic Printrelais Serie DK;Panasonic PCB Relay Series DK;Relais 2xU 8A 24V 2880R;Relay DPDT-NO/NC 8A 24V 2880R;6,08;5;4,8;25;4,1;50;3,74;100;3,46;200
+845;E6368;APF10212;Panasonic Serie APF;Panasonic Series APF;Relais 1xNO 6A 12V 847R;Relay SPST-NO 6A 12V 847R;2,77;10;2,19;50;1,87;100;1,71;200;1,58;500
+846;E6368;APF10205;Panasonic Serie APF;Panasonic Series APF;Relais 1xNO 6A 5V 147R;Relay SPST-NO 6A 5V 147R;2,77;10;2,19;50;1,87;100;1,71;200;1,58;500
+847;M3163;RAC04-15SGB;Recom RAC04-GB AC/DC SNT Modul;Recom RAC04-GB AC/DC SPS module;AC/DC SNT 4W 15V 0,27A 3kV;AC/DC SPS 4W 15V 0,27A 3kV;0;1;0;5;0;10;0;25;0;50
+848;E6342;ALZ52B05;PANASONIC Serie ALZ;PANASONIC Series ALZ;Relais 1xNO 16A 5V 63R;Relay SPST-NO 16A 5V 63R;2,2;10;1,74;50;1,48;100;1,36;200;1,25;500
+849;C6721;CHS4700/10;SMD-Elkos 10-100V 20% 105°C;SMD-Electrolytic Caps 10-100V 20% 105°C;SMD-Elko 4700uF 10V 16x16,5mm;SMD El-Capacitor 4700uF 10V 16x16,5mm;125,28;25;93,96;200;78,3;1000;70,47;3000;62,64;5000
+850;E2114;GP18H1E00M00;Molveno Wippenschalter 13x19mm Serie GP;Molveno Rocker Switches 13x19mm Series G;Wippenschalter 2xA-E 12A sw/gn beleucht.;Rocker Switch DPST 12A BK/GN illuminated;1,75;10;1,31;50;1,09;200;1;500;0,91;1000
+851;S7950;MA2240215000;MASCOT 2240 LI Li-Ion Akkulader 1-7 Zell;MASCOT 2240 LI Li-Ion Battery Charger 1-;Li-Ion Lader 5 Zellen 21V/0,7A/14,7W;Li-Ion Charger 5 Cells 21V/0,7A/14,7W;27,3;1;26,39;5;23,66;10;23,11;25;22,57;50
+852;S7950;MA2240255000;MASCOT 2240 LI Li-Ion Akkulader 1-7 Zell;MASCOT 2240 LI Li-Ion Battery Charger 1-;Li-Ion Lader 6 Zellen 25,2V/0,6A/15,1W;Li-Ion Charger 6 Cells 25,2V/0,6A/15,1W;27,3;1;26,39;5;23,66;10;23,11;25;22,57;50
+853;S7952;MA2541215000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 5 Zellen 21V/1,6A/34W;Li-Ion Charger 5 Cells 21V/1,6A/34W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+854;S7952;MA2541255000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 6 Zellen 25,2V/1,4A/35W;Li-Ion Charger 6 Cells 25,2V/1,4A/35W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+855;S7952;MA2541335000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 8 Zellen 33,6V/1A/34W;Li-Ion Charger 8 Cells 33,6V/1A/34W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+856;S7953;MA2440215000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 5 Zellen 21V/2A/42W;Li-Ion Charger 5 Cells 21V/2A/42W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+857;S7953;MA2440255000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 6 Zellen 25,2V/2A/50,4W;Li-Ion Charger 6 Cells 25,2V/2A/50,4W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+858;S7953;MA2440335000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 8 Zellen 33,6V/1,7A/57,1W;Li-Ion Charger 8 Cells 33,6V/1,7A/57,1W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+859;S7953;MA2440465000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 11 Zellen 46,2V/1,3A/60W;Li-Ion Charger 11 Cells 46,2V/1,3A/60W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+860;S7953;MA2440555000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 13 Zellen 54,6V/1,1A/60,W;Li-Ion Charger 13 Cells 54,6V/1,1A/60,W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+861;S7957;MA3743215000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 5 Zellen 21V/0,8A/16W;Li-Ion Charger 5 Cells 21V/0,8A/16W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+862;S7957;MA3743255000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 6 Zellen 25,2V/0,66A/16W;Li-Ion Charger 6 Cells 25,2V/0,66A/16W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+863;S7816;MA3743485000;MASCOT 3743 LA Blei Akkulader;MASCOT 3743 LA Lead Battery Charger;Blei Akkulader 48V/0,3A/17,6W/1,5-15Ah;PB Charger 48V/0,3A/17,6W/1,5-15Ah;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+864;S7957;MA3743595000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 14 Zellen 58,8V/0,3A/18W;Li-Ion Charger 14 Cells 58,8V/0,3A/18W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+865;S7952;MA2541595000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 14 Zellen 58,8V/0,6A/35W;Li-Ion Charger 14 Cells 58,8V/0,6A/35W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+866;M5272;HNP12-120L6;HN-Power HNP12 Stecker-SNT 12W;HNP12 Plug-In SPS 12W;Stecker-SNT 12W 12V/1A DOE VI;SPS Plug-in 12W 12V/1A DOE VI;6,07;1;5,13;5;4,66;20;4,45;50;4,24;100
+867;M5252;HNP06-050L6;HN-Power HNP06 Stecker-SNT 6W;HNP06 Plug-In SPS 6W;Stecker-SNT 7,5W 5V/1,5A DOE VI;SPS Plug-in 7,5W 5V/1,5A DOE VI;5,36;1;4,54;5;4,13;20;3,94;50;3,75;100
+868;M5284;HNP06-USBL6;HN-Power HNP_USB Stecker-SNT;HNP_USB Plug-In SPS;Stecker-SNT 7,5W 5V/1,5A USB DOE VI;SPS Plug-in 7,5W 5V/1,5A USB DOE VI;4,66;1;3,94;5;3,58;20;3,42;50;3,26;100
+869;M5276;HNP24-240L6;HN-Power HNP24 Stecker-SNT 24W;HNP24 Plug-In SPS 24W;Stecker-SNT 24W 24V/1A DOE VI;SPS Plug-in 24W 24V/1A DOE VI;11,17;1;9,45;5;8,59;20;8,2;50;7,81;100
+870;M5284;HNP06-MICROUSBL6;HN-Power HNP_USB Stecker-SNT;HNP_USB Plug-In SPS;Steck-SNT 7,5W 5V/1,5A Micro-USB DOE VI;SPS Plug-in 7,W 5V/1,5A Micro-USB DOE VI;5,36;1;4,54;5;4,13;20;3,94;50;3,75;100
+871;M5276;HNP24-120L6;HN-Power HNP24 Stecker-SNT 24W;HNP24 Plug-In SPS 24W;Stecker-SNT 24W 12V/2A DOE VI;SPS Plug-in 24W 12V/2A DOE VI;11,17;1;9,45;5;8,59;20;8,2;50;7,81;100
+872;C1831;CR0603K010-1;SMD-Dickschicht-Widerstände 0,1W 1% 0603;SMD Thick Film Resistors 0603 0,1W 1%;SMD-Dickschicht 0603 0,1W 1% 10K Gurt;SMD Resistor 0603 0,1W 1% 10K Taped;7,33;1000;3,66;5000;2,44;10000;2,16;20000;1,88;50000
+873;M5284;HNP06-MINIUSBL6;HN-Power HNP_USB Stecker-SNT;HNP_USB Plug-In SPS;Stecker-SNT 7,5W 5V/1,5A Mini-USB DOE VI;SPS Plug-in 7,5W 5V/1,5A Mini-USB DOE VI;5,36;1;4,54;5;4,13;20;3,94;50;3,75;100
+874;M5272;HNP12-050L6;HN-Power HNP12 Stecker-SNT 12W;HNP12 Plug-In SPS 12W;Stecker-SNT 12W 5V/2,4A DOE VI;SPS Plug-in 12W 5V/2,4A DOE VI;6,07;1;5,13;5;4,66;20;4,45;50;4,24;100
+875;M5228;HNP06I-120L6;HN-Power HNP06I Stecker-SNT 7,5W;HNP06I Plug-In SPS 7,5W;Stecker-SNT 7,5W 12V/0,63A DOE VI;SPS Plug-in 7,5W 12V/0,63A DOE VI;9,14;1;7,74;5;7,04;20;6,72;50;6,4;100
+876;M5283;HNP06I-USBL6;HN-Power HNP_I_ USB Stecker-SNT;HNP_I_ USB Plug-In SPS;Stecker-SNT 7,5W 5V/1,5A USB DOE VI;SPS Plug-in 7,5W 5V/1,5A USB DOE VI;8,28;1;7;5;6,36;20;6,07;50;5,78;100
+877;M5236;HNP12I-120L6;HN-Power HNP12I Stecker-SNT 12W;HNP12I Plug-In SPS 12W;Stecker-SNT 12W 12V/1A DOE VI;SPS Plug-in 12W 12V/1A DOE VI;10,38;1;8,78;5;7,98;20;7,62;50;7,26;100
+878;E2538;DHA-02TQR;SMD-DIP-Schalter IC RM1,27 Serie:DHA;SMD DIP Switches IC Pitch 1,27mm Series:;SMD-DIP/DIL-Schalter IC 2pol.;SMD-DIP/DIL Switch IC 2-pole;112,89;10;84,67;50;70,56;200;63,5;500;56,45;1000
+879;M5272;HNP12-090L6;HN-Power HNP12 Stecker-SNT 12W;HNP12 Plug-In SPS 12W;Stecker-SNT 12W 9V/1,33A DOE VI;SPS Plug-in 12W 9V/1,33A DOE VI;6,07;1;5,13;5;4,66;20;4,45;50;4,24;100
+880;C1865;RL1206E510-1;SMD-Dickschicht-Widerstände 0,25 1% 1206;SMD Thick Film Resistors 0,25W 1% 1206 L;SMD-Dickschicht 1206 1/4W 1% 510R Gurt;SMD Resistor 1206 1/4W 1% 510R Taped;4,49;5000;3,37;10000;2,81;25000;2,58;50000;2,34;99999
+881;E2518;DMR-06-T-V-T/R;SMD-DIP-Schalter IC RM2,54 Serie DMR;SMD DIP Switches IC Pitch 2,54mm Series;SMD-DIP/DIL-Schalter IC 6pol.;SMD-DIP/DIL Switch IC 6-pole;105,61;10;79,2;50;66;200;59,4;500;52,8;1000
+882;M5236;HNP12I-240L6;HN-Power HNP12I Stecker-SNT 12W;HNP12I Plug-In SPS 12W;Stecker-SNT 12W 24V/0,5A DOE VI;SPS Plug-in 12W 24V/0,5A DOE VI;10,38;1;8,78;5;7,98;20;7,62;50;7,26;100
+883;E6342;ALZ52F05;PANASONIC Serie ALZ;PANASONIC Series ALZ;Relais 1xNO 16A 5V 63R;Relay SPST-NO 16A 5V 63R;2,2;10;1,74;50;1,48;100;1,36;200;1,25;500
+884;E6246;ALQ105;Panasonic ALQ Print-Relais;Panasonic ALQ PCB Relays;Relais 1xU 5A 5V 62,5R;Relay SPDT 5A 5V 62,5R;1,03;10;0,81;50;0,69;100;0,63;200;0,58;500
+885;E6368;APF30205;Panasonic Serie APF;Panasonic Series APF;Relais 1xU 6A 5V 147R;Relay SPDT 6A 5V 147R;2,64;10;2,09;50;1,78;100;1,63;200;1,5;500
+886;E6361;DK1A-24V-F;Panasonic Printrelais Serie DK;Panasonic PCB Relay Series DK;Relais 1xNO 10A 24V 2880R;Relay SPST-NO 10A 12V 2880R;6,08;5;4,8;25;4,1;50;3,74;100;3,46;200
+887;E2512;NDS-03V;Serie NDS DIP/DIL-Schalter Standard Rast;Series NDS DIP/DIL-Switch Standard pitch;DIP/DIL-Schalter Standard 3pol.;DIP/DIL Switch Standard 3-Pole;57,88;10;43,41;50;36,18;200;32,56;500;28,94;1000
+888;E6342;ALZ52F12;PANASONIC Serie ALZ;PANASONIC Series ALZ;Relais 1xNO 16A 5V 360R;Relay SPST-NO 16A 5V 360R;2,68;10;2,12;50;1,8;100;1,65;200;1,52;500
+889;E6361;DK1A-5V-F;Panasonic Printrelais Serie DK;Panasonic PCB Relay Series DK;Relais 1xNO 10A 12V 125R;Relay SPST-NO 10A 5V 125R;6,08;5;4,8;25;4,1;50;3,74;100;3,46;200
+890;E6246;ALQ305;Panasonic ALQ Print-Relais;Panasonic ALQ PCB Relays;Relais 1xNO 5A 5V 125R;Relay SPST-NO 5A 5V 125R;1,03;10;0,81;50;0,69;100;0,63;200;0,58;500
+891;M5248;HNP24I-120L6;HN-Power HNP24I Stecker-SNT 24W;HNP24I Plug-In SPS 24W;Stecker-SNT 24W 12V/2A DOE VI;SPS Plug-in 24W 12V/2A DOE VI;14,95;1;12,65;5;11,5;20;10,98;50;10,46;100
+892;E2538;DHA-06TQR;SMD-DIP-Schalter IC RM1,27 Serie:DHA;SMD DIP Switches IC Pitch 1,27mm Series:;SMD-DIP/DIL-Schalter IC 6pol.;SMD-DIP/DIL Switch IC 6-pole;118,32;10;88,74;50;73,95;200;66,56;500;59,16;1000
+893;M5248;HNP24I-240L6;HN-Power HNP24I Stecker-SNT 24W;HNP24I Plug-In SPS 24W;Stecker-SNT 24W 24V/1A DOE VI;SPS Plug-in 24W 24V/1A DOE VI;14,95;1;12,65;5;11,5;20;10,98;50;10,46;100
+894;E6246;ALQ312;Panasonic ALQ Print-Relais;Panasonic ALQ PCB Relays;Relais 1xNO 5A 5V 720R;Relay SPST-NO 5A 5V 720R;0,91;10;0,72;50;0,61;100;0,56;200;0,52;500
+895;E2113;A11131100000;Molveno Wippenschalter 13x19mm Serie A1;Molveno Rocker Switches 13x19mm Series A;Wippenschalter 1xA-E 10A sw/sw;Rocker Switch SPST 10A BK/BK;0,68;10;0,51;50;0,42;200;0,39;500;0,35;1000
+896;E2117;A41831G21000;Molveno Wippenschalter 22x19mm Serie A4;Molveno Rocker Switches 22x19mm Series A;Wippenschalter 2xA-E 10A sw/rt I/O bel.;Rocker Switch DPST 10A BK/RD I/O illumi.;1,94;10;1,45;50;1,21;200;1,11;500;1,01;1000
+897;E6368;APF30212;Panasonic Serie APF;Panasonic Series APF;Relais 1xU 6A 12V 847R;Relay SPDT 6A 12V 847R;2,74;10;2,16;50;1,84;100;1,68;200;1,56;500
+898;E2134;SX8211881E210000;Signal Lux Wippenschalter 11/22x30mm Ser;Signal Lux Rocker Switches 11/22x30mm Se;Wippenschalter 2xA-E 20A sw/gn I/O bel.;Rocker Switch DPST 20A BK/GN I/O illum.;1,69;10;1,27;50;1,06;200;0,97;500;0,88;1000
+899;M5283;HNP06I-MINIUSBL6;HN-Power HNP_I_ USB Stecker-SNT;HNP_I_ USB Plug-In SPS;Stecker-SNT 7,5W 5V/1,5A Mini-USB DOE VI;SPS Plug-in 7,W 5V/1,5A Micro-USB DOE VI;9,14;1;7,74;5;7,04;20;6,72;50;6,4;100
+900;M5228;HNP06I-090L6;HN-Power HNP06I Stecker-SNT 7,5W;HNP06I Plug-In SPS 7,5W;Stecker-SNT 7,5W 9V/0,84A DOE VI;SPS Plug-in 7,5W 9V/0,8A DOE VI;9,14;1;7,74;5;7,04;20;6,72;50;6,4;100
+901;E6368;APF30324;Panasonic Serie APF;Panasonic Series APF;Relais 1xU 6A 24V 3388R;Relay SPDT 6A 24V 3388R;2,96;10;2,34;50;2;100;1,83;200;1,68;500
+902;S7959;MA127000;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;AC Wechseladapter EU Stecker;AC exchange adapter EU plug;1,28;1;1,23;5;1,11;10;1,08;25;1,05;50
+903;S7959;MA127100;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;AC Wechseladapter US Stecker;AC exchange adapter US plug;1,2;1;1,16;5;1,04;10;1,02;25;0,99;50
+904;S7959;MA127200;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;AC Wechseladapter UK Stecker;AC exchange adapter UK plug;1,73;1;1,67;5;1,5;10;1,46;25;1,43;50
+905;S7959;MA127300;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;AC Wechseladapter AUS Stecker;AC exchange adapter AUS plug;1,73;1;1,67;5;1,5;10;1,46;25;1,36;50
+906;S7959;MA131119;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L12/AD5,5/ID2,1mm;DC exchange clip L12/Dy5,5/Di2,1mm;0,83;1;0,8;5;0,72;10;0,7;25;0,68;50
+907;S7959;MA131121;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L9/AD3,8/ID1,3mm;DC exchange clip L9/Dy3,8/Di1,3mm;0,9;1;0,87;5;0,78;10;0,76;25;0,74;50
+908;S7959;MA131122;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L14/AD15/AD26,2/ID1,97mm;DC exch clip L14,5/Dy15/Dy1,97/Di1,97mm;0,83;1;0,8;5;0,72;10;0,7;25;0,68;50
+909;S7959;MA131123;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L14,5/AD3,5mm;DC exchange clip L14,5/Dy3,5 mm;0,83;1;0,8;5;0,72;10;0,7;25;0,68;50
+910;S7959;MA131124;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L11,5/AD2,5mm;DC exchange clip L11,5/Dy2,5mm;0,83;1;0,8;5;0,72;10;0,7;25;0,68;50
+911;S7959;MA131192;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L12/AD5,5/ID2,1mm/90°;DC exchange clip L12/Dy5,5/Di2,1mm;0,83;1;0,8;5;0,72;10;0,7;25;0,68;50
+912;S7959;MA131193;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip L9,5/AD5,5/ID2,45mm;DC exchange clip L9,5/Dy5,5/Di2,45;0,83;1;0,8;5;0,72;10;0,7;25;0,68;50
+913;S7950;MA2240135000;MASCOT 2240 LI Li-Ion Akkulader 1-7 Zell;MASCOT 2240 LI Li-Ion Battery Charger 1-;Li-Ion Lader 3 Zellen 12,6V/1,2A/15,1W;Li-Ion Charger 3 Cells 12,6V/1,2A/15,1W;27,3;1;26,39;5;23,66;10;23,11;25;22,57;50
+914;S7950;MA2240165000;MASCOT 2240 LI Li-Ion Akkulader 1-7 Zell;MASCOT 2240 LI Li-Ion Battery Charger 1-;Li-Ion Lader 4 Zellen 16,8V/0,9A/15,1W;Li-Ion Charger 4 Cells 16,8V/0,9A/15,1W;27,3;1;26,39;5;23,66;10;23,11;25;22,57;50
+915;S7950;MA2240405000;MASCOT 2240 LI Li-Ion Akkulader 1-7 Zell;MASCOT 2240 LI Li-Ion Battery Charger 1-;Li-Ion Lader 1 Zelle 4,2V/1,3A/5,5W;Li-Ion Charger 1 Cell 4,2V/1,3A/5,5W;27,3;1;26,39;5;23,66;10;23,11;25;22,57;50
+916;S7950;MA2240805000;MASCOT 2240 LI Li-Ion Akkulader 1-7 Zell;MASCOT 2240 LI Li-Ion Battery Charger 1-;Li-Ion Lader 2 Zellen 8,4V/1,3A/10,9W;Li-Ion Charger 2 Cells 8,4V/1,3A/10,9W;27,3;1;26,39;5;23,66;10;23,11;25;22,57;50
+917;S7953;MA2440135000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 3 Zellen 12,6V/4A/50,4W;Li-Ion Charger 3 Cells 12,6V/4A/50,4W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+918;S7953;MA2440165000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 4 Zellen 16,8V/3,5A/58,8W;Li-Ion Charger 4 Cells 16,8V/3,5A/58,8W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+919;S7952;MA2541165000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 4 Zellen 16,8V/2A/34W;Li-Ion Charger 4 Cells 16,8V/2A/34W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+920;S7952;MA2541295000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 7 Zellen 29,4V/1,2A/35W;Li-Ion Charger 7 Cells 29,4V/1,2A/35W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+921;S7952;MA2541405000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 1 Zelle 4,2V/2,7A/12W;Li-Ion Charger 1 Cell 4,2V/2,7A/12W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+922;S7952;MA2541425000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 10 Zellen 42V/0,8A/35W;Li-Ion Charger 10 Cells 42V/0,8A/35W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+923;S7952;MA2541805000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 2 Zellen 8,4V/2,7A/23W;Li-Ion Charger 2 Cells 8,4V/2,7A/23W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+924;S7955;MA3546135000;MASCOT 3546 LI Li-Ion Akkulader 2-10 Zel;MASCOT 3546 LI Li-Ion Battery Charger 2-;Li-Ion Lader 3 Zellen 12,6V/2,2/28W;Li-Ion Charger 3 Cells 12,6V/2,2/28W;38,63;1;37,06;5;33,41;10;32,63;25;32,1;50
+925;S7955;MA3546165000;MASCOT 3546 LI Li-Ion Akkulader 2-10 Zel;MASCOT 3546 LI Li-Ion Battery Charger 2-;Li-Ion Lader 4 Zellen 16,8V/1,6A/28W;Li-Ion Charger 4 Cells 16,8V/1,6A/28W;38,63;1;37,06;5;33,41;10;32,63;25;32,1;50
+926;S7955;MA3546295000;MASCOT 3546 LI Li-Ion Akkulader 2-10 Zel;MASCOT 3546 LI Li-Ion Battery Charger 2-;Li-Ion Lader 7 Zellen 29,4V/1A/29W;Li-Ion Charger 7 Cells 29,4V/1A/29W;38,63;1;37,06;5;33,41;10;32,63;25;32,1;50
+927;S7955;MA3546425000;MASCOT 3546 LI Li-Ion Akkulader 2-10 Zel;MASCOT 3546 LI Li-Ion Battery Charger 2-;Li-Ion Lader 10 Zellen 42V/0,7A/29W;Li-Ion Charger 10 Cells 42V/0,7A/29W;38,63;1;37,06;5;33,41;10;32,63;25;32,1;50
+928;S7955;MA3546805000;MASCOT 3546 LI Li-Ion Akkulader 2-10 Zel;MASCOT 3546 LI Li-Ion Battery Charger 2-;Li-Ion Lader 2 Zellen 8,4V/2,5/23W;Li-Ion Charger 2 Cells 8,4V/2,5/23W;38,63;1;37,06;5;33,41;10;32,63;25;32,1;50
+929;S7816;MA3743125000;MASCOT 3743 LA Blei Akkulader;MASCOT 3743 LA Lead Battery Charger;Blei Akkulader 12V/1A/14,7W/5-50Ah;PB Charger 12V/1A/14,7W/5-50Ah;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+930;S7957;MA3743135000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 3 Zellen 12,6V/1,2A/15W;Li-Ion Charger 3 Cells 12,6V/1,2A/15W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+931;S7957;MA3743165000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 4 Zellen 16,8V/1A/16W;Li-Ion Charger 4 Cells 16,8V/1A/16W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+932;S7816;MA3743245000;MASCOT 3743 LA Blei Akkulader;MASCOT 3743 LA Lead Battery Charger;Blei Akkulader 24V/0,56A/16,4W/2,8-28Ah;PB Charger 24V/0,56A/16,4W/2,8-28Ah;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+933;S7959;MA9000000201;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip Pack-2 4 Stk. EIAJ;DC exchange clip Packs-2 4 pcs EIAJ;4,35;1;4,21;5;3,77;10;3,68;25;3,6;50
+934;S7953;MA2440295000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 7 Zellen 29,4V/2A/58,8W;Li-Ion Charger 7 Cells 29,4V/2A/58,8W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+935;S7953;MA2440425000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 10 Zellen 42V/1,4A/58,8W;Li-Ion Charger 10 Cells 42V/1,4A/58,8W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+936;S7953;MA2440505000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 12 Zellen 50,4V/1,2A/60,5W;Li-Ion Charger 12 Cells 50,4V/1,2A/60,5W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+937;S7953;MA2440595000;MASCOT 2440 LI Li-Ion Akkulader 3-14 Zel;MASCOT 2440 LI Li-Ion Battery Charger 3-;Li-Ion Lader 14 Zellen 58,8V/1A/58,8,W;Li-Ion Charger 14 Cells 58,8V/1A/58,8,W;59,25;1;57,28;5;51,35;10;50,17;25;48,98;50
+938;S7952;MA2541135000;MASCOT 2541 LI Li-Ion Akkulader 1-14 Zel;MASCOT 2541 LI Li-Ion Battery Charger 1-;Li-Ion Lader 3 Zellen 12,6V/2,3A/29W;Li-Ion Charger 3 Cells 12,6V/2,3A/29W;42,3;1;40,89;5;36,66;10;35,81;25;34,97;50
+939;S7957;MA3743295000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 7 Zellen 29,4V/0,56A/17W;Li-Ion Charger 7 Cells 29,4V/0,56A/17W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+940;S7957;MA3743405000;MASCOT 3743 LI Li-Ion Akkulader 1-14 Zel;MASCOT 3743 LI Li-Ion Battery Charger 1-;Li-Ion Lader 1 Zelle 4,2V/1,5A/6W;Li-Ion Charger 1 Cell 4,2V/1,5A/6W;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+941;S7959;MA9000000200;MASCOT Zubehör für Akkulader;MASCOT Accessories for Battery Chargers;DC-Wechselclip Pack-1 8 Stk.;DC exchange clip Packs-1 8 pcs;8,85;1;8,56;5;7,67;10;7,49;25;7,32;50
+942;E6221;TQ2-L2-12V;Panasonic TQ Print-Relais;Panasonic TQ PCB Relays;Relais 2xU 1A 12V 720R 2-latching;Relay DPDT 1A 12V 720R 2-latching;2,36;5;1,86;25;1,59;50;1,45;100;1,34;200
+943;E6221;TQ2-L2-24V;Panasonic TQ Print-Relais;Panasonic TQ PCB Relays;Relais 2xU 1A 24V 1920R 2-latching;Relay DPDT 1A 24V 1920R 2-latching;3;5;2,37;25;2,02;50;1,85;100;1,71;200
+944;S7816;MA3743605000;MASCOT 3743 LA Blei Akkulader;MASCOT 3743 LA Lead Battery Charger;Blei Akkulader 6V/1,5A/11W/7,5-75Ah;PB Charger 6V/1,5A/11W/7,5-75Ah;30,93;1;29,68;5;26,75;10;26,12;25;25,71;50
+945;E4213;LS01-1A66-PA-500W;Levelsensoren mit Magnetschwimmer;Level-Sensors;Levelsensor 1xNO 0,5A 10W PA;Level Sensor SPST 0,5A 10W PA;8,22;5;6,58;25;5,48;50;5,32;100;5,17;200
+946;E4213;LS01-1A66-PP-500W;Levelsensoren mit Magnetschwimmer;Level-Sensors;Levelsensor 1xNO 0,5A 10W PP;Level Sensor SPST 0,5A 10W PP;8,22;5;6,58;25;5,48;50;5,32;100;5,17;200
+947;E4213;LS03-1A66-PA-500W;Levelsensoren mit Magnetschwimmer;Level-Sensors;Levelsensor 1xNO 0,5A 10W PA;Level Sensor SPST 0,5A 10W PA;10,04;5;8,04;25;6,7;50;6,51;100;6,32;200
+948;E4480;HE05-1A83-150;Meder Serie HE 65x14,5 NO/NC 3A;Meder Series HE 65x14,5 NO/NC 3A;Reedrelais 1xNO 5V 50R mit Kabel;Reed Relay SPST 5V 50R with Cable;46,47;1;36,84;10;32,02;20;30,05;50;28,09;100
+949;E4480;HE06-1A16;Meder Serie HE 65x14,5 NO/NC 3A;Meder Series HE 65x14,5 NO/NC 3A;Reedrelais 1xNO 6V 120R;Reed Relay SPST 6V 120R;35;1;27,75;10;24,12;20;22,64;50;21,16;100
+950;E4480;HE06-1B83-150;Meder Serie HE 65x14,5 NO/NC 3A;Meder Series HE 65x14,5 NO/NC 3A;Reedrelais 1xNC 6V 120R mit Kabel;Reed Relay SPST-NC 6V 120R with Cable;63,44;1;50,29;10;43,71;20;41,03;50;38,35;100
+951;E4480;HE24-1A69-03;Meder Serie HE 65x14,5 NO/NC 3A;Meder Series HE 65x14,5 NO/NC 3A;Reedrelais 1xNO 24V 465R;Reed Relay SPST 24V 465R;44,07;1;34,94;10;30,37;20;28,5;50;26,64;100
+952;E4480;HE24-1A83;Meder Serie HE 65x14,5 NO/NC 3A;Meder Series HE 65x14,5 NO/NC 3A;Reedrelais 1xNO 24V 1050R;Reed Relay SPST 24V 1050R;45,05;1;35,71;10;31,04;20;29,14;50;27,23;100
+953;E4482;HM12-1A69-20-6;Meder Serie HM 68x19 NO/NC 3A;Meder Series HM 68x19 NO/NC 3A;Reedrelais 1xNO 12V 150R mit Kabel;Reed Relay SPST 12V 150R with Cable;54,21;1;42,97;10;37,35;20;35,06;50;32,77;100
+954;E4482;HM24-1A69-06;Meder Serie HM 68x19 NO/NC 3A;Meder Series HM 68x19 NO/NC 3A;Reedrelais 1xNO 24V 600R;Reed Relay SPST 24V 600R;48,3;1;38,28;10;33,28;20;31,24;50;29,2;100
+955;E4482;HM24-1A83-02;Meder Serie HM 68x19 NO/NC 3A;Meder Series HM 68x19 NO/NC 3A;Reedrelais 1xNO 24V 1000R;Reed Relay SPST 24V 1000R;44,34;1;35,15;10;30,55;20;28,68;50;26,8;100
+956;E4482;HM24-1A83-06;Meder Serie HM 68x19 NO/NC 3A;Meder Series HM 68x19 NO/NC 3A;Reedrelais 1xNO 24V 1000R;Reed Relay SPST 24V 1000R;44,34;1;35,15;10;30,55;20;28,68;50;26,8;100
+957;E4482;HM24-1B69-06;Meder Serie HM 68x19 NO/NC 3A;Meder Series HM 68x19 NO/NC 3A;Reedrelais 1xNC 24V 1000R;Reed Relay SPST-NC 24V 1000R;44,34;1;35,15;10;30,55;20;28,68;50;26,8;100
+958;E4490;H12-1A69;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNO 12V 230R;Reed Relay SPST 12V 230R;54,9;1;43,52;10;37,83;20;35,51;50;33,19;100
+959;E4490;H12-1A83;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNO 12V 230R;Reed Relay SPST 12V 230R;50,34;1;39,9;10;34,68;20;32,56;50;30,43;100
+960;E4490;H12-1B69;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNC 12V 230R;Reed Relay SPST-NC 12V 230R;61,75;1;48,95;10;42,55;20;39,94;50;37,33;100
+961;E4490;H12-1B83;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNC 12V 230R;Reed Relay SPST-NC 12V 230R;54,9;1;43,52;10;37,83;20;35,51;50;33,19;100
+962;E4490;H24-1A69;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNO 24V 700R;Reed Relay SPST 24V 700R;56,05;1;44,43;10;38,62;20;36,25;50;33,89;100
+963;E4490;H24-1A83;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNO 24V 700R;Reed Relay SPST 24V 700R;51,48;1;40,8;10;35,47;20;33,29;50;31,12;100
+964;E4490;H24-1B69;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNC 24V 700R;Reed Relay SPST-NC 24V 700R;62,91;1;49,86;10;43,34;20;40,69;50;38,03;100
+965;E4490;H24-1B83;Meder Serie H NO/NC 3A;Meder Series H NO/NC 3A;Reedrelais 1xNC 24V 700R;Reed Relay SPST-NC 24V 700R;56,05;1;44,43;10;38,62;20;36,25;50;33,89;100
+966;E4412;DIP051A7213L;MEDER DIP/DIL-Reedrelais Serie: DIP 13L,;MEDER DIP/DIL-Reedrelay Series DIP 13L,;DIP/DIL-Reedrelais 1xNO 5V 500R;DIP/DIL Reed Relay SPST 5V 500R;2,29;25;1,83;100;1,53;200;1,48;500;1,44;1000
+967;E4412;DIP241A7213L;MEDER DIP/DIL-Reedrelais Serie: DIP 13L,;MEDER DIP/DIL-Reedrelay Series DIP 13L,;DIP/DIL-Reedrelais 1xNO 24V 2000R;DIP/DIL Reed Relay SPST 24V 2000R;2,65;25;2,12;100;1,77;200;1,72;500;1,67;1000
+968;E4412;DIP241A7213D;MEDER DIP/DIL-Reedrelais Serie: DIP 13L,;MEDER DIP/DIL-Reedrelay Series DIP 13L,;DIP/DIL-Reedrelais 1xNO 24V 2000R Diode;DIP/DIL Reed Relay SPST 24V 2000R Diode;3,39;25;2,71;100;2,26;200;2,19;500;2,13;1000
+969;E4415;DIP242A7221D;Meder DIP-Reedrelais 2xA;Meder DIP Reed Relays DPST;DIP/DIL-Reedrelais 2xNO 24V 2000R Diode;DIP/DIL Reed Relay SPST 24V 2000R Diode;4,61;10;3,69;50;3,07;100;2,99;500;2,9;1000
+970;E4475;LI05-1A85;Meder Serie LI 30x10 NO 1A;Meder Serie LI 30x10 NO 1A;Reedrelais 1xNO 5V 200R;Reed Relay SPST 5V 200R;8,12;1;6,49;10;5,41;25;5,26;50;5,11;100
+971;E4475;LI12-1A85;Meder Serie LI 30x10 NO 1A;Meder Serie LI 30x10 NO 1A;Reedrelais 1xNO 12V 680R;Reed Relay SPST 12V 680R;8,31;1;6,65;10;5,54;25;5,38;50;5,23;100
+972;E4475;LI24-1A85;Meder Serie LI 30x10 NO 1A;Meder Serie LI 30x10 NO 1A;Reedrelais 1xNO 24V 2000R;Reed Relay SPST 24V 2000R;8,84;1;7,07;10;5,9;25;5,73;50;5,56;100
+973;E4211;MK03-1A66B-500W;Reed-Sensoren;Reed Sensors;Reedsensor 1xNO 0,5A 10W 15-20AT Kabel;Reed Sensor SPST 0,5A 10W 15-20AT Cable;3,7;10;2,96;50;2,47;100;2,4;200;2,33;500
+974;E4111;KSK1A46-1015;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xNO 0,5A 10W 10-15AT;Reed Contact SPST 0,5A 10W 10-15AT;1,19;10;0,95;50;0,79;100;0,77;500;0,75;1000
+975;E4111;KSK1A46-1520;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xNO 0,5A 10W 15-20AT;Reed Contact SPST 0,5A 10W 15-20AT;1,19;10;0,95;50;0,79;100;0,77;500;0,75;1000
+976;E4111;KSK1A66-1520;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xNO 0,5A 10W 15-20AT;Reed Contact SPST 0,5A 10W 15-20AT;1,15;10;0,92;50;0,77;100;0,75;500;0,72;1000
+977;E4111;KSK1C90F-2025;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xU 0,5A 10W 20-25AT;Reed Contact SPDT 0,5A 10W 20-25AT;2,73;10;2,19;50;1,82;100;1,77;500;1,72;1000
+978;E4111;KSK1C90U-1015;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xU 0,5A 10W 10-15AT;Reed Contact SPDT 0,5A 10W 10-15AT;2,61;10;2,09;50;1,74;100;1,69;500;1,64;1000
+979;E4111;KSK1C90U-2530;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xU 0,5A 10W 25-30AT;Reed Contact SPDT 0,5A 10W 25-30AT;2,61;10;2,09;50;1,74;100;1,69;500;1,64;1000
+980;E4111;KSK1C90U-3035;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xU 0,5A 10W 30-35AT;Reed Contact SPDT 0,5A 10W 30-35AT;2,61;10;2,09;50;1,74;100;1,69;500;1,64;1000
+981;E4111;KSK1C90U-4045;Reed-Kontakte, Schließer/Umschalter;Reed Contacts;Reedkontakt 1xU 0,5A 10W 40-45AT;Reed Contact SPDT 0,5A 10W 40-45AT;2,61;10;2,09;50;1,74;100;1,69;500;1,64;1000
+982;E4211;MK01-C;Reed-Sensoren;Reed Sensors;Reedsensor 1xNO 0,5A 10W 15-20AT;Reed Sensor SPST 0,5A 1W PC 15-20AT;2,18;10;1,75;50;1,46;100;1,41;200;1,37;500
+983;E4211;MK01-H;Reed-Sensoren;Reed Sensors;Reedsensor 1xU 0,5A 10W 15-20AT;Reed Sensor SPST 0,5A 1W PC 15-20AT;6,66;10;5,33;50;4,44;100;4,31;200;4,19;500
+984;E4211;MK01-I;Reed-Sensoren;Reed Sensors;Reedsensor 1xU 0,5A 10W 20-25AT;Reed Sensor SPST 0,5A 1W PC 15-20AT;6,66;10;5,33;50;4,44;100;4,31;200;4,19;500
+985;E4211;MK06-6-B;Reed-Sensoren;Reed Sensors;Reedsensor 1xNO 0,5A 1W 10-15AT PC;Reed Sensor SPST 0,5A 1W 10-15AT PC;1,77;10;1,42;50;1,18;100;1,15;200;1,11;500
+986;E4211;MK06-6-D;Reed-Sensoren;Reed Sensors;Reedsensor 1xNO 0,5A 1W 20-25AT PC;Reed Sensor SPST 0,5A 1W 20-25AT PC;1,77;10;1,42;50;1,18;100;1,15;200;1,11;500
+987;E4211;MK06-8-B;Reed-Sensoren;Reed Sensors;Reedsensor 1xNO 0,5A 1W 10-15AT PC;Reed Sensor SPST 0,5A 1W 10-15AT PC;1,6;10;1,28;50;1,07;100;1,04;200;1,01;500
+988;E4211;MK06-8-C;Reed-Sensoren;Reed Sensors;Reedsensor 1xNO 0,5A 1W 15-20AT PC;Reed Sensor SPST 0,5A 1W 15-20AT PC;1,72;10;1,38;50;1,15;100;1,11;200;1,08;500
+989;E4211;MK06-8-I;Reed-Sensoren;Reed Sensors;Reedsensor 1xU 0,5A 1W 20-25AT PC;Reed Sensor SPDT 0,5A 1W 20-25AT PC;5,42;10;4,33;50;3,61;100;3,51;200;3,41;500
+990;E4217;MK15-B-2-OE;SMD-Reedsensoren;SMD Reed Sensors;SMD-Reedsensor 1xNO 0,5A 10W 10-15AT;SMD Reed Sensor SPST 0,5A 10W 10-15AT;3,32;10;2,66;50;2,21;100;2,15;500;2,09;1000
+991;E4217;MK15-C-1;SMD-Reedsensoren;SMD Reed Sensors;SMD-Reedsensor 1xNO 0,5A 10W 15-20AT;SMD Reed Sensor SPST 0,5A 10W 15-20AT;1,69;10;1,35;50;1,12;100;1,09;500;1,06;1000
+992;E4217;MK15-F-2;SMD-Reedsensoren;SMD Reed Sensors;SMD-Reedsensor 1xNO 0,5A 10W 30-35AT;SMD Reed Sensor SPST 0,5A 10W 30-35AT;1,69;10;1,35;50;1,12;100;1,09;500;1,06;1000
+993;E4217;MK17-C-3;SMD-Reedsensoren;SMD Reed Sensors;SMD-Reedsensor 1xNO 0,5A 10W 15-20AT;SMD Reed Sensor SPST 0,5A 10W 15-20AT;2,96;10;2,37;50;1,97;100;1,92;500;1,86;1000
+994;E4218;MK23-46-B-2;SMD-Reedsensoren Serie MK23;SMD Reed Sensors Series MK23;SMD-Reedsensor 1xNO 0,5A 10W 10-15AT;SMD Reed Sensor SPST 0,5A 10W 10-15AT;1,39;10;1,11;50;0,93;100;0,9;500;0,88;1000
+995;E4218;MK23-46-C-2;SMD-Reedsensoren Serie MK23;SMD Reed Sensors Series MK23;SMD-Reedsensor 1xNO 0,5A 10W 15-20AT;SMD Reed Sensor SPST 0,5A 10W 15-20AT;1,39;10;1,11;50;0,93;100;0,9;500;0,88;1000
+996;E4218;MK23-46-D-2;SMD-Reedsensoren Serie MK23;SMD Reed Sensors Series MK23;SMD-Reedsensor 1xNO 0,5A 10W 20-25AT;SMD Reed Sensor SPST 0,5A 10W 20-25AT;1,39;10;1,11;50;0,93;100;0,9;500;0,88;1000
+997;E4218;MK23-66-C-2;SMD-Reedsensoren Serie MK23;SMD Reed Sensors Series MK23;SMD-Reedsensor 1xNO 0,5A 10W 15-20AT;SMD Reed Sensor SPST 0,5A 10W 15-20AT;1,2;10;0,96;50;0,8;100;0,78;500;0,76;1000
+998;E4218;MK23-85-D-2;SMD-Reedsensoren Serie MK23;SMD Reed Sensors Series MK23;SMD-Reedsensor 1xNO 1A 100W 20-25AT;SMD Reed Sensor SPST 1A 100W 20-25AT;2,1;10;1,68;50;1,4;100;1,36;500;1,32;1000
+999;E4218;MK23-90-D-2;SMD-Reedsensoren Serie MK23;SMD Reed Sensors Series MK23;SMD-Reedsensor 1xNO 0,5A 10W 20-25AT;SMD Reed Sensor SPST 0,5A 10W 20-25AT;3,32;10;2,66;50;2,21;100;2,15;500;2,09;1000
