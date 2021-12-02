@@ -1,4 +1,6 @@
 <?php
+    set_time_limit(0);
+    
     $file = fopen('test.csv', 'rt');
     $headers = fgetcsv($file);
 
@@ -22,6 +24,17 @@
     $strxml = $document->saveXML();
     $handle = fopen('output.xml', "w");
 
-    fwrite($handle, $strxml);
+    $strs  = explode(PHP_EOL, $strxml);
+    $count = count($strs);
+
+    foreach($strs as $i => $str) {
+        echo "Записано $i строк из $count<br>";
+
+        fwrite($handle, $str . PHP_EOL);
+
+        ob_flush(); 
+        flush();
+    }
+
     fclose($handle);
 ?>
